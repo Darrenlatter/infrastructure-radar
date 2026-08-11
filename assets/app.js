@@ -8,16 +8,27 @@ document.addEventListener("DOMContentLoaded", () => {
     let currentCategory = "All";
 
     // Fetch configuration sources
-    fetch('data/sources.json')
-        .then(res => res.json())
-        .then(data => {
-            setupFilters(data.categories);
-            fetchAllFeeds(data.feeds);
-        })
-        .catch(err => {
-            loading.innerHTML = `<p class="text-red-400">Failed to load configuration sources.</p>`;
-            console.error(err);
-        });
+    //fetch('data/sources.json')
+    //   .then(res => res.json())
+    //    .then(data => {
+    //         setupFilters(data.categories);
+    //        fetchAllFeeds(data.feeds);
+    //   })
+    //  .catch(err => {
+    //      loading.innerHTML = `<p class="text-red-400">Failed to load configuration sources.</p>`;
+    //      console.error(err);
+    //  });
+    fetch('data/news.json')
+    .then(res => res.json())
+    .then(data => {
+        setupFilters(data.categories);
+        allArticles = data.articles.map(art => ({
+            ...art,
+            pubDate: new Date(art.pubDate)
+        }));
+        loading.style.display = "none";
+        renderArticles();
+    })
 
     function setupFilters(categories) {
         filterContainer.innerHTML = "";
