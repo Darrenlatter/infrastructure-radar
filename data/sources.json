@@ -1,0 +1,35 @@
+{
+  "categories": ["All", "Red Hat", "AWS", "Azure", "GCP", "VMware", "Microsoft"],
+  "feeds": [
+    {
+      "name": "Red Hat Enterprise Linux Blog",
+      "category": "Red Hat",
+      "url": "https://www.redhat.com/en/blog/feed"
+    },
+    {
+      "name": "AWS What's New",
+      "category": "AWS",
+      "url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/"
+    },
+    {
+      "name": "Azure Updates",
+      "category": "Azure",
+      "url": "https://azurecomcdn.azureedge.net/en-us/updates/feed/"
+    },
+    {
+      "name": "Google Cloud Blog",
+      "category": "GCP",
+      "url": "https://cloud.google.com/blog/rss"
+    },
+    {
+      "name": "VMware Blogs",
+      "category": "VMware",
+      "url": "https://blogs.vmware.com/feed"
+    },
+    {
+      "name": "Microsoft DevOps & Windows Server",
+      "category": "Microsoft",
+      "url": "https://techcommunity.microsoft.com/t5/s/rss/board?board-id=WindowsServerBlog"
+    }
+  ]
+}
