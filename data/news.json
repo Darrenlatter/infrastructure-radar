@@ -10,6 +10,46 @@
   ],
   "articles": [
     {
+      "title": "LocateAnything-3B, Qwen-AgentWorld-35B-A3B, and Qwen3.5-122B-A10B models now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/locateAnything-3B-qwen-agentworld-35B-A3B-qwen3.5-122B-A10B-on-sagemaker-jumpstart/",
+      "pubDate": "2026-08-11T15:22:00",
+      "description": "<p>NVIDIA's LocateAnything-3B, Qwen's Qwen-AgentWorld-35B-A3B, and Qwen's Qwen3.5-122B-A10B models are now available on Amazon SageMaker JumpStart, ex...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "NVIDIA Nemotron 3.5 Lightning model is now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/nvidia-nemotron-3.5-lightning-on-sagemaker-jumpstart/",
+      "pubDate": "2026-08-11T15:21:00",
+      "description": "<p>NVIDIA's Nemotron 3.5 Lightning is now available on Amazon SageMaker JumpStart, giving AWS customers access to the fastest open model in its class ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Glue adds one-click access to SageMaker Unified Studio from the AWS console",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/smus-glue-access",
+      "pubDate": "2026-08-11T14:57:00",
+      "description": "<p>AWS Glue now provides direct access to Amazon SageMaker Unified Studio, helping data engineers and analysts move from viewing the catalog in the Gl...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Connect Customer launches performance dashboard for Cases",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-dashboard/",
+      "pubDate": "2026-08-11T13:30:00",
+      "description": "<p>Amazon Connect Customer now provides a performance dashboard for cases that helps managers monitor case volume, resolution trends, and performance ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon RDS for MariaDB now supports MariaDB 12.3",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-mariadb-1232-available/",
+      "pubDate": "2026-08-11T08:54:00",
+      "description": "<p>Starting today, Amazon RDS for MariaDB supports MariaDB major version 12.3, the latest Long-Term Support release from the MariaDB community. This r...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "FLUX.2-small-decoder and gemma-4-12B-it models now available on Amazon SageMaker JumpStart",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/flux.2-small-decoder-gemma-4-12B-it-on-sagemaker-jumpstart/",
       "pubDate": "2026-08-10T23:08:00",
@@ -50,44 +90,12 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon EC2 introduces application status checks",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-application-status-checks",
-      "pubDate": "2026-08-10T17:47:00",
-      "description": "<p>Amazon EC2 introduces application status checks, a new status check that helps customers detect and respond to application-level issues on their EC...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon OpenSearch Serverless now supports up to 10,000 collections per collection group",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-serverless-supports-10000-collections-per-collection-group/",
-      "pubDate": "2026-08-10T15:51:00",
-      "description": "<p>The next generation of Amazon OpenSearch Serverless now supports up to 10,000 collections within a single collection group, increased from the prev...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Elastic Disaster Recovery now preserves UEFI boot mode for Linux servers",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-drs-linux-uefi",
-      "pubDate": "2026-08-10T13:00:00",
-      "description": "<p>AWS Elastic Disaster Recovery (AWS DRS) now preserves UEFI boot mode when recovering Linux source servers that boot with UEFI firmware. Previously,...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon EC2 R8i and R8i-Flex instances are now available in Europe (Milan) region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex/",
-      "pubDate": "2026-08-07T21:11:00",
-      "description": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the Europe (Milan) region. These instances ar...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Timestream for InfluxDB now supports backup and restore",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-backup-restore/",
-      "pubDate": "2026-08-07T19:21:00",
-      "description": "<p>Amazon Timestream for InfluxDB now lets you create and manage your own backups and restore your data on demand. You can trigger one-time, on-demand...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "VMware Explore 2026: Top VCF Edge Sessions in Las Vegas",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/11/vmware-explore-2026-top-vcf-edge-sessions-in-las-vegas/",
+      "pubDate": "2026-08-11T14:38:56",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"165\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/VCF-Edge-Explore-S...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Introducing the VMware Bootstrap Registry Appliance: Air-Gapped Harbor Service in VMware Cloud Foundation 9.0",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/load-balancing/2026/08/06/avi-waap-and-ai-assistant/",
       "pubDate": "2026-08-06T13:00:00",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Mythos-Frontier-AI...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "\u5c0e\u5165\u4e8b\u4f8b : TKC\u69d8",
-      "link": "https://blogs.vmware.com/vmware-japan/2026/08/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B-tkc%E6%A7%98.html",
-      "pubDate": "2026-08-06T11:02:19",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Getty-1209882058.j...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
