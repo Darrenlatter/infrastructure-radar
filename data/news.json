@@ -90,6 +90,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Headlamp as a VMware vSphere Kubernetes Service Add-on",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/12/headlamp-as-a-vmware-vsphere-kubernetes-service-add-on/",
+      "pubDate": "2026-08-12T10:04:19",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/headlamp-as-a-VKS-...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
       "title": "VMware Explore 2026: Top VCF Edge Sessions in Las Vegas",
       "link": "https://blogs.vmware.com/cloud-foundation/2026/08/11/vmware-explore-2026-top-vcf-edge-sessions-in-las-vegas/",
       "pubDate": "2026-08-11T14:38:56",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/08/06/securing-your-vmware-cloud-foundation-9-1-environment/",
       "pubDate": "2026-08-06T15:05:37",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/illu-sec-lock-prot...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Your Guide to VCF Sessions for Better Private Cloud Operations at VMware Explore 2026",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/06/your-guide-to-vcf-sessions-for-better-private-cloud-operations-at-vmware-explore-2026/",
-      "pubDate": "2026-08-06T15:00:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/2376048-vmwx24-soc...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
