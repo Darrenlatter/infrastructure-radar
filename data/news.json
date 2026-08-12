@@ -10,6 +10,14 @@
   ],
   "articles": [
     {
+      "title": "Amazon Quick agentic AI capabilities are now available in AWS GovCloud (US-West)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-aws-govcloud-us-west/",
+      "pubDate": "2026-08-11T23:00:00",
+      "description": "<p>Today, AWS announces that Amazon Quick's agentic AI capabilities are now available in AWS GovCloud (US-West), bringing an agentic AI teammate to go...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon EC2 R8a instances are now available in Canada (Central) region",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-instances-canada-central/",
       "pubDate": "2026-08-11T22:03:00",
@@ -82,12 +90,12 @@
       "source": "AWS What's New"
     },
     {
-      "title": "FLUX.2-small-decoder and gemma-4-12B-it models now available on Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/flux.2-small-decoder-gemma-4-12B-it-on-sagemaker-jumpstart/",
-      "pubDate": "2026-08-10T23:08:00",
-      "description": "<p>Black Forest Labs' FLUX.2-small-decoder and Google's gemma-4-12B-it models are now available on Amazon SageMaker JumpStart, expanding the portfolio...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Level Up: Learning and Certification Highlights at VMware Explore 2026",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/12/level-up-learning-and-certification-highlights-at-vmware-explore-2026/",
+      "pubDate": "2026-08-12T16:59:28",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Certifications-at-...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Headlamp as a VMware vSphere Kubernetes Service Add-on",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/08/07/new-workshops-at-vmware-explore-2026-design-architect-and-consume-private-cloud/",
       "pubDate": "2026-08-07T19:14:54",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/vmwx26-display-web...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Securing your VMware Cloud Foundation 9.1 Environment",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/06/securing-your-vmware-cloud-foundation-9-1-environment/",
-      "pubDate": "2026-08-06T15:05:37",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/illu-sec-lock-prot...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
