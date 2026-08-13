@@ -90,6 +90,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "VCF Breakroom Chats Episode 93: From Day-One Deployment to Day-Two Confidence, VMware vSphere Kubernetes Service 3.7 Packs the Punch",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/13/vcf-breakroom-chats-episode-93-from-day-one-deployment-to-day-two-confidence-vmware-vsphere-kubernetes-service-3-7-packs-the-punch/",
+      "pubDate": "2026-08-13T13:00:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Final-Selected-fea...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
       "title": "Hands-on Labs at Explore: The Admin\u2019s Ultimate Playbook",
       "link": "https://blogs.vmware.com/explore/hands-on-labs-overview/",
       "pubDate": "2026-08-12T17:07:00",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/08/07/running-solo-io-enterprise-agentgateway-and-kagent-on-vmware-cloud-foundation/",
       "pubDate": "2026-08-07T19:22:41",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"157\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/05/vcf_private_ai_ser...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Find Your People: The VMware Explore 2026 Community Guide",
-      "link": "https://blogs.vmware.com/explore/communities-at-explore/",
-      "pubDate": "2026-08-07T19:17:24",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/VMware-Explore-Com...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
