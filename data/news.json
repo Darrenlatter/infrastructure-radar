@@ -10,6 +10,14 @@
   ],
   "articles": [
     {
+      "title": "AWS Billing and Cost Management introduces Managed Dashboards",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-billing-and-cost-management-managed-dashboards/",
+      "pubDate": "2026-08-14T02:00:00",
+      "description": "<p>AWS Billing and Cost Management (BCM) Dashboards now include Managed Dashboards. These are a collection of preconfigured and read-only dashboards l...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Client VPN now supports CLI, administration controls, and faster connections",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-client-vpn-cli/",
       "pubDate": "2026-08-13T20:49:00",
@@ -78,14 +86,6 @@
       "link": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-approval-policies-sharing/",
       "pubDate": "2026-08-12T22:22:00",
       "description": "<p>Amazon Quick now offers approval policies, giving administrators governance controls over how assets are shared within their organization. With app...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Quick now supports per-user resource limits",
-      "link": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-per-user-resource-limits/",
-      "pubDate": "2026-08-12T22:17:00",
-      "description": "<p>Amazon Quick now enables administrators to set per-user limits on index storage and agent hours, giving them direct control over subscription costs...",
       "category": "AWS",
       "source": "AWS What's New"
     },
