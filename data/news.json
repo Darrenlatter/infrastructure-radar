@@ -26,6 +26,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Amazon Redshift adds rg.large and rg.12xlarge instance sizes in AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-adds-rg-large-12xlarge-aws-govcloud-regions/",
+      "pubDate": "2026-08-13T19:34:00",
+      "description": "<p>Amazon Redshift now offers rg.large and rg.12xlarge instance sizes for RG instances in the AWS GovCloud (US-West) and AWS GovCloud (US-East) Region...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Claude Opus 5 is now available in AWS GovCloud (US)",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws-govcloud/",
       "pubDate": "2026-08-13T18:23:00",
@@ -82,12 +90,12 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Quick now supports approval policies for sharing",
-      "link": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-approval-policies-sharing/",
-      "pubDate": "2026-08-12T22:22:00",
-      "description": "<p>Amazon Quick now offers approval policies, giving administrators governance controls over how assets are shared within their organization. With app...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Your Certification Awaits at VMware Explore",
+      "link": "https://blogs.vmware.com/explore/certification-exams/",
+      "pubDate": "2026-08-14T12:00:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/AU4A1238.jpg?w=300...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Operationalizing VMware Cloud Foundation Control Plane for\u00a0 Kubernetes Workloads",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/08/10/vmware-explore-2026-learn-to-build-govern-protect-and-optimize-ai-workloads/",
       "pubDate": "2026-08-10T20:08:02",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"300\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/app-icon_1024x1024...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Anatomy of an AI Agent Intrusion: Defending the Attack Chain on Tanzu Platform",
-      "link": "https://blogs.vmware.com/tanzu/anatomy-of-an-ai-agent-intrusion-defending-the-attack-chain-on-tanzu-platform/",
-      "pubDate": "2026-08-10T17:24:52",
-      "description": "<p>TL;DR: AI-powered attackers are compressing the time from vulnerability disclosure to exploitation from weeks to hours. We analyze a real machine-s...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
