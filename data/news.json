@@ -10,6 +10,22 @@
   ],
   "articles": [
     {
+      "title": "Amazon RDS for Oracle now supports Oracle Application Express (APEX) version 26.1",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-apex-26-1/",
+      "pubDate": "2026-08-14T15:00:00",
+      "description": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now supports Oracle Application Express...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon SES click tracking now supports custom URL paths for mobile app deep linking",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-supports-customurl-deeplinking",
+      "pubDate": "2026-08-14T07:00:00",
+      "description": "<p><a href=\"https://aws.amazon.com/ses/\">Amazon Simple Email Service (SES)</a>&nbsp;now makes it easier to support mobile deep linking with the new se...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Billing and Cost Management introduces Managed Dashboards",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-billing-and-cost-management-managed-dashboards/",
       "pubDate": "2026-08-14T02:00:00",
@@ -74,20 +90,20 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon S3 adds additional policy details to access denied error messages",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/s3-additional-policy-details-access-denied-error-messages/",
-      "pubDate": "2026-08-13T13:00:00",
-      "description": "<p>Amazon S3 now includes the specific AWS Identity and Access Management (IAM) and AWS Organizations policy Amazon Resource Name (ARN) in HTTP 403 Ac...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Kubernetes, Container, and VM Services: 50+ Sessions at VMware Explore Tailored for You",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/14/kubernetes-container-and-vm-services-50-sessions-at-vmware-explore-tailored-for-you/",
+      "pubDate": "2026-08-14T19:58:38",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/bc-vmw-illu-app-ku...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
-      "title": "AWS Clean Rooms supports minimum aggregation thresholds in custom analysis rules",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-clean-rooms-minimum-aggregation-custom-analysis-rules",
-      "pubDate": "2026-08-13T12:00:00",
-      "description": "<p>AWS Clean Rooms now supports <a href=\"https://docs.aws.amazon.com/clean-rooms/latest/userguide/analysis-rules-custom.html\" rel=\"noopener noreferrer...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Survive the 2026 Hardware Squeeze: Cost Optimization Sessions at VMware Explore",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/14/survive-the-2026-hardware-squeeze-cost-optimization-sessions-at-vmware-explore/",
+      "pubDate": "2026-08-14T19:08:28",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Getty-2220217551.j...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Your Certification Awaits at VMware Explore",
@@ -150,22 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/08/11/vmware-explore-2026-top-vcf-edge-sessions-in-las-vegas/",
       "pubDate": "2026-08-11T14:38:56",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"165\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/VCF-Edge-Explore-S...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Introducing the VMware Bootstrap Registry Appliance: Air-Gapped Harbor Service in VMware Cloud Foundation 9.0",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/11/vmware-bootstrap-registry-appliance-air-gapped-harbor-deployment/",
-      "pubDate": "2026-08-11T11:35:07",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Introducing-VMware...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "VMware Explore 2026: Learn to Build, Govern, Protect and Optimize AI Workloads",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/10/vmware-explore-2026-learn-to-build-govern-protect-and-optimize-ai-workloads/",
-      "pubDate": "2026-08-10T20:08:02",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"300\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/app-icon_1024x1024...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
