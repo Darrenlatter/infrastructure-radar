@@ -82,12 +82,20 @@
       "source": "AWS What's New"
     },
     {
-      "title": "AWS CloudShell now includes a built-in visual file editor",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-cloudshell-visual-file-editor/",
-      "pubDate": "2026-08-17T13:00:00",
-      "description": "<p>AWS CloudShell now includes a built-in visual file editor that you can launch directly from your shell session using a single 'edit' command, no se...",
+      "title": "AWS Console-to-Code adds 26 services and cross-region recording\u200b",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/console-to-code-adds-26-services",
+      "pubDate": "2026-08-17T15:00:00",
+      "description": "<p>AWS Console-to-Code now supports 26 additional AWS services and introduces cross-region and cross-browser-tab action recording. This expansion grow...",
       "category": "AWS",
       "source": "AWS What's New"
+    },
+    {
+      "title": "IDC White Paper: Self-Service Private Cloud as the Engine for In-House AI and Application Innovation",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/18/idc-white-paper-self-service-private-cloud-as-the-engine-for-in-house-ai-and-application-innovation/",
+      "pubDate": "2026-08-18T12:00:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Getty-1834667704.j...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Community Meetups at Explore 2026 Vegas",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/explore/vcf-at-explore/",
       "pubDate": "2026-08-13T12:00:00",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Hands-On-Labs-Atte...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Hands-on Labs at Explore: The Admin\u2019s Ultimate Playbook",
-      "link": "https://blogs.vmware.com/explore/hands-on-labs-overview/",
-      "pubDate": "2026-08-12T17:07:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/HOL-Command-Center...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
