@@ -10,6 +10,14 @@
   ],
   "articles": [
     {
+      "title": "Amazon Bedrock now supports SpaceXAI Grok 4.6",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-grok-4-6/",
+      "pubDate": "2026-08-19T05:18:00",
+      "description": "<p>Amazon Bedrock now supports&nbsp;SpaceXAI Grok 4.6, SpaceXAI's latest flagship model built for long-running agents and ambitious interactive and vi...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon Bedrock now supports OpenAI models in India",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-openai-india-v1/",
       "pubDate": "2026-08-18T23:30:00",
@@ -78,14 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/postgresql-19-beta-3-amazon-rds-database-preview-environment/",
       "pubDate": "2026-08-18T16:00:00",
       "description": "<p>Starting today, <a href=\"https://aws.amazon.com/rds/postgresql/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon RDS for PostgreSQL</a> 19 Beta 3 ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon WorkSpaces now supports Nested Virtualization",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/nested-virtualization-workspaces/",
-      "pubDate": "2026-08-18T08:00:00",
-      "description": "<p>Amazon WorkSpaces now supports nested virtualization for Amazon WorkSpaces Personal and Amazon WorkSpaces Core Managed Bundles. With nested virtual...",
       "category": "AWS",
       "source": "AWS What's New"
     },
