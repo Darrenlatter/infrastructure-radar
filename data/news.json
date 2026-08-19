@@ -10,6 +10,14 @@
   ],
   "articles": [
     {
+      "title": "Amazon Quick adds deny by default for custom permissions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-deny-by-default/",
+      "pubDate": "2026-08-19T15:36:00",
+      "description": "<p>Amazon Quick custom permissions now include deny by default, a governance setting that automatically restricts new AI capabilities before they reac...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon Bedrock now supports SpaceXAI Grok 4.6",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-grok-4-6/",
       "pubDate": "2026-08-19T05:18:00",
@@ -82,12 +90,28 @@
       "source": "AWS What's New"
     },
     {
-      "title": "PostgreSQL 19 Beta 3 is now available in Amazon RDS Database Preview Environment",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/postgresql-19-beta-3-amazon-rds-database-preview-environment/",
-      "pubDate": "2026-08-18T16:00:00",
-      "description": "<p>Starting today, <a href=\"https://aws.amazon.com/rds/postgresql/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon RDS for PostgreSQL</a> 19 Beta 3 ...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Don\u2019t Miss These VMware Tanzu Sessions at VMware Explore 2026",
+      "link": "https://blogs.vmware.com/tanzu/dont-miss-these-vmware-tanzu-sessions-at-vmware-explore-2026/",
+      "pubDate": "2026-08-19T16:00:00",
+      "description": "<p>At VMware Explore Las Vegas 2026, the Tanzu Division of Broadcom will unveil its latest innovations in deploying AI agents in the enterprise. Join ...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "ESXCLI 9.1.0 GA: Simplified Installation, Modern Python Support, and Enhanced Security",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/19/esxcli-9-1-0-ga-simplified-installation-modern-python-support-and-enhanced-security/",
+      "pubDate": "2026-08-19T13:48:21",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"155\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/dsadsadsadasdasa-e...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "From Infrastructure to Agents: A Hands-on Guide to Secure Private AI with Broadcom \u2013 Part 3",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/19/from-infrastructure-to-agents-a-hands-on-guide-to-secure-private-ai-with-broadcom-part-3/",
+      "pubDate": "2026-08-19T13:06:47",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"169\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/featured.png?w=299...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Putting Numbers Behind Encrypted vMotion Offload to Intel QAT in VMware Cloud Foundation 9.1",
@@ -142,30 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/08/14/survive-the-2026-hardware-squeeze-cost-optimization-sessions-at-vmware-explore/",
       "pubDate": "2026-08-14T19:08:28",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Getty-2220217551.j...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Your Certification Awaits at VMware Explore",
-      "link": "https://blogs.vmware.com/explore/certification-exams/",
-      "pubDate": "2026-08-14T12:00:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/AU4A1238.jpg?w=300...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Operationalizing VMware Cloud Foundation Control Plane for\u00a0 Kubernetes Workloads",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/13/operationalizing-vmware-cloud-foundation-control-plane-for-kubernetes-workloads/",
-      "pubDate": "2026-08-13T14:20:22",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"199\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Getty-1286642964.j...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "VCF Breakroom Chats Episode 93: From Day-One Deployment to Day-Two Confidence, VMware vSphere Kubernetes Service 3.7 Packs the Punch",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/13/vcf-breakroom-chats-episode-93-from-day-one-deployment-to-day-two-confidence-vmware-vsphere-kubernetes-service-3-7-packs-the-punch/",
-      "pubDate": "2026-08-13T13:00:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Final-Selected-fea...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
