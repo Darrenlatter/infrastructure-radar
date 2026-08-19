@@ -90,6 +90,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Putting Numbers Behind Encrypted vMotion Offload to Intel QAT in VMware Cloud Foundation 9.1",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/19/putting-numbers-behind-encrypted-vmotion-offload-to-intel-qat-in-vmware-cloud-foundation-9-1/",
+      "pubDate": "2026-08-19T11:00:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/intel-qat-vsphere-...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
       "title": "IDC White Paper: Self-Service Private Cloud as the Engine for In-House AI and Application Innovation",
       "link": "https://blogs.vmware.com/cloud-foundation/2026/08/18/idc-white-paper-self-service-private-cloud-as-the-engine-for-in-house-ai-and-application-innovation/",
       "pubDate": "2026-08-18T12:00:00",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/08/13/vcf-breakroom-chats-episode-93-from-day-one-deployment-to-day-two-confidence-vmware-vsphere-kubernetes-service-3-7-packs-the-punch/",
       "pubDate": "2026-08-13T13:00:00",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Final-Selected-fea...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Get Ahead of the Curve with VMware Cloud Foundation (VCF)",
-      "link": "https://blogs.vmware.com/explore/vcf-at-explore/",
-      "pubDate": "2026-08-13T12:00:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Hands-On-Labs-Atte...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
