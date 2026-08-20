@@ -10,6 +10,78 @@
   ],
   "articles": [
     {
+      "title": "Launching External Web Access for Web Search on Amazon Bedrock",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web-access-web-search/",
+      "pubDate": "2026-08-19T23:00:00",
+      "description": "<p>Earlier this month, we announced <a href=\"https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web/\" style=\"background-color: rgb(255,...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Web Search in Amazon Bedrock AgentCore adds domain and published date filtering, expands to Europe and Asia Pacific",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/web-search-amazon-bedrock/",
+      "pubDate": "2026-08-19T22:55:00",
+      "description": "<p>Web Search in Amazon Bedrock AgentCore now supports domain filtering and published-date filtering, giving agents per-request control over which web...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon CloudWatch log Centralization now supports log group tag propagation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-centralization-tag-propogation/",
+      "pubDate": "2026-08-19T21:06:00",
+      "description": "<p>Amazon CloudWatch Centralization now copies log group tags from source accounts to the destination log groups created by centralization rules. Clou...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon SageMaker notebooks now support trusted identity propagation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker/",
+      "pubDate": "2026-08-19T20:25:00",
+      "description": "<p>Amazon SageMaker Notebooks now support Trusted Identity Propagation (TIP) with Amazon Athena, Amazon Redshift, and Amazon EMR Serverless, enabling ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Cost Anomaly Detection supports third-party models on Amazon Bedrock",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-cost-anomaly-detection-bedrock-3P/",
+      "pubDate": "2026-08-19T17:57:00",
+      "description": "<p><a href=\"https://aws.amazon.com/aws-cost-management/aws-cost-anomaly-detection/\">AWS Cost Anomaly Detection</a> now monitors spend on third-party f...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon OpenSearch Ingestion is now available in GovCloud Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-ingestion-available-govcloud-regions",
+      "pubDate": "2026-08-19T17:54:00",
+      "description": "<p>Starting today, customers can use Amazon OpenSearch Ingestion in AWS GovCloud (US-East) and AWS GovCloud (US-West), for ingesting data into their A...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Marketplace launches support for Amazon Lightsail",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-launch-ami-amazon-lightsail",
+      "pubDate": "2026-08-19T17:04:00",
+      "description": "<p>Today, AWS Marketplace announces support for launching select Amazon Machine Images (AMIs) on Amazon Lightsail. Customers who want simple, predicta...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS announces a new Availability Zone in the Europe (London) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-new-availability-zone-europe/",
+      "pubDate": "2026-08-19T17:00:00",
+      "description": "<p>AWS has added a fourth Availability Zone to the Europe (London) Region (eu-west-2), expanding infrastructure capacity to meet growing demand for cl...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Lambda MicroVMs is now available in 5 additional AWS regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-5-additional-regions",
+      "pubDate": "2026-08-19T16:14:00",
+      "description": "<p>AWS Lambda MicroVMs is now available in 5 additional AWS Regions: Asia Pacific (Mumbai), Asia Pacific (Singapore), Asia Pacific (Sydney), Europe (F...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon Quick adds deny by default for custom permissions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-deny-by-default/",
       "pubDate": "2026-08-19T15:36:00",
@@ -18,76 +90,20 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Bedrock now supports SpaceXAI Grok 4.6",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-grok-4-6/",
-      "pubDate": "2026-08-19T05:18:00",
-      "description": "<p>Amazon Bedrock now supports&nbsp;SpaceXAI Grok 4.6, SpaceXAI's latest flagship model built for long-running agents and ambitious interactive and vi...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Frontier AI and Security: Your Guide to Top Resources at VMware Explore 2026",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/19/frontier-ai-and-vmware-cloud-foundation-security-top-resources-at-vmware-explore-2026/",
+      "pubDate": "2026-08-19T19:09:36",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/modern-clean-digit...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
-      "title": "Amazon Bedrock now supports OpenAI models in India",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-openai-india-v1/",
-      "pubDate": "2026-08-18T23:30:00",
-      "description": "<p>Amazon Bedrock now supports the OpenAI GPT-5.6 models (Terra and Luna) in India, with India Geo cross-Region inference. Customers with regulatory r...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS IAM identity federation to external services is now available in AWS European Sovereign Cloud Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-european-sovereign-cloud/",
-      "pubDate": "2026-08-18T22:30:00",
-      "description": "<p>AWS Identity and Access Management (IAM) now enables AWS workloads in the AWS European Sovereign Cloud (Germany) Region to securely authenticate wi...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Corretto August 2026 Critical Security Patch Updates",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-corretto-august-2026-security-updates",
-      "pubDate": "2026-08-18T21:48:00",
-      "description": "<p>On Aug 18, 2026, Amazon announced critical security patch update (CSPU) for Amazon Corretto Long-Term Support (LTS) and Feature Release (FR) versio...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AgentCore payments is now generally available in Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-payments-ga/",
-      "pubDate": "2026-08-18T19:15:00",
-      "description": "<p>Today, AWS announces the general availability of AgentCore payments, a capability within Amazon Bedrock AgentCore that enables AI agents to autonom...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon SageMaker Unified Studio now supports data profiling and anomaly detection",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/smus-data-profiling",
-      "pubDate": "2026-08-18T18:49:00",
-      "description": "<p>Amazon SageMaker Unified Studio now supports data profiling and anomaly detection, powered by AWS Glue Data Quality. Data stewards, engineers and a...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon MWAA Serverless now supports PythonOperator and BashOperator",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/mwaa-serverless-pythonoperator-bashoperator/",
-      "pubDate": "2026-08-18T18:00:00",
-      "description": "<p>Amazon Managed Workflows for Apache Airflow (Amazon MWAA) Serverless now supports running custom Python functions and shell scripts directly in the...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon EC2 R8i instances are now available in Israel (Tel Aviv) region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-israel-tel-aviv/",
-      "pubDate": "2026-08-18T17:24:00",
-      "description": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i instances are available in the Israel (Tel Aviv) region. These instances are powered ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "IAM Policy Autopilot now supports Terraform plan files",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/iam-policy-autopilot-now-supports-terraform-plan-files",
-      "pubDate": "2026-08-18T17:19:00",
-      "description": "<p>IAM Policy Autopilot can now generate baseline IAM policies directly from a Terraform plan file. IAM Policy Autopilot is an open source tool, launc...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Choosing the Right Kubernetes Migration Path to VMware vSphere Kubernetes Service",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/19/from-blocker-to-playbook-choosing-the-right-kubernetes-migration-path-to-vmware-vsphere-kubernetes-service/",
+      "pubDate": "2026-08-19T18:09:02",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"192\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Getty-1405983081.j...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Don\u2019t Miss These VMware Tanzu Sessions at VMware Explore 2026",
@@ -150,22 +166,6 @@
       "link": "https://blogs.vmware.com/explore/event-giveaways/",
       "pubDate": "2026-08-17T12:00:00",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"199\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Swag-Backpacks-2.j...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Kubernetes, Container, and VM Services: 50+ Sessions at VMware Explore Tailored for You",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/14/kubernetes-container-and-vm-services-50-sessions-at-vmware-explore-tailored-for-you/",
-      "pubDate": "2026-08-14T19:58:38",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/bc-vmw-illu-app-ku...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Survive the 2026 Hardware Squeeze: Cost Optimization Sessions at VMware Explore",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/14/survive-the-2026-hardware-squeeze-cost-optimization-sessions-at-vmware-explore/",
-      "pubDate": "2026-08-14T19:08:28",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Getty-2220217551.j...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
