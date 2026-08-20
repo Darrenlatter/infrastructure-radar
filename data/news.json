@@ -42,6 +42,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Amazon CloudWatch pipelines adds GeoIP, RDS, and XML processors",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/cloudwatch-geoip-rds-xml/",
+      "pubDate": "2026-08-19T20:13:00",
+      "description": "<p>Amazon CloudWatch pipelines now includes three new processors that parse and enrich log data as it's ingested: an Amazon RDS log parser, an XML par...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Cost Anomaly Detection supports third-party models on Amazon Bedrock",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-cost-anomaly-detection-bedrock-3P/",
       "pubDate": "2026-08-19T17:57:00",
@@ -78,14 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-5-additional-regions",
       "pubDate": "2026-08-19T16:14:00",
       "description": "<p>AWS Lambda MicroVMs is now available in 5 additional AWS Regions: Asia Pacific (Mumbai), Asia Pacific (Singapore), Asia Pacific (Sydney), Europe (F...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Quick adds deny by default for custom permissions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-deny-by-default/",
-      "pubDate": "2026-08-19T15:36:00",
-      "description": "<p>Amazon Quick custom permissions now include deny by default, a governance setting that automatically restricts new AI capabilities before they reac...",
       "category": "AWS",
       "source": "AWS What's New"
     },
