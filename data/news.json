@@ -10,6 +10,30 @@
   ],
   "articles": [
     {
+      "title": "Generative AI Inference Recommendation for Amazon SageMaker now available in the SageMaker AI Studio",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/generative-ai-inference-recommendation-for-amazon-sagemaker-now-available-in-the-sagemaker-ai-studio",
+      "pubDate": "2026-08-20T17:25:00",
+      "description": "<p>Amazon SageMaker AI now offers Generative AI Inference Recommendations in SageMaker AI Studio, giving customers a guided, low-code, no-code path to...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Direct Connect introduces inbound prefix controls and higher prefix scale",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-direct-connect-new-prefix-controls",
+      "pubDate": "2026-08-20T15:00:00",
+      "description": "<p>Today, AWS Direct Connect announced inbound prefix controls, a new capability that lets you allocate and manage inbound route-prefix allocations fo...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Marketplace now supports category-based notifications and multi-channel delivery for partners",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace/",
+      "pubDate": "2026-08-20T00:06:00",
+      "description": "<p>AWS partners can now configure category-based notifications and multi-channel delivery for AWS Marketplace notifications through AWS User Notificat...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Launching External Web Access for Web Search on Amazon Bedrock",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web-access-web-search/",
       "pubDate": "2026-08-19T23:00:00",
@@ -22,6 +46,14 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/web-search-amazon-bedrock/",
       "pubDate": "2026-08-19T22:55:00",
       "description": "<p>Web Search in Amazon Bedrock AgentCore now supports domain filtering and published-date filtering, giving agents per-request control over which web...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon EC2 enables AMI creation with local snapshots from instances on Outposts",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/ec2-create-image-local-snapshot-outpost",
+      "pubDate": "2026-08-19T21:30:00",
+      "description": "<p>Amazon EC2 now supports creating Amazon Machine Images (AMIs) with local snapshots from instances running on AWS Outposts. This capability makes it...",
       "category": "AWS",
       "source": "AWS What's New"
     },
@@ -50,42 +82,10 @@
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Cost Anomaly Detection supports third-party models on Amazon Bedrock",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-cost-anomaly-detection-bedrock-3P/",
-      "pubDate": "2026-08-19T17:57:00",
-      "description": "<p><a href=\"https://aws.amazon.com/aws-cost-management/aws-cost-anomaly-detection/\">AWS Cost Anomaly Detection</a> now monitors spend on third-party f...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon OpenSearch Ingestion is now available in GovCloud Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-ingestion-available-govcloud-regions",
-      "pubDate": "2026-08-19T17:54:00",
-      "description": "<p>Starting today, customers can use Amazon OpenSearch Ingestion in AWS GovCloud (US-East) and AWS GovCloud (US-West), for ingesting data into their A...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Marketplace launches support for Amazon Lightsail",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-launch-ami-amazon-lightsail",
-      "pubDate": "2026-08-19T17:04:00",
-      "description": "<p>Today, AWS Marketplace announces support for launching select Amazon Machine Images (AMIs) on Amazon Lightsail. Customers who want simple, predicta...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS announces a new Availability Zone in the Europe (London) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-new-availability-zone-europe/",
-      "pubDate": "2026-08-19T17:00:00",
-      "description": "<p>AWS has added a fourth Availability Zone to the Europe (London) Region (eu-west-2), expanding infrastructure capacity to meet growing demand for cl...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Lambda MicroVMs is now available in 5 additional AWS regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-5-additional-regions",
-      "pubDate": "2026-08-19T16:14:00",
-      "description": "<p>AWS Lambda MicroVMs is now available in 5 additional AWS Regions: Asia Pacific (Mumbai), Asia Pacific (Singapore), Asia Pacific (Sydney), Europe (F...",
+      "title": "AWS Elemental MediaConnect Router now supports configurable recovery latency modes",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/mediaconnect-router-latency-modes/",
+      "pubDate": "2026-08-19T18:00:00",
+      "description": "<p>AWS Elemental MediaConnect Router now enables customers to configure latency settings, providing control over the internal connection latency betwe...",
       "category": "AWS",
       "source": "AWS What's New"
     },
