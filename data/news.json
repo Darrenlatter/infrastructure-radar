@@ -26,6 +26,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Amazon EC2 C8gd, M8gd and R8gd instances are now available in additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gd-m8gd/",
+      "pubDate": "2026-08-20T20:00:00",
+      "description": "<p>Amazon Elastic Compute Cloud (Amazon EC2) C8gd, M8gd, and R8gd instances with up to 11.4 TB of local NVMe-based SSD block-level storage are now ava...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon EC2 P6-B300 instances are now available in the Asia Pacific (Seoul) Region",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300/",
       "pubDate": "2026-08-20T18:31:00",
@@ -82,12 +90,12 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Redshift introduces long-term system table retention with Amazon S3 Tables integration",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-long-term-system-table-retention/",
-      "pubDate": "2026-08-20T15:00:00",
-      "description": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> now supports long-term retention for system table data through native integration wi...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "See You at The Party!",
+      "link": "https://blogs.vmware.com/explore/see-you-at-the-party/",
+      "pubDate": "2026-08-21T12:00:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/1920x1080.png?w=29...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Let\u2019s Talk Tokenomics at VMware Explore 2026",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/08/18/idc-white-paper-self-service-private-cloud-as-the-engine-for-in-house-ai-and-application-innovation/",
       "pubDate": "2026-08-18T12:00:00",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Getty-1834667704.j...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Community Meetups at Explore 2026 Vegas",
-      "link": "https://blogs.vmware.com/vmtn/2026/08/community-meetups-at-explore-2026-vegas.html",
-      "pubDate": "2026-08-17T23:12:48",
-      "description": "<p>If you will be at Explore 2026 in Vegas this year we have the Community Lounge and Community Theater next to each other. This year we have added ba...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
