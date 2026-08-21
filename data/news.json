@@ -10,6 +10,62 @@
   ],
   "articles": [
     {
+      "title": "AWS announces the general availability of a new AWS Local Zone in Las Vegas, Nevada",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-local-zones-las-vegas-nevada/",
+      "pubDate": "2026-08-20T21:45:00",
+      "description": "<p>AWS Local Zone in Las Vegas, Nevada is now generally available. The new AWS Local Zone supports Amazon Elastic Compute Cloud (Amazon EC2) C7i, M7i,...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Timestream for InfluxDB now supports customer managed keys",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-cmk/",
+      "pubDate": "2026-08-20T20:00:00",
+      "description": "<p>Amazon Timestream for InfluxDB now supports AWS Key Management Service (AWS KMS) customer managed keys for encrypting data at rest in InfluxDB 2 da...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon EC2 P6-B300 instances are now available in the Asia Pacific (Seoul) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300/",
+      "pubDate": "2026-08-20T18:31:00",
+      "description": "<p>Starting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in the Asia Pacific (Seoul) Region. P6-B300 instances pro...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon EKS now supports certificate authority (CA) rotation with automated lifecycle management",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-certificate-authority-ca-rotation-automated-lifecycle-management",
+      "pubDate": "2026-08-20T18:30:00",
+      "description": "<p>Today, Amazon Elastic Kubernetes Service (Amazon EKS) announced certificate authority (CA) rotation, enabling customers to rotate their cluster's C...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon CloudFront now supports Origin Access Control (OAC) for Amazon S3 Multi-Region Access Points",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudfront-oac-s3-mrap",
+      "pubDate": "2026-08-20T18:30:00",
+      "description": "<p>Starting today, customers can protect their origins using Amazon S3 Multi-Region Access Points (MRAP) by using CloudFront Origin Access Control (OA...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Partner Central agents MCP Server now supports OAuth with AWS Sign-In",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/8/aws-partner-central-mcp/",
+      "pubDate": "2026-08-20T18:02:00",
+      "description": "<p>AWS partners can now access AWS Partner Central agents from tools they already use, such as Amazon Quick and Kiro, using OAuth through AWS Sign-In....",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "ARC Region switch adds Amazon RDS Switchover Read Replica execution block",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/region-switch-rds-switchover-execution-block/",
+      "pubDate": "2026-08-20T17:45:00",
+      "description": "<p>Today, we are launching the <b>Amazon RDS Switchover Read Replica execution block</b> in <b>ARC Region switch</b>, which automates recovery orchest...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Generative AI Inference Recommendation for Amazon SageMaker now available in the SageMaker AI Studio",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/generative-ai-inference-recommendation-for-amazon-sagemaker-now-available-in-the-sagemaker-ai-studio",
       "pubDate": "2026-08-20T17:25:00",
@@ -26,68 +82,28 @@
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Marketplace now supports category-based notifications and multi-channel delivery for partners",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace/",
-      "pubDate": "2026-08-20T00:06:00",
-      "description": "<p>AWS partners can now configure category-based notifications and multi-channel delivery for AWS Marketplace notifications through AWS User Notificat...",
+      "title": "Amazon Redshift introduces long-term system table retention with Amazon S3 Tables integration",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-long-term-system-table-retention/",
+      "pubDate": "2026-08-20T15:00:00",
+      "description": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> now supports long-term retention for system table data through native integration wi...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Launching External Web Access for Web Search on Amazon Bedrock",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web-access-web-search/",
-      "pubDate": "2026-08-19T23:00:00",
-      "description": "<p>Earlier this month, we announced <a href=\"https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web/\" style=\"background-color: rgb(255,...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Let\u2019s Talk Tokenomics at VMware Explore 2026",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/20/lets-talk-tokenomics-at-vmware-explore-2026/",
+      "pubDate": "2026-08-20T17:45:57",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Getty-1386532266.j...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
-      "title": "Web Search in Amazon Bedrock AgentCore adds domain and published date filtering, expands to Europe and Asia Pacific",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/web-search-amazon-bedrock/",
-      "pubDate": "2026-08-19T22:55:00",
-      "description": "<p>Web Search in Amazon Bedrock AgentCore now supports domain filtering and published-date filtering, giving agents per-request control over which web...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon EC2 enables AMI creation with local snapshots from instances on Outposts",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/ec2-create-image-local-snapshot-outpost",
-      "pubDate": "2026-08-19T21:30:00",
-      "description": "<p>Amazon EC2 now supports creating Amazon Machine Images (AMIs) with local snapshots from instances running on AWS Outposts. This capability makes it...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon CloudWatch log Centralization now supports log group tag propagation",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-centralization-tag-propogation/",
-      "pubDate": "2026-08-19T21:06:00",
-      "description": "<p>Amazon CloudWatch Centralization now copies log group tags from source accounts to the destination log groups created by centralization rules. Clou...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon SageMaker notebooks now support trusted identity propagation",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker/",
-      "pubDate": "2026-08-19T20:25:00",
-      "description": "<p>Amazon SageMaker Notebooks now support Trusted Identity Propagation (TIP) with Amazon Athena, Amazon Redshift, and Amazon EMR Serverless, enabling ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon CloudWatch pipelines adds GeoIP, RDS, and XML processors",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/cloudwatch-geoip-rds-xml/",
-      "pubDate": "2026-08-19T20:13:00",
-      "description": "<p>Amazon CloudWatch pipelines now includes three new processors that parse and enrich log data as it's ingested: an Amazon RDS log parser, an XML par...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Elemental MediaConnect Router now supports configurable recovery latency modes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/mediaconnect-router-latency-modes/",
-      "pubDate": "2026-08-19T18:00:00",
-      "description": "<p>AWS Elemental MediaConnect Router now enables customers to configure latency settings, providing control over the internal connection latency betwe...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Take Your VCF Upgrade Further: Meet the Hyperscalers at VMware Explore 2026",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/20/take-your-vcf-upgrade-further-meet-the-hyperscalers-at-vmware-explore-2026/",
+      "pubDate": "2026-08-20T17:27:07",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"162\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Getty-1169660398.j...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Frontier AI and Security: Your Guide to Top Resources at VMware Explore 2026",
@@ -150,22 +166,6 @@
       "link": "https://blogs.vmware.com/vmtn/2026/08/community-meetups-at-explore-2026-vegas.html",
       "pubDate": "2026-08-17T23:12:48",
       "description": "<p>If you will be at Explore 2026 in Vegas this year we have the Community Lounge and Community Theater next to each other. This year we have added ba...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Exploring API-Driven Day 2 Operations in VCF 9.1 with Rachel Stephens from RedMonk",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/17/exploring-api-driven-day-2-operations-in-vcf-9-1-with-rachel-stephens-from-redmonk/",
-      "pubDate": "2026-08-17T15:00:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Getty-2172286422.j...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Your Tactical Guide to Giveaways in Las Vegas",
-      "link": "https://blogs.vmware.com/explore/event-giveaways/",
-      "pubDate": "2026-08-17T12:00:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"199\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Swag-Backpacks-2.j...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
