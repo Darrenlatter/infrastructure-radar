@@ -10,6 +10,30 @@
   ],
   "articles": [
     {
+      "title": "Amazon ECS now automatically detects and repairs container instances with impaired agent connectivity",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-agent-connectivity-health",
+      "pubDate": "2026-08-24T22:42:00",
+      "description": "<p><a href=\"https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html\">Amazon Elastic Container Service</a> (Amazon ECS) now&nbsp;autom...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "SageMaker MLflow now supports customer managed keys",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/sagemaker-mlflow-custom-keys",
+      "pubDate": "2026-08-24T19:26:00",
+      "description": "<p>SageMaker MLflow now enables customers to encrypt their data using customer-managed keys (CMK) through AWS Key Management Service (KMS).</p> \n<p>Th...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon EKS now supports multiple external OIDC identity providers per cluster",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-multiple-oidc-providers",
+      "pubDate": "2026-08-24T18:29:00",
+      "description": "<p>Amazon Elastic Kubernetes Service (Amazon EKS) now supports multiple external OpenID Connect (OIDC) identity providers per cluster. You can associa...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon Aurora now supports PostgreSQL 18.4, 17.10, 16.14, 15.18, and 14.23",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-postgresql-18-4-17-10-16-14-15-18-14-23/",
       "pubDate": "2026-08-24T16:00:00",
@@ -22,6 +46,14 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker-hyperpod-ray",
       "pubDate": "2026-08-24T15:00:00",
       "description": "<p>Amazon SageMaker HyperPod now enhances support for Ray with built-in observability, resilient training, accelerated inference and managed developme...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Connect Customer now supports information extraction for agent voice and chat conversations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-information/",
+      "pubDate": "2026-08-24T14:46:00",
+      "description": "<p>Amazon Connect Customer now supports information extraction, which automatically captures key data from voice and chat interactions, reducing manua...",
       "category": "AWS",
       "source": "AWS What's New"
     },
@@ -50,44 +82,28 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Bedrock announces reduced pricing for OpenAI GPT-5.6 Sol",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-openai-gpt-56-sol-reduced-pricing/",
-      "pubDate": "2026-08-21T20:11:00",
-      "description": "<p>Today, OpenAI announced that they are lowering API prices for GPT-5.6 Sol. Following the recent Terra and Luna price reductions, Sol now costs $4 p...",
+      "title": "AWS Neuron 2.32 introduces expanded NKI programming, MXFP8 training kernels, and variable-size collectives for Trn2 and Trn",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-announce-neuron-2-32-0",
+      "pubDate": "2026-08-21T21:11:00",
+      "description": "<p>AWS Neuron 2.32.0 is now available, introducing NKI 0.6.0 with an on-device top-K instruction, a variable-length `all-gather `for kernels whose ran...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Connect Customer now lets managers chat with their data",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-ai-data-analytics",
-      "pubDate": "2026-08-21T20:00:00",
-      "description": "<p>Amazon Connect Customer now lets managers chat with their data in plain language and get back the answer, the evidence behind it, and the fix, in s...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "At VMware Explore 2026: Future-Proofing Enterprise AI with a Flexible Model Strategy",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/24/at-vmware-explore-2026-future-proofing-enterprise-ai-with-a-flexible-model-strategy/",
+      "pubDate": "2026-08-24T22:54:16",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Blog-Graphics.png?...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
-      "title": "AWS Deadline Cloud now tracks automatic download status in the Deadline Cloud Monitor",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-auto-download-status-tracking/",
-      "pubDate": "2026-08-21T18:00:00",
-      "description": "<p>The AWS Deadline Cloud monitor now shows the progress, status, and health of your automatic file downloads from jobs running in the cloud. Deadline...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon EKS Capability for Argo CD now supports custom configuration",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-argo-cd-configuration",
-      "pubDate": "2026-08-21T17:00:00",
-      "description": "<p>The Amazon Elastic Kubernetes Service (Amazon EKS) Capability for Argo CD now supports custom configuration through a standard argocd-cm ConfigMap ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Glue 6.0 delivers 30% price reduction and Iceberg v3 support",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-6-0-price-reduction-iceberg-v3",
-      "pubDate": "2026-08-21T16:42:00",
-      "description": "<p>AWS Glue 6.0 is now generally available, delivering a 30% price reduction and introducing full support for Apache Iceberg v3, newer versions of Apa...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Bridging the IT Chasm: A Strategic Blueprint for Platform Engineering 2.0",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/24/bridging-the-it-chasm-a-strategic-blueprint-for-platform-engineering-2-0/",
+      "pubDate": "2026-08-24T19:33:22",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"165\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/VKS-Logo-Vertical....",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "See You at The Party!",
@@ -150,22 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/08/19/from-infrastructure-to-agents-a-hands-on-guide-to-secure-private-ai-with-broadcom-part-3/",
       "pubDate": "2026-08-19T13:06:47",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"169\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/featured.png?w=299...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Putting Numbers Behind Encrypted vMotion Offload to Intel QAT in VMware Cloud Foundation 9.1",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/19/putting-numbers-behind-encrypted-vmotion-offload-to-intel-qat-in-vmware-cloud-foundation-9-1/",
-      "pubDate": "2026-08-19T11:00:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/intel-qat-vsphere-...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "IDC White Paper: Self-Service Private Cloud as the Engine for In-House AI and Application Innovation",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/18/idc-white-paper-self-service-private-cloud-as-the-engine-for-in-house-ai-and-application-innovation/",
-      "pubDate": "2026-08-18T12:00:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Getty-1834667704.j...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
