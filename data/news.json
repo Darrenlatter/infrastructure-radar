@@ -10,6 +10,14 @@
   ],
   "articles": [
     {
+      "title": "AWS Lambda functions now support full IAM resource-based policies",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-full-iam-resource-based-policies/",
+      "pubDate": "2026-08-25T02:00:00",
+      "description": "<p>AWS Lambda functions now support full Identity and Access Management (IAM) <a href=\"https://docs.aws.amazon.com/IAM/latest/UserGuide/access_control...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon ECS now automatically detects and repairs container instances with impaired agent connectivity",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-agent-connectivity-health",
       "pubDate": "2026-08-24T22:42:00",
@@ -78,14 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-mysql-8411-available/",
       "pubDate": "2026-08-24T08:41:00",
       "description": "<p>Starting today, <a href=\"https://aws.amazon.com/rds/mysql/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RD...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Neuron 2.32 introduces expanded NKI programming, MXFP8 training kernels, and variable-size collectives for Trn2 and Trn",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-announce-neuron-2-32-0",
-      "pubDate": "2026-08-21T21:11:00",
-      "description": "<p>AWS Neuron 2.32.0 is now available, introducing NKI 0.6.0 with an on-device top-K instruction, a variable-length `all-gather `for kernels whose ran...",
       "category": "AWS",
       "source": "AWS What's New"
     },
