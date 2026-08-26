@@ -74,18 +74,18 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon RDS now supports the latest CU for Microsoft SQL Server",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-supports-latest-cu-microsoft-sql-server/",
-      "pubDate": "2026-08-25T07:30:00",
-      "description": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server </a>now supports the...",
+      "title": "Amazon EC2 M8i and M8i-flex instances are now available in Canada West (Calgary) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/ec2-m8i-m8i-flex-canada-west/",
+      "pubDate": "2026-08-25T13:00:00",
+      "description": "<p>Starting today, Amazon EC2 M8i and M8i-flex instances are now available in Canada West (Calgary) region. These instances are powered by custom Inte...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon RDS for Oracle now supports July 2026 Release Update",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-july-2026-release-update",
-      "pubDate": "2026-08-25T07:24:00",
-      "description": "<p><a href=\"https://aws.amazon.com/rds/oracle/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now supports the <a hre...",
+      "title": "Amazon RDS now supports the latest CU for Microsoft SQL Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-supports-latest-cu-microsoft-sql-server/",
+      "pubDate": "2026-08-25T07:30:00",
+      "description": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server </a>now supports the...",
       "category": "AWS",
       "source": "AWS What's New"
     },
