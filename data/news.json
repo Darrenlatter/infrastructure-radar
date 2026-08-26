@@ -10,6 +10,22 @@
   ],
   "articles": [
     {
+      "title": "Amazon EC2 R8id instances are now available in additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8id/",
+      "pubDate": "2026-08-25T20:00:00",
+      "description": "<p>Amazon Elastic Compute Cloud (Amazon EC2) R8id instances are now available in additional regions. R8id instances are now available in Asia Pacific ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon EC2 C8id and M8id instances are now available in additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8id-m8id-aws-regions/",
+      "pubDate": "2026-08-25T20:00:00",
+      "description": "<p>Amazon Elastic Compute Cloud (Amazon EC2) C8id and M8id instances with up to 22.8 TB of local NVMe-based SSD block-level storage are now available ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS IoT Core now supports native InfluxDB routing for time-series data",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iot-core-influxdb/",
       "pubDate": "2026-08-25T19:42:00",
@@ -74,20 +90,28 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon EC2 M8i and M8i-flex instances are now available in Canada West (Calgary) region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/ec2-m8i-m8i-flex-canada-west/",
-      "pubDate": "2026-08-25T13:00:00",
-      "description": "<p>Starting today, Amazon EC2 M8i and M8i-flex instances are now available in Canada West (Calgary) region. These instances are powered by custom Inte...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Automate DBaaS Operations on VCF with Agentic AI",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/26/automate-dbaas-operations-on-vcf-with-agentic-ai/",
+      "pubDate": "2026-08-26T18:41:35",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"167\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Picture3.jpg?w=300...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
-      "title": "Amazon RDS now supports the latest CU for Microsoft SQL Server",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-supports-latest-cu-microsoft-sql-server/",
-      "pubDate": "2026-08-25T07:30:00",
-      "description": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server </a>now supports the...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Protecting Data Where It\u2019s Most Vulnerable: How Broadcom and Intel Are Making Confidential Computing Real",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/26/protecting-data-where-its-most-vulnerable-how-broadcom-and-intel-are-making-confidential-computing-real/",
+      "pubDate": "2026-08-26T18:13:13",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/intel-broadcom-blo...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "Know Before You Go ~ Watch the Welcome Session ~",
+      "link": "https://blogs.vmware.com/explore/watch-the-online-welcome-session/",
+      "pubDate": "2026-08-26T12:00:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"169\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/KBYG-Welcome-Sessi...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "At VMware Explore 2026: Future-Proofing Enterprise AI with a Flexible Model Strategy",
@@ -142,30 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/08/19/from-blocker-to-playbook-choosing-the-right-kubernetes-migration-path-to-vmware-vsphere-kubernetes-service/",
       "pubDate": "2026-08-19T18:09:02",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"192\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Getty-1405983081.j...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Don\u2019t Miss These VMware Tanzu Sessions at VMware Explore 2026",
-      "link": "https://blogs.vmware.com/tanzu/dont-miss-these-vmware-tanzu-sessions-at-vmware-explore-2026/",
-      "pubDate": "2026-08-19T16:00:00",
-      "description": "<p>At VMware Explore Las Vegas 2026, the Tanzu Division of Broadcom will unveil its latest innovations in deploying AI agents in the enterprise. Join ...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "ESXCLI 9.1.0 GA: Simplified Installation, Modern Python Support, and Enhanced Security",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/19/esxcli-9-1-0-ga-simplified-installation-modern-python-support-and-enhanced-security/",
-      "pubDate": "2026-08-19T13:48:21",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"155\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/dsadsadsadasdasa-e...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "From Infrastructure to Agents: A Hands-on Guide to Secure Private AI with Broadcom \u2013 Part 3",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/19/from-infrastructure-to-agents-a-hands-on-guide-to-secure-private-ai-with-broadcom-part-3/",
-      "pubDate": "2026-08-19T13:06:47",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"169\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/featured.png?w=299...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
