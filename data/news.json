@@ -10,6 +10,54 @@
   ],
   "articles": [
     {
+      "title": "Amazon Redshift integrates with Agent Toolkit for AWS for AI-assisted data warehouse management",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-agenttoolkit-for-ai-assisted-datawarehouse-mgmt",
+      "pubDate": "2026-08-27T20:07:00",
+      "description": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> now integrates with the <a href=\"https://aws.amazon.com/products/developer-tools/age...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon EC2 X8i instances are now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-x8i-europe-milan-spain/",
+      "pubDate": "2026-08-27T18:40:00",
+      "description": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8i instances are available in the Europe (Milan) and Europe (Spain) regions. These insta...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Elastic Disaster Recovery introduces Recovery Plans for orchestrated application recovery",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/elastic-disaster-recovery-plans/",
+      "pubDate": "2026-08-27T18:00:00",
+      "description": "<p>AWS Elastic Disaster Recovery (AWS DRS) now offers Recovery Plans, a capability that automates the sequential launch of multi-server applications d...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Connect Customer expands conversational analytics capabilities in the Africa (Cape Town) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/connect-customer-analytics-cape-town/",
+      "pubDate": "2026-08-27T18:00:00",
+      "description": "<p>Amazon Connect Customer now supports generative AI-powered summaries, real-time call analytics, and real-time rules in the Africa (Cape Town) Regio...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Connect Customer now automatically refreshes scheduling metrics",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-scheduling-metrics/",
+      "pubDate": "2026-08-27T17:59:00",
+      "description": "<p>Amazon Connect Customer now automatically refreshes schedule metrics on the scheduling page, giving managers immediate visibility into the impact o...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon FSx for NetApp ONTAP now supports copying backups across AWS Regions and accounts",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/fsx-ontap-cross-region-backup-copy/",
+      "pubDate": "2026-08-27T17:37:00",
+      "description": "<p>Amazon FSx for NetApp ONTAP, a fully managed shared storage service built on NetApp's popular ONTAP file system, now supports copying backups withi...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon Cognito adds admin API operation to reset user TOTP configurations",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-totp-reset/",
       "pubDate": "2026-08-26T22:00:00",
@@ -42,52 +90,20 @@
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Glue 5.1 is now available in AWS European Sovereign Cloud Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-5-1-european-sovereign-cloud",
-      "pubDate": "2026-08-26T16:26:00",
-      "description": "<p>AWS Glue 5.1 is now available in the AWS European Sovereign Cloud Region.<br /> <br /> <a href=\"https://aws.amazon.com/glue/\">AWS Glue</a> is a ser...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Securing the Memory Layer: How Broadcom and AMD Are Bringing Confidential Computing to the Enterprise",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/27/securing-the-memory-layer-how-broadcom-and-amd-are-bringing-confidential-computing-to-the-enterprise/",
+      "pubDate": "2026-08-27T15:00:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/amd-broadcom-blog....",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
-      "title": "AWS Backup adds cross-Region backup copy and logically air-gapped vault support for Amazon DocumentDB in nine additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-cross-region-air-gapped-docdb/",
-      "pubDate": "2026-08-26T10:00:00",
-      "description": "<p>AWS Backup now supports copying Amazon DocumentDB backups across AWS Regions and storing them in logically air-gapped vaults in nine additional AWS...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon EC2 R8id instances are now available in additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8id/",
-      "pubDate": "2026-08-25T20:00:00",
-      "description": "<p>Amazon Elastic Compute Cloud (Amazon EC2) R8id instances are now available in additional regions. R8id instances are now available in Asia Pacific ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon EC2 C8id and M8id instances are now available in additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8id-m8id-aws-regions/",
-      "pubDate": "2026-08-25T20:00:00",
-      "description": "<p>Amazon Elastic Compute Cloud (Amazon EC2) C8id and M8id instances with up to 22.8 TB of local NVMe-based SSD block-level storage are now available ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS IoT Core now supports native InfluxDB routing for time-series data",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iot-core-influxdb/",
-      "pubDate": "2026-08-25T19:42:00",
-      "description": "<p><a href=\"https://aws.amazon.com/iot-core/\">AWS IoT Core</a> now supports <a href=\"https://docs.aws.amazon.com/iot/latest/developerguide/influxdb-ru...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Batch now supports Amazon ECS Managed Instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-batch-on-ecs-managed-instances/",
-      "pubDate": "2026-08-25T19:36:00",
-      "description": "<p>AWS Batch now supports Amazon ECS Managed Instances (ECS MI) as a new compute option, enabling you to run GPU-accelerated and compute-intensive bat...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "VMware Cloud Foundation Achieves NVIDIA Certification: AI Workload Performance Validated to Operate at Near Bare Metal Performance",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/27/vcf-achieves-nvidia-hypervisor_certification/",
+      "pubDate": "2026-08-27T13:30:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/2210709-vmwx23-art...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Unlocking Developer Velocity: The Code-to-URL Revolution",
@@ -150,22 +166,6 @@
       "link": "https://blogs.vmware.com/explore/see-you-at-the-party/",
       "pubDate": "2026-08-21T12:00:00",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/1920x1080.png?w=29...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Let\u2019s Talk Tokenomics at VMware Explore 2026",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/20/lets-talk-tokenomics-at-vmware-explore-2026/",
-      "pubDate": "2026-08-20T17:45:57",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Getty-1386532266.j...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Take Your VCF Upgrade Further: Meet the Hyperscalers at VMware Explore 2026",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/20/take-your-vcf-upgrade-further-meet-the-hyperscalers-at-vmware-explore-2026/",
-      "pubDate": "2026-08-20T17:27:07",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"162\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Getty-1169660398.j...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
