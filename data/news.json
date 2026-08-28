@@ -10,6 +10,46 @@
   ],
   "articles": [
     {
+      "title": "AWS Transform now in scope for FedRAMP Class C",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-fedramp-class-c/",
+      "pubDate": "2026-08-28T19:45:00",
+      "description": "<p>AWS Transform is now in scope for FedRAMP Class C (formerly Moderate baseline) in the US East (Ohio) Region. You can now use AWS Transform to build...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon EC2 P6-B300 instances are now available in additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300-instances-available-additional-regions",
+      "pubDate": "2026-08-28T17:34:00",
+      "description": "<p>Starting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in Asia Pacific (Hyderabad) and South America (Sao Paulo)...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Aurora MySQL 3.13 (compatible with MySQL 8.0.45) is generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-mysql-313-available/",
+      "pubDate": "2026-08-28T16:00:00",
+      "description": "<p>Starting today, Amazon Aurora MySQL-Compatible Edition 3 (compatible with MySQL 8.0) supports MySQL 8.0.45, which includes community MySQL fixes an...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon CloudWatch agent adds support for journald logs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-agent-journald/",
+      "pubDate": "2026-08-28T16:00:00",
+      "description": "<p>AWS announces support for collecting systemd journal (journald) logs with the Amazon CloudWatch agent. You can now configure the CloudWatch agent t...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "SpaceXAI Grok 4.6 now available on Amazon Bedrock in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/spacexai-grok-4-6-govcloud/",
+      "pubDate": "2026-08-28T13:17:00",
+      "description": "<p>Amazon Bedrock in AWS GovCloud (US) now supports SpaceXAI Grok 4.6, a frontier model built for coding, agentic tasks, and knowledge work. Grok 4.6 ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Cosmos3-Edge, Cosmos3-Nano, and Cosmos3-Super models now available on Amazon SageMaker JumpStart",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/cosmos3-edge-cosmos3-nano-cosmos3-super-on-sagemaker-jumpstart/",
       "pubDate": "2026-08-27T22:41:00",
@@ -46,46 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-x8i-europe-milan-spain/",
       "pubDate": "2026-08-27T18:40:00",
       "description": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8i instances are available in the Europe (Milan) and Europe (Spain) regions. These insta...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Elastic Disaster Recovery introduces Recovery Plans for orchestrated application recovery",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/elastic-disaster-recovery-plans/",
-      "pubDate": "2026-08-27T18:00:00",
-      "description": "<p>AWS Elastic Disaster Recovery (AWS DRS) now offers Recovery Plans, a capability that automates the sequential launch of multi-server applications d...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Bedrock AgentCore expands to two new regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-two-new-regions/",
-      "pubDate": "2026-08-27T18:00:00",
-      "description": "<p>Amazon Bedrock AgentCore is now available in two additional AWS Regions: US West (N. California) and Asia Pacific (Hyderabad). Amazon Bedrock Agent...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Connect Customer expands conversational analytics capabilities in the Africa (Cape Town) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/connect-customer-analytics-cape-town/",
-      "pubDate": "2026-08-27T18:00:00",
-      "description": "<p>Amazon Connect Customer now supports generative AI-powered summaries, real-time call analytics, and real-time rules in the Africa (Cape Town) Regio...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Connect Customer now automatically refreshes scheduling metrics",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-scheduling-metrics/",
-      "pubDate": "2026-08-27T17:59:00",
-      "description": "<p>Amazon Connect Customer now automatically refreshes schedule metrics on the scheduling page, giving managers immediate visibility into the impact o...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon FSx for NetApp ONTAP now supports copying backups across AWS Regions and accounts",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/fsx-ontap-cross-region-backup-copy/",
-      "pubDate": "2026-08-27T17:37:00",
-      "description": "<p>Amazon FSx for NetApp ONTAP, a fully managed shared storage service built on NetApp's popular ONTAP file system, now supports copying backups withi...",
       "category": "AWS",
       "source": "AWS What's New"
     },
