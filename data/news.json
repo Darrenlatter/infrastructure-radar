@@ -10,6 +10,30 @@
   ],
   "articles": [
     {
+      "title": "Cosmos3-Edge, Cosmos3-Nano, and Cosmos3-Super models now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/cosmos3-edge-cosmos3-nano-cosmos3-super-on-sagemaker-jumpstart/",
+      "pubDate": "2026-08-27T22:41:00",
+      "description": "<p>NVIDIA's Cosmos3-Edge, Cosmos3-Nano, and Cosmos3-Super models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundatio...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Muse-Glimmer-30B and Qwen 3.8-27B models now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/muse-glimmer-30b-qwen-3.8-27b-on-sagemaker-jumpstart/",
+      "pubDate": "2026-08-27T22:39:00",
+      "description": "<p>Meta's Muse-Glimmer-30B and Alibaba's Qwen 3.8-27B models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation mo...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Redshift streaming can now ingest 10MiB records from Amazon Kinesis Data Streams",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-streaming-supports-kds-10mib-records",
+      "pubDate": "2026-08-27T21:41:00",
+      "description": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift </a>&nbsp;now supports Amazon Kinesis Data Streams (KDS) record sizes up to 10 MiB\u2014a 10x...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon Redshift integrates with Agent Toolkit for AWS for AI-assisted data warehouse management",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-agenttoolkit-for-ai-assisted-datawarehouse-mgmt",
       "pubDate": "2026-08-27T20:07:00",
@@ -34,6 +58,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Amazon Bedrock AgentCore expands to two new regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-two-new-regions/",
+      "pubDate": "2026-08-27T18:00:00",
+      "description": "<p>Amazon Bedrock AgentCore is now available in two additional AWS Regions: US West (N. California) and Asia Pacific (Hyderabad). Amazon Bedrock Agent...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon Connect Customer expands conversational analytics capabilities in the Africa (Cape Town) Region",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/connect-customer-analytics-cape-town/",
       "pubDate": "2026-08-27T18:00:00",
@@ -54,38 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/fsx-ontap-cross-region-backup-copy/",
       "pubDate": "2026-08-27T17:37:00",
       "description": "<p>Amazon FSx for NetApp ONTAP, a fully managed shared storage service built on NetApp's popular ONTAP file system, now supports copying backups withi...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Cognito adds admin API operation to reset user TOTP configurations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-totp-reset/",
-      "pubDate": "2026-08-26T22:00:00",
-      "description": "<p>Amazon Cognito now provides a new admin API operation to reset a user's time-based one-time Password (TOTP) multi-factor authentication (MFA) confi...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Connect Customer now supports unplanned shrinkage in agent schedules",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-unplanned-shrinkage/",
-      "pubDate": "2026-08-26T20:16:00",
-      "description": "<p>Amazon Connect Customer now enables managers to input unplanned shrinkage in agent schedules, providing a more accurate picture of staffing due to ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Mountpoint for Amazon S3 adds memory usage controls",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/mountpoint-for-S3-adds-memory-usage-controls",
-      "pubDate": "2026-08-26T18:00:00",
-      "description": "<p>Mountpoint for Amazon S3 can now limit memory usage, either automatically based on the environment it runs in or with a limit that you define. This...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Connect Customer now supports points-based scoring in performance evaluations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-points-based-scoring-evaluations/",
-      "pubDate": "2026-08-26T17:00:00",
-      "description": "<p>Amazon Connect Customer now supports points-based scoring to evaluate human and AI agent performance, giving managers more flexibility in configuri...",
       "category": "AWS",
       "source": "AWS What's New"
     },
