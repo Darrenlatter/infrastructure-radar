@@ -50,18 +50,18 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon CloudWatch agent adds support for journald logs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-agent-journald/",
-      "pubDate": "2026-08-28T16:00:00",
-      "description": "<p>AWS announces support for collecting systemd journal (journald) logs with the Amazon CloudWatch agent. You can now configure the CloudWatch agent t...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
       "title": "Amazon Aurora MySQL 3.13 (compatible with MySQL 8.0.45) is generally available",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-mysql-313-available/",
       "pubDate": "2026-08-28T16:00:00",
       "description": "<p>Starting today, Amazon Aurora MySQL-Compatible Edition 3 (compatible with MySQL 8.0) supports MySQL 8.0.45, which includes community MySQL fixes an...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon CloudWatch agent adds support for journald logs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-agent-journald/",
+      "pubDate": "2026-08-28T16:00:00",
+      "description": "<p>AWS announces support for collecting systemd journal (journald) logs with the Amazon CloudWatch agent. You can now configure the CloudWatch agent t...",
       "category": "AWS",
       "source": "AWS What's New"
     },
