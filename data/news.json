@@ -10,84 +10,140 @@
   ],
   "articles": [
     {
-      "title": "Amazon EC2 C8gn instances are now available in AWS Europe (Paris) region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gn-europe-paris/",
-      "pubDate": "2026-08-28T22:00:00",
-      "description": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gn instances, powered by the latest-generation AWS Graviton4 processors, are available ...",
+      "title": "Amazon Redshift now supports AWS IAM Identity Center authentication with enhanced VPC routing",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-idc-evr",
+      "pubDate": "2026-08-31T21:02:00",
+      "description": "<p>Amazon Redshift now supports AWS IAM Identity Center authentication for provisioned clusters and serverless workgroups configured with enhanced VPC...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Bedrock AgentCore Memory now supports fine-grained access control",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-fine-grained-access-control",
-      "pubDate": "2026-08-28T20:00:00",
-      "description": "<p>Amazon Bedrock AgentCore Memory now supports fine-grained access control (FGAC), enabling you to enforce per-user and per-tenant memory isolation t...",
+      "title": "Amazon Timestream for InfluxDB is now available in 8 additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-regions/",
+      "pubDate": "2026-08-31T19:48:00",
+      "description": "<p>You can now use Amazon Timestream for InfluxDB in the Africa (Cape Town), Asia Pacific (Bangkok), Asia Pacific (Hong Kong), Asia Pacific (Hyderabad...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Bedrock AgentCore Memory now supports flexible namespace variables",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-flexible-namespaces",
-      "pubDate": "2026-08-28T20:00:00",
-      "description": "<p>Amazon Bedrock AgentCore Memory now lets developers define flexible namespace variables to scope long-term memories along any application-specific ...",
+      "title": "Amazon Redshift now supports Apache Iceberg v3 tables",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-apache-iceberg-v3",
+      "pubDate": "2026-08-31T18:10:00",
+      "description": "<p>Amazon Redshift now supports reading from and writing to Apache Iceberg v3 tables in your data lake. Apache Iceberg is an open table format, and it...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Transform now in scope for FedRAMP Class C",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-fedramp-class-c/",
-      "pubDate": "2026-08-28T19:45:00",
-      "description": "<p>AWS Transform is now in scope for FedRAMP Class C (formerly Moderate baseline) in the US East (Ohio) Region. You can now use AWS Transform to build...",
+      "title": "Amazon EC2 R9g and R9gd memory optimized instances are now available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+      "pubDate": "2026-08-31T18:08:00",
+      "description": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R9g and R9gd instances, powered by AWS Graviton5 processors, are generally available. AWS...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon EC2 P6-B300 instances are now available in additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300-instances-available-additional-regions",
-      "pubDate": "2026-08-28T17:34:00",
-      "description": "<p>Starting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in Asia Pacific (Hyderabad) and South America (Sao Paulo)...",
+      "title": "Amazon Cognito now supports machine-to-machine authorization without a user pool domain",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-get-client-token/",
+      "pubDate": "2026-08-31T18:00:00",
+      "description": "<p>Amazon Cognito now supports the GetClientToken API operation, enabling app clients to obtain access tokens for machine-to-machine (M2M) authorizati...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon CloudWatch agent adds support for journald logs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-agent-journald/",
-      "pubDate": "2026-08-28T16:00:00",
-      "description": "<p>AWS announces support for collecting systemd journal (journald) logs with the Amazon CloudWatch agent. You can now configure the CloudWatch agent t...",
+      "title": "AWS Lambda recursive loop detection is now available in all commercial AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-recursion-regions",
+      "pubDate": "2026-08-31T17:30:00",
+      "description": "<p>AWS Lambda <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/invocation-recursion.html\">recursive loop detection</a> has expanded support to al...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Aurora MySQL 3.13 (compatible with MySQL 8.0.45) is generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-mysql-313-available/",
-      "pubDate": "2026-08-28T16:00:00",
-      "description": "<p>Starting today, Amazon Aurora MySQL-Compatible Edition 3 (compatible with MySQL 8.0) supports MySQL 8.0.45, which includes community MySQL fixes an...",
+      "title": "Amazon Aurora serverless is now available with 30% better performance and smarter scaling in additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-serverless-performance-improvement-additional-regions/",
+      "pubDate": "2026-08-31T16:46:00",
+      "description": "<p><a href=\"https://aws.amazon.com/rds/aurora/serverless/\">Amazon Aurora serverless</a>&nbsp; now delivers up to 30% better performance and enhanced s...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "SpaceXAI Grok 4.6 now available on Amazon Bedrock in AWS GovCloud (US)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/spacexai-grok-4-6-govcloud/",
-      "pubDate": "2026-08-28T13:17:00",
-      "description": "<p>Amazon Bedrock in AWS GovCloud (US) now supports SpaceXAI Grok 4.6, a frontier model built for coding, agentic tasks, and knowledge work. Grok 4.6 ...",
+      "title": "Amazon OpenSearch Service adds new Cluster Insights for faster diagnosis of cluster status",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-cluster-status-insight/",
+      "pubDate": "2026-08-31T15:41:00",
+      "description": "<p><a href=\"https://aws.amazon.com/opensearch-service/\">Amazon OpenSearch Service</a> has expanded Cluster Insights with 17 new insights that identify...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Cosmos3-Edge, Cosmos3-Nano, and Cosmos3-Super models now available on Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/cosmos3-edge-cosmos3-nano-cosmos3-super-on-sagemaker-jumpstart/",
-      "pubDate": "2026-08-27T22:41:00",
-      "description": "<p>NVIDIA's Cosmos3-Edge, Cosmos3-Nano, and Cosmos3-Super models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundatio...",
+      "title": "AWS Agent Registry for centralized agent discovery and governance is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-generally-available",
+      "pubDate": "2026-08-31T15:21:00",
+      "description": "<p>AWS Agent Registry is now generally available. It provides a private, governed catalog and discovery layer for agents, tools, skills, MCP servers, ...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Muse-Glimmer-30B and Qwen 3.8-27B models now available on Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/muse-glimmer-30b-qwen-3.8-27b-on-sagemaker-jumpstart/",
-      "pubDate": "2026-08-27T22:39:00",
-      "description": "<p>Meta's Muse-Glimmer-30B and Alibaba's Qwen 3.8-27B models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation mo...",
+      "title": "AWS announces AWS Interconnect - multicloud connectivity with Microsoft Azure in preview",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-announces-AWS-interconnect-multicloud-microsoft-azure-preview/",
+      "pubDate": "2026-08-31T15:00:00",
+      "description": "<p>AWS announces the public preview of AWS Interconnect \u2014 multicloud with Microsoft Azure.</p> \n<p>Customers have been adopting multicloud strategies ...",
       "category": "AWS",
       "source": "AWS What's New"
+    },
+    {
+      "title": "Elevate Your Enterprise Value with New VCAP and VCDX Certifications",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/31/elevate-your-enterprise-value-with-new-vcap-and-vcdx-certifications/",
+      "pubDate": "2026-08-31T17:16:51",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/VCAP_and_VCDX_head...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "Deploy VCF on Supermicro HGX Servers with NVIDIA GPUs for AI Workloads",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/31/deploy-vcf-on-supermicro-hgx-servers-with-nvidia-gpus-for-ai-workloads/",
+      "pubDate": "2026-08-31T16:00:04",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/73092148_XXL.jpg?w...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "Closing the Gap Between Hardware and Cloud",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/31/closing-the-gap-between-hardware-and-cloud/",
+      "pubDate": "2026-08-31T16:00:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/198594409_l.jpeg?w...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "Introducing the Frontier AI Security Readiness Program",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/31/frontier-ai-security-readiness-program/",
+      "pubDate": "2026-08-31T14:38:29",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"170\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Shield.jpg?w=300\" ...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "Scaling the Agentic Enterprise: Production-ready AI Agents with Tanzu Platform",
+      "link": "https://blogs.vmware.com/tanzu/scaling-the-agentic-enterprise-production-ready-ai-agents-with-tanzu-platform/",
+      "pubDate": "2026-08-31T12:56:52",
+      "description": "<p>at Explore 2026, Broadcom is announcing enhanced capabilities in VMware Tanzu Platform centered around five critical pillars for AI agents: Secure-...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "Introducing AI-ready Data Foundations in Tanzu Platform: From Chaos to Context-Rich, Governed Data Products",
+      "link": "https://blogs.vmware.com/tanzu/introducing-ai-ready-data-foundations-in-tanzu-platform/",
+      "pubDate": "2026-08-31T12:55:00",
+      "description": "<p>VMware Tanzu is introducing Tanzu Platform AI-ready data foundations to help enterprises pave the way for agentic AI success. An AI-ready data foun...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "Tanzu Platform: The Agent Platform for VMware Private AI Cloud",
+      "link": "https://blogs.vmware.com/tanzu/tanzu-platform-the-agent-platform-for-private-ai-cloud/",
+      "pubDate": "2026-08-31T12:54:00",
+      "description": "<p>When organizations attempt to support these autonomous behaviors using fragmented, build-it-yourself tooling, they inevitably stumble into a severe...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Securing the Memory Layer: How Broadcom and AMD Are Bringing Confidential Computing to the Enterprise",
@@ -110,62 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/08/26/unlocking-developer-velocity-the-code-to-url-revolution/",
       "pubDate": "2026-08-27T06:18:02",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"131\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Github-Code-to-URL...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Planning to use Epic\u2019s AI Tools? Here\u2019s Some Good News for VCF Customers",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/26/planning-to-use-epics-ai-tools-heres-some-good-news-for-vcf-customers/",
-      "pubDate": "2026-08-26T19:48:01",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Getty-2211899741.j...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Automate DBaaS Operations on VCF with Agentic AI",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/26/automate-dbaas-operations-on-vcf-with-agentic-ai/",
-      "pubDate": "2026-08-26T18:41:35",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"167\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Picture3.jpg?w=300...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Protecting Data Where It\u2019s Most Vulnerable: How Broadcom and Intel Are Making Confidential Computing Real",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/26/protecting-data-where-its-most-vulnerable-how-broadcom-and-intel-are-making-confidential-computing-real/",
-      "pubDate": "2026-08-26T18:13:13",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/intel-broadcom-blo...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Know Before You Go ~ Watch the Welcome Session ~",
-      "link": "https://blogs.vmware.com/explore/watch-the-online-welcome-session/",
-      "pubDate": "2026-08-26T12:00:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"169\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/KBYG-Welcome-Sessi...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "At VMware Explore 2026: Future-Proofing Enterprise AI with a Flexible Model Strategy",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/24/at-vmware-explore-2026-future-proofing-enterprise-ai-with-a-flexible-model-strategy/",
-      "pubDate": "2026-08-24T22:54:16",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Blog-Graphics.png?...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Bridging the IT Chasm: A Strategic Blueprint for Platform Engineering 2.0",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/24/bridging-the-it-chasm-a-strategic-blueprint-for-platform-engineering-2-0/",
-      "pubDate": "2026-08-24T19:33:22",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"165\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/VKS-Logo-Vertical....",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "See You at The Party!",
-      "link": "https://blogs.vmware.com/explore/see-you-at-the-party/",
-      "pubDate": "2026-08-21T12:00:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/1920x1080.png?w=29...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
