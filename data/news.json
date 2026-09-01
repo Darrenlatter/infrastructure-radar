@@ -10,6 +10,14 @@
   ],
   "articles": [
     {
+      "title": "Amazon CloudWatch now supports warm-up periods for alarms",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-alarms-warmup-period",
+      "pubDate": "2026-09-01T08:00:00",
+      "description": "<p>Amazon CloudWatch now lets you configure a warm-up period for metric alarms and log alarms, delaying alarm evaluation for a set time after the alar...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon DocumentDB now supports direct major version upgrades to version 8.0",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/documentdb-major-version-upgrade-8-0/",
       "pubDate": "2026-08-31T22:30:00",
@@ -22,6 +30,14 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/partner-revenue-measurement-user-agent-expansion/",
       "pubDate": "2026-08-31T22:00:00",
       "description": "<p>Partner Revenue Measurement <a href=\"https://docs.aws.amazon.com/PRM/latest/aws-prm-onboarding-guide/user-agent-string.html\">User Agent string</a> ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Elemental MediaTailor introduces in-console analytics dashboard for ad monetization and streaming performance",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/mediatailor-analytics-dashboard",
+      "pubDate": "2026-08-31T21:35:00",
+      "description": "<p>AWS Elemental MediaTailor now includes an analytics dashboard built directly into the AWS Management Console, giving publishers a global and multi-...",
       "category": "AWS",
       "source": "AWS What's New"
     },
@@ -70,22 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
       "pubDate": "2026-08-31T18:08:00",
       "description": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R9g and R9gd instances, powered by AWS Graviton5 processors, are generally available. AWS...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Cognito now supports machine-to-machine authorization without a user pool domain",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-get-client-token/",
-      "pubDate": "2026-08-31T18:00:00",
-      "description": "<p>Amazon Cognito now supports the GetClientToken API operation, enabling app clients to obtain access tokens for machine-to-machine (M2M) authorizati...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Lambda recursive loop detection is now available in all commercial AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-recursion-regions",
-      "pubDate": "2026-08-31T17:30:00",
-      "description": "<p>AWS Lambda <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/invocation-recursion.html\">recursive loop detection</a> has expanded support to al...",
       "category": "AWS",
       "source": "AWS What's New"
     },
