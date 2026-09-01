@@ -10,6 +10,30 @@
   ],
   "articles": [
     {
+      "title": "Amazon Connect Customer dashboards now support compact mode",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-dashboards-compact-mode/",
+      "pubDate": "2026-09-01T17:00:00",
+      "description": "<p>Amazon Connect Customer now offers compact mode on the analytics dashboards, increasing data density so supervisors can see more of their operation...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon MWAA supports Apache Airflow version 3.3.1",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-apache-airflow-3-3-1/",
+      "pubDate": "2026-09-01T15:00:00",
+      "description": "<p>Amazon Managed Workflows for Apache Airflow (MWAA) now supports Apache Airflow version 3.3.1, the latest release of the popular open-source workflo...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Claude Fable 5.1, Anthropic's new frontier model is now available on AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws/",
+      "pubDate": "2026-09-01T14:00:00",
+      "description": "<p>Claude Fable 5.1 is generally available on AWS and brings Anthropic's most capable frontier model to all customers. Fable 5.1 delivers frontier int...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon CloudWatch now supports warm-up periods for alarms",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-alarms-warmup-period",
       "pubDate": "2026-09-01T08:00:00",
@@ -66,28 +90,12 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Connect Global Resiliency now supports cross-region routing of contacts across two active AWS regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-global-resiliency-cross-region-routing/",
-      "pubDate": "2026-08-31T19:25:00",
-      "description": "<p>Amazon Connect Global Resiliency now supports cross-region routing of contacts to agents across two linked AWS regions. For example, a contact arri...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Redshift now supports Apache Iceberg v3 tables",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-apache-iceberg-v3",
-      "pubDate": "2026-08-31T18:10:00",
-      "description": "<p>Amazon Redshift now supports reading from and writing to Apache Iceberg v3 tables in your data lake. Apache Iceberg is an open table format, and it...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon EC2 R9g and R9gd memory optimized instances are now available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
-      "pubDate": "2026-08-31T18:08:00",
-      "description": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R9g and R9gd instances, powered by AWS Graviton5 processors, are generally available. AWS...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Announcing the latest Tanzu Greenplum Updates: Cloud-Like Elasticity, Federal Security, and Enhanced Enterprise Analytics",
+      "link": "https://blogs.vmware.com/tanzu/announcing-the-latest-tanzu-greenplum-updates-cloud-like-elasticity-federal-security-and-enhanced-enterprise-analytics/",
+      "pubDate": "2026-09-01T15:13:57",
+      "description": "<p>Today, we are thrilled to announce a set of new capabilities in Tanzu Greenplum that bring major architectural improvements in open table formats, ...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "\u535a\u901a\u63a8\u51fa VMware Private AI Cloud\uff0c\u8ce6\u80fd\u4f01\u696d\u4ee5\u9ad8\u6210\u672c\u6548\u76ca\u64f4\u5c55 AI \u898f\u6a21\u3001\u63d0\u5347\u71df\u904b\u5b89\u5168\u4e26\u52a0\u901f\u5275\u65b0",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/tanzu/introducing-ai-ready-data-foundations-in-tanzu-platform/",
       "pubDate": "2026-08-31T12:55:00",
       "description": "<p>VMware Tanzu is introducing Tanzu Platform AI-ready data foundations to help enterprises pave the way for agentic AI success. An AI-ready data foun...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Tanzu Platform: The Agent Platform for VMware Private AI Cloud",
-      "link": "https://blogs.vmware.com/tanzu/tanzu-platform-the-agent-platform-for-private-ai-cloud/",
-      "pubDate": "2026-08-31T12:54:00",
-      "description": "<p>When organizations attempt to support these autonomous behaviors using fragmented, build-it-yourself tooling, they inevitably stumble into a severe...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
