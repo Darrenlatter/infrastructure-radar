@@ -10,6 +10,14 @@
   ],
   "articles": [
     {
+      "title": "AWS Lambda now supports SnapStart for container image functions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-snapstart-container/",
+      "pubDate": "2026-09-02T09:00:00",
+      "description": "<p>Starting today, AWS Lambda supports SnapStart for functions packaged as <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/images-create.html\" r...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon Quick now lets you build custom apps with natural language  -",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/",
       "pubDate": "2026-09-01T21:37:00",
@@ -74,20 +82,20 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon CloudWatch now supports warm-up periods for alarms",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-alarms-warmup-period",
-      "pubDate": "2026-09-01T08:00:00",
-      "description": "<p>Amazon CloudWatch now lets you configure a warm-up period for metric alarms and log alarms, delaying alarm evaluation for a set time after the alar...",
+      "title": "Claude Fable 5.1, Anthropic's new frontier model is now available on AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws-govcloud/",
+      "pubDate": "2026-09-01T14:00:00",
+      "description": "<p>Claude Fable 5.1 is generally available on Amazon Bedrock in AWS GovCloud (US) and brings Anthropic's most capable frontier model to regulated indu...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon RDS Custom now supports the latest CU and GDR updates for Microsoft SQL Server",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-custom-supports-latest-cu-gdr-microsoft-sql-server/",
-      "pubDate": "2026-09-01T07:30:00",
-      "description": "<p><a href=\"https://aws.amazon.com/rds/custom/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) Custom for SQL Server</a> now supports...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Unlocking Agile Innovation: Delivering on VMware\u2019s Open Networking Approach with Cisco",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/02/unlocking-agile-innovation-delivering-on-vmwares-open-networking-approach-with-cisco/",
+      "pubDate": "2026-09-02T13:00:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/73092148_XXL.jpg?w...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "VMware Explore 2026 in Las Vegas | Day 2 Recap",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/08/31/frontier-ai-security-readiness-program/",
       "pubDate": "2026-08-31T14:38:29",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"170\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Shield.jpg?w=300\" ...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Scaling the Agentic Enterprise: Production-ready AI Agents with Tanzu Platform",
-      "link": "https://blogs.vmware.com/tanzu/scaling-the-agentic-enterprise-production-ready-ai-agents-with-tanzu-platform/",
-      "pubDate": "2026-08-31T12:56:52",
-      "description": "<p>at Explore 2026, Broadcom is announcing enhanced capabilities in VMware Tanzu Platform centered around five critical pillars for AI agents: Secure-...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
