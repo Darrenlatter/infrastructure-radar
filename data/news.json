@@ -10,6 +10,46 @@
   ],
   "articles": [
     {
+      "title": "Amazon Quick now lets you build custom apps with natural language  -",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/",
+      "pubDate": "2026-09-01T21:37:00",
+      "description": "<p>Now generally available, Amazon Quick lets you build custom applications by simply describing them in natural language. Create project trackers, cu...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Deadline Cloud now supports sharing job bundles",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/deadline-cloud/job-bundle-sharing",
+      "pubDate": "2026-09-01T20:16:00",
+      "description": "<p>AWS Deadline Cloud now supports sharing job bundles, giving teams a simple way to distribute and reuse render job templates without manual file dis...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon CloudWatch Database Insights now supports self-managed PostgreSQL",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/database-insights-self-managed-postgresql/",
+      "pubDate": "2026-09-01T19:00:00",
+      "description": "<p>Today, AWS announces support for self-managed PostgreSQL databases in Amazon CloudWatch Database Insights. Using CloudWatch Database Insights, you ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Kinesis Data Streams now supports a dry run feature to validate API requests",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-kinesis-data-streams-api/",
+      "pubDate": "2026-09-01T19:00:00",
+      "description": "<p>Amazon Kinesis Data Streams now supports a dry run feature to check whether an API request would succeed without executing the operation. Customers...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Backup now supports protecting more than 1,000 Amazon S3 buckets per account",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-backup-more-than-1000-s3-buckets/",
+      "pubDate": "2026-09-01T18:00:00",
+      "description": "<p>AWS Backup now supports backup and restore of more than 1,000 Amazon S3 buckets per account, matching the Amazon S3 bucket quota configured for you...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon Connect Customer dashboards now support compact mode",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-dashboards-compact-mode/",
       "pubDate": "2026-09-01T17:00:00",
@@ -42,52 +82,20 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon DocumentDB now supports direct major version upgrades to version 8.0",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/documentdb-major-version-upgrade-8-0/",
-      "pubDate": "2026-08-31T22:30:00",
-      "description": "<p>Amazon DocumentDB (with MongoDB compatibility) now supports in-place major version upgrades (MVU) directly from engine versions 3.6 and 4.0 to vers...",
+      "title": "Amazon RDS Custom now supports the latest CU and GDR updates for Microsoft SQL Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-custom-supports-latest-cu-gdr-microsoft-sql-server/",
+      "pubDate": "2026-09-01T07:30:00",
+      "description": "<p><a href=\"https://aws.amazon.com/rds/custom/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) Custom for SQL Server</a> now supports...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Partner Revenue Measurement expands service coverage for User Agent string capability",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/partner-revenue-measurement-user-agent-expansion/",
-      "pubDate": "2026-08-31T22:00:00",
-      "description": "<p>Partner Revenue Measurement <a href=\"https://docs.aws.amazon.com/PRM/latest/aws-prm-onboarding-guide/user-agent-string.html\">User Agent string</a> ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Elemental MediaTailor introduces in-console analytics dashboard for ad monetization and streaming performance",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/mediatailor-analytics-dashboard",
-      "pubDate": "2026-08-31T21:35:00",
-      "description": "<p>AWS Elemental MediaTailor now includes an analytics dashboard built directly into the AWS Management Console, giving publishers a global and multi-...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Agent Registry agents and MCP servers now available in Amazon Quick",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-agents-mcp-servers-quick/",
-      "pubDate": "2026-08-31T21:05:00",
-      "description": "<p>Today, Amazon Quick announces integration with AWS Agent Registry, enabling users to discover and use resources from their organization's AWS Agent...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Redshift now supports AWS IAM Identity Center authentication with enhanced VPC routing",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-idc-evr",
-      "pubDate": "2026-08-31T21:02:00",
-      "description": "<p>Amazon Redshift now supports AWS IAM Identity Center authentication for provisioned clusters and serverless workgroups configured with enhanced VPC...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Timestream for InfluxDB is now available in 8 additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-regions/",
-      "pubDate": "2026-08-31T19:48:00",
-      "description": "<p>You can now use Amazon Timestream for InfluxDB in the Africa (Cape Town), Asia Pacific (Bangkok), Asia Pacific (Hong Kong), Asia Pacific (Hyderabad...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "VMware Explore 2026 in Las Vegas | Day 2 Recap",
+      "link": "https://blogs.vmware.com/explore/vmware-explore-2026-las-vegas-recap-day2/",
+      "pubDate": "2026-09-02T00:03:09",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"199\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/DSCF0963.jpg?w=300...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Announcing the latest Tanzu Greenplum Updates: Cloud-Like Elasticity, Federal Security, and Enhanced Enterprise Analytics",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/tanzu/scaling-the-agentic-enterprise-production-ready-ai-agents-with-tanzu-platform/",
       "pubDate": "2026-08-31T12:56:52",
       "description": "<p>at Explore 2026, Broadcom is announcing enhanced capabilities in VMware Tanzu Platform centered around five critical pillars for AI agents: Secure-...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Introducing AI-ready Data Foundations in Tanzu Platform: From Chaos to Context-Rich, Governed Data Products",
-      "link": "https://blogs.vmware.com/tanzu/introducing-ai-ready-data-foundations-in-tanzu-platform/",
-      "pubDate": "2026-08-31T12:55:00",
-      "description": "<p>VMware Tanzu is introducing Tanzu Platform AI-ready data foundations to help enterprises pave the way for agentic AI success. An AI-ready data foun...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
