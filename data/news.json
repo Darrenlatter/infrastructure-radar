@@ -10,84 +10,92 @@
   ],
   "articles": [
     {
-      "title": "Web Search on Amazon Bedrock is now available in AWS GovCloud (US-West)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-web-aws-govcloud/",
-      "pubDate": "2026-09-02T17:52:00",
-      "description": "<p>The Web Search built-in server-side tool on Amazon Bedrock is now available in AWS GovCloud (US-West), helping bring grounded web results to compli...",
+      "title": "Amazon CloudFront announces API support for flat-rate pricing plans",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudfront-flat-rate-pricing-plans-api/",
+      "pubDate": "2026-09-03T18:00:00",
+      "description": "<p>Starting today, customers can subscribe and manage flat-rate pricing plans programmatically using the AWS CLI, AWS SDKs, CloudFormation, CDK, or th...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Connect Customer expands automated performance evaluations to Malay",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-automated-evaluations-malay/",
-      "pubDate": "2026-09-02T17:00:00",
-      "description": "<p>Amazon Connect Customer now automates evaluations of human and AI agents in Malay using generative AI. Managers define custom evaluation criteria i...",
+      "title": "Introducing Amazon Quick Max: 5x the usage for power users who want the most out of Quick",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-max-5x-usage-power-users/",
+      "pubDate": "2026-09-03T17:17:00",
+      "description": "<p><a href=\"https://aws.com/quick\" target=\"_blank\"><u>Amazon Quick</u></a> now offers Quick Max, a new plan for power users who want to get the absolu...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Quick adds new tool settings and Model Context Protocol (MCP) sync support for connectors",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-adds-tool-settings-mcp-sync/",
-      "pubDate": "2026-09-02T16:54:00",
-      "description": "<p>Amazon Quick connectors let users leverage tools and services such as Outlook, Slack, Salesforce, Jira, and homegrown MCP servers directly into the...",
+      "title": "Amazon WorkSpaces Applications adds support for NVIDIA Blackwell GPU instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-applications-nvidia-blackwell-gpu-instances/",
+      "pubDate": "2026-09-03T17:00:00",
+      "description": "<p>Amazon WorkSpaces Applications now supports Graphics G7 instances, powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs and Intel Xeon Scal...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Connect Customer announces general availability of agentic CX designer",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/agentic-cx-designer/",
-      "pubDate": "2026-09-02T16:00:00",
-      "description": "<p>Amazon Connect Customer announces the general availability of agentic CX designer, a no-code canvas for designing and deploying AI-powered self-ser...",
+      "title": "Amazon Redshift rg.large instances now support single-node clusters",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/redshift-rg-large-single-node",
+      "pubDate": "2026-09-03T16:03:00",
+      "description": "<p>Amazon Redshift rg.large instances, powered by AWS Graviton processors, now support single-node clusters. Single-node support for rg.large clusters...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Second-generation AWS Outposts racks now in the AWS GovCloud (US) Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-outposts-govcloud-us-regions/",
-      "pubDate": "2026-09-02T16:00:00",
-      "description": "<p>Second-generation AWS Outposts racks are now supported in the AWS GovCloud (US-East) and AWS GovCloud (US-West) Regions. Outposts racks extend AWS ...",
+      "title": "Amazon Aurora MySQL now supports multi-source replication and delayed replication",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-multisourcerep-delayedrep/",
+      "pubDate": "2026-09-03T16:00:00",
+      "description": "<p>Starting today, Amazon Aurora MySQL supports two new replication capabilities: multi-source replication and delayed replication. Multi-source repli...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Config now supports 60 new resource types",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-config-new-resource-types/",
-      "pubDate": "2026-09-02T15:00:00",
-      "description": "<p>AWS Config now supports 60 additional AWS resource types across key services including Amazon Bedrock,&nbsp; Amazon EC2, Amazon SageMaker, and AWS ...",
+      "title": "Amazon MWAA adds built-in monitoring with Amazon CloudWatch",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-cloudwatch-monitoring/",
+      "pubDate": "2026-09-03T15:00:00",
+      "description": "<p>Amazon Managed Workflows for Apache Airflow (MWAA) now includes a built-in monitoring experience on the environment detail page in the <a href=\"htt...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "AWS User Experience Customization (UXC) is now available in all commercial AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-uxc-aws-regions",
-      "pubDate": "2026-09-02T13:00:00",
-      "description": "<p>AWS User Experience Customization (UXC) is now available in all commercial AWS Regions. UXC enables account administrators to set a custom account ...",
+      "title": "Amazon Linux 2027 is now available in public preview",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/announcing-amazon-linux-2027/",
+      "pubDate": "2026-09-03T08:00:00",
+      "description": "<p>Today, AWS announces the public preview of Amazon Linux 2027 (AL2027), the next version of the Amazon Linux operating system, purpose-built for clo...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Lambda now supports SnapStart for container image functions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-snapstart-container/",
-      "pubDate": "2026-09-02T09:00:00",
-      "description": "<p>Starting today, AWS Lambda supports SnapStart for functions packaged as <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/images-create.html\" r...",
+      "title": "Amazon SES now supports S/MIME email signing",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ses-supports-smime-signing",
+      "pubDate": "2026-09-03T07:00:00",
+      "description": "<p><a href=\"https://aws.amazon.com/ses/\">Amazon Simple Email Service (SES)</a> now supports Secure/Multipurpose Internet Mail Extensions (S/MIME) sign...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon SageMaker Unified Studio CI/CD adds notebook promotion and AI-assisted manifest generation",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-cicd-notebook-ai-manifest/",
-      "pubDate": "2026-09-02T08:00:00",
-      "description": "<p>Amazon SageMaker Unified Studio CI/CD expands its open-source deployment toolkit with two new capabilities: (1) an AI agent skill that automates ma...",
+      "title": "Amazon S3 now supports PrivateLink for FIPS endpoints",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-s3-privatelink-fips-endpoints",
+      "pubDate": "2026-09-03T04:00:00",
+      "description": "<p>Amazon S3 now supports AWS PrivateLink for endpoints that have been validated under the Federal Information Processing Standard (FIPS) 140-3 progra...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon RDS for SQL Server supports additional SQL trace flags",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/rds-sqlserver-supports-additional-trace-flags/",
-      "pubDate": "2026-09-02T07:00:00",
-      "description": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon RDS for SQL Server</a>&nbsp;supports 18 additional...",
+      "title": "AWS Transform announces general availability of Amazon FSx for NetApp ONTAP support",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-fsx-netapp-ontap-support/",
+      "pubDate": "2026-09-03T03:00:00",
+      "description": "<p>AWS Transform for migrations adds Amazon FSx for NetApp ONTAP as a generally available storage target for block storage workloads, alongside Amazon...",
       "category": "AWS",
       "source": "AWS What's New"
+    },
+    {
+      "title": "VMware Explore 2026 in Las Vegas | Day 4 Recap",
+      "link": "https://blogs.vmware.com/explore/vmware-explore-2026-las-vegas-recap-day4/",
+      "pubDate": "2026-09-03T19:00:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"188\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/IMG_4267.jpeg?w=30...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "From Bottleneck to Breakthrough: Centralizing GitOps at Enterprise Scale with VCF 9.1.1",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/vmware-taiwan/2026/09/01/%E5%8D%9A%E9%80%9A%E6%8E%A8%E5%87%BA-vmware-private-ai-cloud%EF%BC%8C%E8%B3%A6%E8%83%BD%E4%BC%81%E6%A5%AD%E4%BB%A5%E9%AB%98%E6%88%90%E6%9C%AC%E6%95%88%E7%9B%8A%E6%93%B4%E5%B1%95-ai-%E8%A6%8F%E6%A8%A1/",
       "pubDate": "2026-09-01T09:02:45",
       "description": "<p>\u535a\u901a\u5148\u9032\u7684\u96f2\u7aef\u57fa\u790e\u67b6\u69cb\u3001\u61c9\u7528\u7a0b\u5f0f\u8207\u5b89\u5168\u8edf\u9ad4\u7522\u54c1\u7d44\u5408\uff0c\u70ba\u4f01\u696d\u63d0\u4f9b\u751f\u7522\u5c31\u7dd2\u7684\u9014\u5f91\uff0c\u4e26\u65bc\u8cc7\u6599\u6240\u5728\u4e4b\u8655\u5efa\u7f6e\u3001\u904b\u884c\u4e26\u6cbb\u7406 AI \u3010\u53f0\u7063\uff0c2026\u5e749\u67081\u65e5\u3011\u5c08\u6ce8\u65bc\u8a2d\u8a08\u3001\u958b\u767c\u4e26\u63d0\u4f9b\u591a\u6a23\u5316\u534a\u5c0e\u9ad4\u53ca\u57fa\u790e\u67b6\u69cb\u8edf\u9ad4\u89e3\u6c7a\u65b9\u6848\u7684\u5168\u7403\u79d1\u6280\u9818\u5c0e\u5ee0\u5546\u535a\u901a\uff08Broadcom Inc.\uff0cNASDAQ\uff1aAVGO\uff09\u4eca\u65e5\u5ba3\u5e03\u63a8\u51fa\u66f4\u5b89...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "VMware Explore 2026 in Las Vegas | Day 1 Recap",
-      "link": "https://blogs.vmware.com/explore/vmware-explore-2026-las-vegas-recap/",
-      "pubDate": "2026-09-01T00:28:38",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Registration-Monda...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
