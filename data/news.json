@@ -90,6 +90,22 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Explore 2026: VMware AI Factory and other new AI innovations in VCF",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/explore-2026-vmware-ai-factory-and-other-new-ai-innovations-in-vcf/",
+      "pubDate": "2026-09-03T07:01:48",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/Private-AI-logo-2....",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "Announcing VMware Cloud Director 10.6.2, Enabling Your Migration to VMware Cloud Foundation 9.1",
+      "link": "https://blogs.vmware.com/cloudprovider/2026/09/announcing-vmware-cloud-director-10-6-2-enabling-your-migration-to-vmware-cloud-foundation-9-1.html",
+      "pubDate": "2026-09-03T06:32:28",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"154\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/Screenshot-2026-09...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
       "title": "Unlocking Agile Innovation: Delivering on VMware\u2019s Open Networking Approach with Cisco",
       "link": "https://blogs.vmware.com/cloud-foundation/2026/09/02/unlocking-agile-innovation-delivering-on-vmwares-open-networking-approach-with-cisco/",
       "pubDate": "2026-09-02T13:00:00",
@@ -150,22 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/08/31/deploy-vcf-on-supermicro-hgx-servers-with-nvidia-gpus-for-ai-workloads/",
       "pubDate": "2026-08-31T16:00:04",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/73092148_XXL.jpg?w...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Closing the Gap Between Hardware and Cloud",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/31/closing-the-gap-between-hardware-and-cloud/",
-      "pubDate": "2026-08-31T16:00:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/198594409_l.jpeg?w...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Introducing the Frontier AI Security Readiness Program",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/31/frontier-ai-security-readiness-program/",
-      "pubDate": "2026-08-31T14:38:29",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"170\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Shield.jpg?w=300\" ...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
