@@ -90,6 +90,30 @@
       "source": "AWS What's New"
     },
     {
+      "title": "From Bottleneck to Breakthrough: Centralizing GitOps at Enterprise Scale with VCF 9.1.1",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/from-bottleneck-to-breakthrough-centralizing-gitops-at-enterprise-scale-with-vcf-9-1-1/",
+      "pubDate": "2026-09-03T14:03:46",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"199\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/GettyImages-149007...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "New AI and Kubernetes Private Cloud Operations Capabilities in VMware Cloud Foundation 9.1.1",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/new-ai-and-kubernetes-private-cloud-operations-capabilities-in-vmware-cloud-foundation-9-1-1/",
+      "pubDate": "2026-09-03T14:00:05",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"148\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/Getty-1774553067.j...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "Announcing General Availability of VMware Cloud Foundation 9.1.1",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/announcing-general-availability-of-vmware-cloud-foundation-9-1-1/",
+      "pubDate": "2026-09-03T13:47:18",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"171\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/07/Getty-1495819409.j...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
       "title": "Explore 2026: VMware AI Factory and other new AI innovations in VCF",
       "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/explore-2026-vmware-ai-factory-and-other-new-ai-innovations-in-vcf/",
       "pubDate": "2026-09-03T07:01:48",
@@ -142,30 +166,6 @@
       "link": "https://blogs.vmware.com/explore/vmware-explore-2026-las-vegas-recap/",
       "pubDate": "2026-09-01T00:28:38",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Registration-Monda...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Save the Date for VMware Explore 2027",
-      "link": "https://blogs.vmware.com/explore/save-the-date-2027/",
-      "pubDate": "2026-09-01T00:26:30",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/vmwx27-plenary-192...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Elevate Your Enterprise Value with New VCAP and VCDX Certifications",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/31/elevate-your-enterprise-value-with-new-vcap-and-vcdx-certifications/",
-      "pubDate": "2026-08-31T17:16:51",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/VCAP_and_VCDX_head...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Deploy VCF on Supermicro HGX Servers with NVIDIA GPUs for AI Workloads",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/08/31/deploy-vcf-on-supermicro-hgx-servers-with-nvidia-gpus-for-ai-workloads/",
-      "pubDate": "2026-08-31T16:00:04",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/73092148_XXL.jpg?w...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
