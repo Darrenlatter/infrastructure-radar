@@ -10,6 +10,22 @@
   ],
   "articles": [
     {
+      "title": "AWS MCP Server adds a serverless capability for AWS Lambda functions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-mcp-server-serverless/",
+      "pubDate": "2026-09-04T16:31:00",
+      "description": "<p>Today, <a href=\"https://docs.aws.amazon.com/agent-toolkit/latest/userguide/mcp-server.html\" target=\"_blank\">AWS Model Context Protocol Server</a> (...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon EC2 C8g instances now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-c8g-instances-additional-regions/",
+      "pubDate": "2026-09-04T14:06:00",
+      "description": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8g instances are available in AWS Asia Pacific (Taipei, New Zealand), and&nbsp;AWS GovCl...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Transfer Family SFTP Connectors now support continuing file transfers during credential rotation",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-credential-rotation/",
       "pubDate": "2026-09-04T08:00:00",
@@ -18,10 +34,26 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Amazon EC2 C9g and C9gd instances are now available in Asia Pacific (Tokyo) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-c9g-c9gd-asia-pacific-tokyo/",
+      "pubDate": "2026-09-03T23:00:00",
+      "description": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C9g and C9gd instances, powered by AWS Graviton5 processors, are available in the Asia Pa...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon ECS Managed Daemons now support non-critical daemons",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ecs-managed-daemons-non-critical/",
       "pubDate": "2026-09-03T22:01:00",
       "description": "<p><a href=\"https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html\">Amazon Elastic Container Service</a> (Amazon ECS) now support no...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon EC2 M9g and M9gd instances are now available in four additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-m9g-m9gd-four-regions/",
+      "pubDate": "2026-09-03T21:00:00",
+      "description": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M9g and M9gd instances, powered by AWS Graviton5 processors, are available in Europe (Ire...",
       "category": "AWS",
       "source": "AWS What's New"
     },
@@ -54,38 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-max-5x-usage-power-users/",
       "pubDate": "2026-09-03T17:17:00",
       "description": "<p><a href=\"https://aws.com/quick\" target=\"_blank\"><u>Amazon Quick</u></a> now offers Quick Max, a new plan for power users who want to get the absolu...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Gateway Load Balancer now supports TCP Reset for faster failure recovery",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-gateway-load-balancer-tcp-reset/",
-      "pubDate": "2026-09-03T17:00:00",
-      "description": "<p>A<b></b>WS Gateway Load Balancer (GWLB) now supports sending TCP Reset (RST) packets when a target becomes unhealthy, is deregistered, or when a fl...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon WorkSpaces Applications adds support for NVIDIA Blackwell GPU instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-applications-nvidia-blackwell-gpu-instances/",
-      "pubDate": "2026-09-03T17:00:00",
-      "description": "<p>Amazon WorkSpaces Applications now supports Graphics G7 instances, powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs and Intel Xeon Scal...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Redshift rg.large instances now support single-node clusters",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/redshift-rg-large-single-node",
-      "pubDate": "2026-09-03T16:03:00",
-      "description": "<p>Amazon Redshift rg.large instances, powered by AWS Graviton processors, now support single-node clusters. Single-node support for rg.large clusters...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Aurora MySQL 8.4.8 (compatible with MySQL 8.4.8) is now generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-848-available/",
-      "pubDate": "2026-09-03T16:01:00",
-      "description": "<p>Starting today, Amazon Aurora MySQL-Compatible Edition 8.4 will support MySQL 8.4.8. In addition to several security enhancements and bug fixes, Au...",
       "category": "AWS",
       "source": "AWS What's New"
     },
