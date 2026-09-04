@@ -10,6 +10,14 @@
   ],
   "articles": [
     {
+      "title": "AWS Transfer Family SFTP Connectors now support continuing file transfers during credential rotation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-credential-rotation/",
+      "pubDate": "2026-09-04T08:00:00",
+      "description": "<p>AWS Transfer Family SFTP Connectors now continue running file transfers while you rotate the credentials used to authenticate with remote SFTP serv...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon ECS Managed Daemons now support non-critical daemons",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ecs-managed-daemons-non-critical/",
       "pubDate": "2026-09-03T22:01:00",
@@ -78,14 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-848-available/",
       "pubDate": "2026-09-03T16:01:00",
       "description": "<p>Starting today, Amazon Aurora MySQL-Compatible Edition 8.4 will support MySQL 8.4.8. In addition to several security enhancements and bug fixes, Au...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Aurora MySQL now supports multi-source replication and delayed replication",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-multisourcerep-delayedrep/",
-      "pubDate": "2026-09-03T16:00:00",
-      "description": "<p>Starting today, Amazon Aurora MySQL supports two new replication capabilities: multi-source replication and delayed replication. Multi-source repli...",
       "category": "AWS",
       "source": "AWS What's New"
     },
