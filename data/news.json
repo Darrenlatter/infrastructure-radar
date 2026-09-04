@@ -10,6 +10,30 @@
   ],
   "articles": [
     {
+      "title": "Amazon ECS Managed Daemons now support non-critical daemons",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ecs-managed-daemons-non-critical/",
+      "pubDate": "2026-09-03T22:01:00",
+      "description": "<p><a href=\"https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html\">Amazon Elastic Container Service</a> (Amazon ECS) now support no...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon EC2 P6-B200 instances are now available in the AWS Asia Pacific (Hyderabad) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b200-instances-available-asia-pacific-hyderabad",
+      "pubDate": "2026-09-03T19:14:00",
+      "description": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) P6-B200 instances accelerated by NVIDIA Blackwell GPUs are available in the AWS Asia Paci...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon EC2 P6-B300 instances are now available in the AWS Asia Pacific (Jakarta) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b300-instances-available-asia-pacific-jakarta",
+      "pubDate": "2026-09-03T19:03:00",
+      "description": "<p>Starting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in the AWS Asia Pacific (Jakarta) Region. P6-B300 instanc...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon CloudFront announces API support for flat-rate pricing plans",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudfront-flat-rate-pricing-plans-api/",
       "pubDate": "2026-09-03T18:00:00",
@@ -22,6 +46,14 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-max-5x-usage-power-users/",
       "pubDate": "2026-09-03T17:17:00",
       "description": "<p><a href=\"https://aws.com/quick\" target=\"_blank\"><u>Amazon Quick</u></a> now offers Quick Max, a new plan for power users who want to get the absolu...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Gateway Load Balancer now supports TCP Reset for faster failure recovery",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-gateway-load-balancer-tcp-reset/",
+      "pubDate": "2026-09-03T17:00:00",
+      "description": "<p>A<b></b>WS Gateway Load Balancer (GWLB) now supports sending TCP Reset (RST) packets when a target becomes unhealthy, is deregistered, or when a fl...",
       "category": "AWS",
       "source": "AWS What's New"
     },
@@ -42,6 +74,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Amazon Aurora MySQL 8.4.8 (compatible with MySQL 8.4.8) is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-848-available/",
+      "pubDate": "2026-09-03T16:01:00",
+      "description": "<p>Starting today, Amazon Aurora MySQL-Compatible Edition 8.4 will support MySQL 8.4.8. In addition to several security enhancements and bug fixes, Au...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon Aurora MySQL now supports multi-source replication and delayed replication",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-multisourcerep-delayedrep/",
       "pubDate": "2026-09-03T16:00:00",
@@ -50,44 +90,20 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon MWAA adds built-in monitoring with Amazon CloudWatch",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-cloudwatch-monitoring/",
-      "pubDate": "2026-09-03T15:00:00",
-      "description": "<p>Amazon Managed Workflows for Apache Airflow (MWAA) now includes a built-in monitoring experience on the environment detail page in the <a href=\"htt...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "A Unified Data Architecture For Sovereign Agentic AI With VMware Tanzu And VMware vSAN",
+      "link": "https://blogs.vmware.com/tanzu/a-unified-data-architecture-for-sovereign-agentic-ai-with-vmware-tanzu-and-vmware-vsan/",
+      "pubDate": "2026-09-03T23:27:50",
+      "description": "<p>By combining VMware Tanzu Greenplum with VMware vSAN, organizations can bring their AI compute directly to their data storage layer for improved co...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
-      "title": "Amazon Linux 2027 is now available in public preview",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/announcing-amazon-linux-2027/",
-      "pubDate": "2026-09-03T08:00:00",
-      "description": "<p>Today, AWS announces the public preview of Amazon Linux 2027 (AL2027), the next version of the Amazon Linux operating system, purpose-built for clo...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon SES now supports S/MIME email signing",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ses-supports-smime-signing",
-      "pubDate": "2026-09-03T07:00:00",
-      "description": "<p><a href=\"https://aws.amazon.com/ses/\">Amazon Simple Email Service (SES)</a> now supports Secure/Multipurpose Internet Mail Extensions (S/MIME) sign...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon S3 now supports PrivateLink for FIPS endpoints",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-s3-privatelink-fips-endpoints",
-      "pubDate": "2026-09-03T04:00:00",
-      "description": "<p>Amazon S3 now supports AWS PrivateLink for endpoints that have been validated under the Federal Information Processing Standard (FIPS) 140-3 progra...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Transform announces general availability of Amazon FSx for NetApp ONTAP support",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-fsx-netapp-ontap-support/",
-      "pubDate": "2026-09-03T03:00:00",
-      "description": "<p>AWS Transform for migrations adds Amazon FSx for NetApp ONTAP as a generally available storage target for block storage workloads, alongside Amazon...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Get to VMware Cloud Foundation Faster with VMware Pro Cloud Services",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/get-to-vmware-cloud-foundation-faster-with-vmware-pro-cloud-services/",
+      "pubDate": "2026-09-03T20:21:10",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"164\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/vmw-pro-cloud-4b.p...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "VMware Explore 2026 in Las Vegas | Day 4 Recap",
@@ -150,22 +166,6 @@
       "link": "https://blogs.vmware.com/explore/vmware-explore-2026-las-vegas-recap-day2/",
       "pubDate": "2026-09-02T00:03:09",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"199\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/DSCF0963.jpg?w=300...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Announcing the latest Tanzu Greenplum Updates: Cloud-Like Elasticity, Federal Security, and Enhanced Enterprise Analytics",
-      "link": "https://blogs.vmware.com/tanzu/announcing-the-latest-tanzu-greenplum-updates-cloud-like-elasticity-federal-security-and-enhanced-enterprise-analytics/",
-      "pubDate": "2026-09-01T15:13:57",
-      "description": "<p>Today, we are thrilled to announce a set of new capabilities in Tanzu Greenplum that bring major architectural improvements in open table formats, ...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "\u535a\u901a\u63a8\u51fa VMware Private AI Cloud\uff0c\u8ce6\u80fd\u4f01\u696d\u4ee5\u9ad8\u6210\u672c\u6548\u76ca\u64f4\u5c55 AI \u898f\u6a21\u3001\u63d0\u5347\u71df\u904b\u5b89\u5168\u4e26\u52a0\u901f\u5275\u65b0",
-      "link": "https://blogs.vmware.com/vmware-taiwan/2026/09/01/%E5%8D%9A%E9%80%9A%E6%8E%A8%E5%87%BA-vmware-private-ai-cloud%EF%BC%8C%E8%B3%A6%E8%83%BD%E4%BC%81%E6%A5%AD%E4%BB%A5%E9%AB%98%E6%88%90%E6%9C%AC%E6%95%88%E7%9B%8A%E6%93%B4%E5%B1%95-ai-%E8%A6%8F%E6%A8%A1/",
-      "pubDate": "2026-09-01T09:02:45",
-      "description": "<p>\u535a\u901a\u5148\u9032\u7684\u96f2\u7aef\u57fa\u790e\u67b6\u69cb\u3001\u61c9\u7528\u7a0b\u5f0f\u8207\u5b89\u5168\u8edf\u9ad4\u7522\u54c1\u7d44\u5408\uff0c\u70ba\u4f01\u696d\u63d0\u4f9b\u751f\u7522\u5c31\u7dd2\u7684\u9014\u5f91\uff0c\u4e26\u65bc\u8cc7\u6599\u6240\u5728\u4e4b\u8655\u5efa\u7f6e\u3001\u904b\u884c\u4e26\u6cbb\u7406 AI \u3010\u53f0\u7063\uff0c2026\u5e749\u67081\u65e5\u3011\u5c08\u6ce8\u65bc\u8a2d\u8a08\u3001\u958b\u767c\u4e26\u63d0\u4f9b\u591a\u6a23\u5316\u534a\u5c0e\u9ad4\u53ca\u57fa\u790e\u67b6\u69cb\u8edf\u9ad4\u89e3\u6c7a\u65b9\u6848\u7684\u5168\u7403\u79d1\u6280\u9818\u5c0e\u5ee0\u5546\u535a\u901a\uff08Broadcom Inc.\uff0cNASDAQ\uff1aAVGO\uff09\u4eca\u65e5\u5ba3\u5e03\u63a8\u51fa\u66f4\u5b89...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
