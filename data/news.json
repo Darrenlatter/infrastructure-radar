@@ -10,10 +10,50 @@
   ],
   "articles": [
     {
+      "title": "Amazon Bedrock Managed Knowledge Base introduces user-managed setup for SharePoint, OneDrive, and Confluence data sources",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/",
+      "pubDate": "2026-09-04T21:29:00",
+      "description": "<p>AWS announces user-managed setup (3LO) for SharePoint, OneDrive, and Confluence data sources in Amazon Bedrock Managed Knowledge Base. Previously, ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Bedrock Managed Knowledge Base now supports ServiceNow as a native data source connector",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector/",
+      "pubDate": "2026-09-04T21:14:00",
+      "description": "<p>AWS announces the ServiceNow data source connector for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Bedrock Managed Knowledge Base now supports automatic sync scheduling for data source connectors",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-automatic-sync-scheduling-data-source-connectors/",
+      "pubDate": "2026-09-04T21:01:00",
+      "description": "<p>AWS announces automatic sync scheduling for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) service tha...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon EC2 now supports specifying compatible instance types on AMIs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-images-supported-instances",
+      "pubDate": "2026-09-04T19:26:00",
+      "description": "<p>Amazon EC2 now enables AMI owners to define which instance types are compatible with their AMIs. Owners can specify supported instance types, unsup...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon ECS introduces Early Success Criteria for service deployments",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-deployments-early-success/",
+      "pubDate": "2026-09-04T17:00:00",
+      "description": "<p><a href=\"https://aws.amazon.com/ecs/\" target=\"_blank\">Amazon Elastic Container Service</a> (Amazon ECS)&nbsp;now supports Early Success Criteria fo...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS MCP Server adds a serverless capability for AWS Lambda functions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-mcp-server-serverless/",
       "pubDate": "2026-09-04T16:31:00",
-      "description": "<p>Today, <a href=\"https://docs.aws.amazon.com/agent-toolkit/latest/userguide/mcp-server.html\" target=\"_blank\">AWS Model Context Protocol Server</a> (...",
+      "description": "<p>Today, <a href=\"https://docs.aws.amazon.com/agent-toolkit/latest/userguide/mcp-server.html\" rel=\"noopener noreferrer\" target=\"_blank\">AWS Model Con...",
       "category": "AWS",
       "source": "AWS What's New"
     },
@@ -34,58 +74,18 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Amazon SageMaker AI Batch Transform now supports G6e instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-batch-transform-g6e-instances/",
+      "pubDate": "2026-09-04T08:00:00",
+      "description": "<p>Amazon SageMaker AI now supports <a href=\"https://aws.amazon.com/ec2/instance-types/g6e/\">Amazon EC2 G6e instances</a> for batch transform. Batch T...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon EC2 C9g and C9gd instances are now available in Asia Pacific (Tokyo) region",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-c9g-c9gd-asia-pacific-tokyo/",
       "pubDate": "2026-09-03T23:00:00",
       "description": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C9g and C9gd instances, powered by AWS Graviton5 processors, are available in the Asia Pa...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon ECS Managed Daemons now support non-critical daemons",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ecs-managed-daemons-non-critical/",
-      "pubDate": "2026-09-03T22:01:00",
-      "description": "<p><a href=\"https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html\">Amazon Elastic Container Service</a> (Amazon ECS) now support no...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon EC2 M9g and M9gd instances are now available in four additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-m9g-m9gd-four-regions/",
-      "pubDate": "2026-09-03T21:00:00",
-      "description": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M9g and M9gd instances, powered by AWS Graviton5 processors, are available in Europe (Ire...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon EC2 P6-B200 instances are now available in the AWS Asia Pacific (Hyderabad) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b200-instances-available-asia-pacific-hyderabad",
-      "pubDate": "2026-09-03T19:14:00",
-      "description": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) P6-B200 instances accelerated by NVIDIA Blackwell GPUs are available in the AWS Asia Paci...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon EC2 P6-B300 instances are now available in the AWS Asia Pacific (Jakarta) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b300-instances-available-asia-pacific-jakarta",
-      "pubDate": "2026-09-03T19:03:00",
-      "description": "<p>Starting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in the AWS Asia Pacific (Jakarta) Region. P6-B300 instanc...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon CloudFront announces API support for flat-rate pricing plans",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudfront-flat-rate-pricing-plans-api/",
-      "pubDate": "2026-09-03T18:00:00",
-      "description": "<p>Starting today, customers can subscribe and manage flat-rate pricing plans programmatically using the AWS CLI, AWS SDKs, CloudFormation, CDK, or th...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Introducing Amazon Quick Max: 5x the usage for power users who want the most out of Quick",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-max-5x-usage-power-users/",
-      "pubDate": "2026-09-03T17:17:00",
-      "description": "<p><a href=\"https://aws.com/quick\" target=\"_blank\"><u>Amazon Quick</u></a> now offers Quick Max, a new plan for power users who want to get the absolu...",
       "category": "AWS",
       "source": "AWS What's New"
     },
