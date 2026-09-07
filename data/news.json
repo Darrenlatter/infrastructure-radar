@@ -90,6 +90,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Client-Side SDK Generation with VMware Cloud Foundation OpenAPI Specs",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/07/client-side-sdk-generation-with-vmware-cloud-foundation-openapi-specs/",
+      "pubDate": "2026-09-07T09:38:44",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/OpenAPI-SDK-Banner...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
       "title": "A Unified Data Architecture For Sovereign Agentic AI With VMware Tanzu And VMware vSAN",
       "link": "https://blogs.vmware.com/tanzu/a-unified-data-architecture-for-sovereign-agentic-ai-with-vmware-tanzu-and-vmware-vsan/",
       "pubDate": "2026-09-03T23:27:50",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/09/02/unlocking-agile-innovation-delivering-on-vmwares-open-networking-approach-with-cisco/",
       "pubDate": "2026-09-02T13:00:00",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/73092148_XXL.jpg?w...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "VMware Explore 2026 in Las Vegas | Day 2 Recap",
-      "link": "https://blogs.vmware.com/explore/vmware-explore-2026-las-vegas-recap-day2/",
-      "pubDate": "2026-09-02T00:03:09",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"199\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/DSCF0963.jpg?w=300...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
