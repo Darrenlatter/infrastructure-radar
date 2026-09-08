@@ -42,6 +42,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Amazon GuardDuty adds optional threat detection rules",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/guardduty-optional-detection-rules/",
+      "pubDate": "2026-09-04T17:01:00",
+      "description": "<p>Amazon GuardDuty now offers Custom Detection Rules, a library of 35 prebuilt, opt-in rules for CloudTrail management events that let you extend thr...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon ECS introduces Early Success Criteria for service deployments",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-deployments-early-success/",
       "pubDate": "2026-09-04T17:00:00",
@@ -82,12 +90,12 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon EC2 C9g and C9gd instances are now available in Asia Pacific (Tokyo) region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-c9g-c9gd-asia-pacific-tokyo/",
-      "pubDate": "2026-09-03T23:00:00",
-      "description": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C9g and C9gd instances, powered by AWS Graviton5 processors, are available in the Asia Pa...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "See How Organizations Achieved 137% ROI with VMware Cloud Foundation 9",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/08/see-how-organizations-achieved-137-roi-with-vmware-cloud-foundation-9/",
+      "pubDate": "2026-09-08T15:00:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Getty-1386532266.j...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Client-Side SDK Generation with VMware Cloud Foundation OpenAPI Specs",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloudprovider/2026/09/announcing-vmware-cloud-director-10-6-2-enabling-your-migration-to-vmware-cloud-foundation-9-1.html",
       "pubDate": "2026-09-03T06:32:28",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"154\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/Screenshot-2026-09...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Unlocking Agile Innovation: Delivering on VMware\u2019s Open Networking Approach with Cisco",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/02/unlocking-agile-innovation-delivering-on-vmwares-open-networking-approach-with-cisco/",
-      "pubDate": "2026-09-02T13:00:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/73092148_XXL.jpg?w...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
