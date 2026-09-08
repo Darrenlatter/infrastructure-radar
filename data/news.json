@@ -10,6 +10,46 @@
   ],
   "articles": [
     {
+      "title": "Amazon RDS for MariaDB now supports community MariaDB minor versions 10.6.28, 10.11.19, 11.4.13, 11.8.9, and 12.3.3",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-mariadb-community-versions/",
+      "pubDate": "2026-09-08T16:00:00",
+      "description": "<p>Starting today, <a href=\"https://aws.amazon.com/rds/mariadb/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore Memory now supports direct ingestion to long-term memory",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/agentcore-memory-direct-ingest",
+      "pubDate": "2026-09-08T16:00:00",
+      "description": "<p>Amazon Bedrock AgentCore Memory now lets developers submit content directly for long-term memory extraction without persisting it as a short-term m...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Dynamic Image Transformation for Amazon CloudFront adds four new features",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/dynamic-image-transfromation-adds-new-features/",
+      "pubDate": "2026-09-08T14:32:00",
+      "description": "<p>Today, AWS announced four new features for Dynamic Image Transformation for Amazon CloudFront (DIT). Customers can now use enhanced smart cropping ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Builder ID adds recovery options and multi-factor authentication for third-party logins",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-builder-id-recovery-mfa-third-party/",
+      "pubDate": "2026-09-08T08:00:00",
+      "description": "<p>AWS Builder ID, your personal profile for accessing AWS applications including AWS Builder Center, AWS Training and Certification, Amazon Quick and...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon MWAA Serverless is now available in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-serverless-aws-govcloud/",
+      "pubDate": "2026-09-04T22:00:00",
+      "description": "<p>Amazon Managed Workflows for Apache Airflow (MWAA) Serverless is now available in AWS GovCloud (US-East) and AWS GovCloud (US-West). Amazon MWAA Se...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon Bedrock Managed Knowledge Base introduces user-managed setup for SharePoint, OneDrive, and Confluence data sources",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/",
       "pubDate": "2026-09-04T21:29:00",
@@ -50,44 +90,12 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon ECS introduces Early Success Criteria for service deployments",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-deployments-early-success/",
-      "pubDate": "2026-09-04T17:00:00",
-      "description": "<p><a href=\"https://aws.amazon.com/ecs/\" target=\"_blank\">Amazon Elastic Container Service</a> (Amazon ECS)&nbsp;now supports Early Success Criteria fo...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS MCP Server adds a serverless capability for AWS Lambda functions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-mcp-server-serverless/",
-      "pubDate": "2026-09-04T16:31:00",
-      "description": "<p>Today, <a href=\"https://docs.aws.amazon.com/agent-toolkit/latest/userguide/mcp-server.html\" rel=\"noopener noreferrer\" target=\"_blank\">AWS Model Con...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon EC2 C8g instances now available in additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-c8g-instances-additional-regions/",
-      "pubDate": "2026-09-04T14:06:00",
-      "description": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8g instances are available in AWS Asia Pacific (Taipei, New Zealand), and&nbsp;AWS GovCl...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Transfer Family SFTP Connectors now support continuing file transfers during credential rotation",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-credential-rotation/",
-      "pubDate": "2026-09-04T08:00:00",
-      "description": "<p>AWS Transfer Family SFTP Connectors now continue running file transfers while you rotate the credentials used to authenticate with remote SFTP serv...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon SageMaker AI Batch Transform now supports G6e instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-batch-transform-g6e-instances/",
-      "pubDate": "2026-09-04T08:00:00",
-      "description": "<p>Amazon SageMaker AI now supports <a href=\"https://aws.amazon.com/ec2/instance-types/g6e/\">Amazon EC2 G6e instances</a> for batch transform. Batch T...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "AI-Ready Private Cloud with Cisco and VMware",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/08/ai-ready-private-cloud-with-cisco-and-vmware/",
+      "pubDate": "2026-09-08T15:33:39",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"337\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/image_ad7134.png?w...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "See How Organizations Achieved 137% ROI with VMware Cloud Foundation 9",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/explore-2026-vmware-ai-factory-and-other-new-ai-innovations-in-vcf/",
       "pubDate": "2026-09-03T07:01:48",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/Private-AI-logo-2....",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Announcing VMware Cloud Director 10.6.2, Enabling Your Migration to VMware Cloud Foundation 9.1",
-      "link": "https://blogs.vmware.com/cloudprovider/2026/09/announcing-vmware-cloud-director-10-6-2-enabling-your-migration-to-vmware-cloud-foundation-9-1.html",
-      "pubDate": "2026-09-03T06:32:28",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"154\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/Screenshot-2026-09...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
