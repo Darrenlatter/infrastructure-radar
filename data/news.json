@@ -10,6 +10,46 @@
   ],
   "articles": [
     {
+      "title": "AWS Lambda now supports Graviton5-powered EC2 instances on Lambda Managed Instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-graviton5-ec2/",
+      "pubDate": "2026-09-09T18:00:00",
+      "description": "<p>AWS Lambda now supports AWS Graviton5-powered C9g, C9gd, M9g, and M9gd instances on <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/lambda-ma...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Lambda now supports 90-minute function timeout on Lambda Managed Instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-90-minute-function/",
+      "pubDate": "2026-09-09T18:00:00",
+      "description": "<p>AWS Lambda now supports a 90-minute function timeout for <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/invocation-async.html\">asynchronous<...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Bedrock Managed Knowledge Base adds APIs and console support for debugging document-level access control",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-knowledge-base-debugging-document-access-control/",
+      "pubDate": "2026-09-09T16:03:00",
+      "description": "<p>AWS announces the CheckIngestedDocumentAcl and GetIngestedDocumentAcl APIs for Amazon Bedrock Managed Knowledge Base, giving customers a self-servi...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Bedrock Managed Knowledge Base now supports Confluence Data Center as a native data source connector",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-confluence-data-center-native-data-source-connector/",
+      "pubDate": "2026-09-09T14:19:00",
+      "description": "<p>AWS announces the Confluence Data Center data source connector for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented gener...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Systems Manager now diagnoses more issues that cause EC2 instances to be unmanaged",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/systems-manager-diagnoses-ec2-unmanaged/",
+      "pubDate": "2026-09-09T08:00:00",
+      "description": "<p>Today, AWS Systems Manager extends its diagnosis capability to identify six additional categories of issues that can prevent Amazon EC2 instances a...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "OpenAI GPT-6 Astra is now generally available on Amazon Bedrock",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-on-amazon-bedrock/",
       "pubDate": "2026-09-08T22:49:00",
@@ -46,46 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-api-gateway-mutual-tls-backend/",
       "pubDate": "2026-09-08T19:16:00",
       "description": "<p>You can now configure Amazon API Gateway REST APIs to present an AWS Certificate Manager (ACM) certificate to your backend during the TLS handshake...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon RDS for MariaDB now supports community MariaDB minor versions 10.6.28, 10.11.19, 11.4.13, 11.8.9, and 12.3.3",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-mariadb-community-versions/",
-      "pubDate": "2026-09-08T16:00:00",
-      "description": "<p>Starting today, <a href=\"https://aws.amazon.com/rds/mariadb/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Bedrock AgentCore Memory now supports direct ingestion to long-term memory",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/agentcore-memory-direct-ingest",
-      "pubDate": "2026-09-08T16:00:00",
-      "description": "<p>Amazon Bedrock AgentCore Memory now lets developers submit content directly for long-term memory extraction without persisting it as a short-term m...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS HealthOmics introduces resource fallback order for WDL workflows",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-healthomics-resourcefallback-wdl/",
-      "pubDate": "2026-09-08T16:00:00",
-      "description": "<p>Today, AWS HealthOmics introduces the resource fallback directive, enabling you to define an ordered list of preferred accelerator types, including...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Dynamic Image Transformation for Amazon CloudFront adds four new features",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/dynamic-image-transformation-adds-new-features/",
-      "pubDate": "2026-09-08T14:32:00",
-      "description": "<p>Today, AWS announced four new features for Dynamic Image Transformation for Amazon CloudFront (DIT), an AWS supported solution that helps customers...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Builder ID adds recovery options and multi-factor authentication for third-party logins",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-builder-id-recovery-mfa-third-party/",
-      "pubDate": "2026-09-08T08:00:00",
-      "description": "<p>AWS Builder ID, your personal profile for accessing AWS applications including AWS Builder Center, AWS Training and Certification, Amazon Quick and...",
       "category": "AWS",
       "source": "AWS What's New"
     },
