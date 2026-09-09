@@ -10,6 +10,46 @@
   ],
   "articles": [
     {
+      "title": "OpenAI GPT-6 Astra is now generally available on Amazon Bedrock",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-on-amazon-bedrock/",
+      "pubDate": "2026-09-08T22:49:00",
+      "description": "<p>Today, AWS announces the general availability of GPT-6 Astra from OpenAI on Amazon Bedrock. The latest and most capable model from OpenAI to date, ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Timestream for InfluxDB 3 now supports custom plugins",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/timestream-influxdb-custom-plugins/",
+      "pubDate": "2026-09-08T21:58:00",
+      "description": "<p>Amazon Timestream for InfluxDB now lets you run your own custom Python plugins on the managed versions of InfluxDB 3 Core and Enterprise editions. ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon SageMaker Feature Store now supports individual feature updates to lower write latency",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/sgm-feature-store-update-record/",
+      "pubDate": "2026-09-08T21:19:00",
+      "description": "<p>Amazon SageMaker Feature Store is a fully managed capability that makes it easy to compute, store, and retrieve features for training and deploying...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Transform is now available in AWS GovCloud (US-West)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-govcloud-us-west/",
+      "pubDate": "2026-09-08T21:00:00",
+      "description": "<p>AWS Transform is now available in the AWS GovCloud (US-West) Region, enabling government agencies and regulated organizations to plan and execute l...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon API Gateway now supports mutual TLS for backend integrations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-api-gateway-mutual-tls-backend/",
+      "pubDate": "2026-09-08T19:16:00",
+      "description": "<p>You can now configure Amazon API Gateway REST APIs to present an AWS Certificate Manager (ACM) certificate to your backend during the TLS handshake...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon RDS for MariaDB now supports community MariaDB minor versions 10.6.28, 10.11.19, 11.4.13, 11.8.9, and 12.3.3",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-mariadb-community-versions/",
       "pubDate": "2026-09-08T16:00:00",
@@ -22,6 +62,14 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/agentcore-memory-direct-ingest",
       "pubDate": "2026-09-08T16:00:00",
       "description": "<p>Amazon Bedrock AgentCore Memory now lets developers submit content directly for long-term memory extraction without persisting it as a short-term m...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS HealthOmics introduces resource fallback order for WDL workflows",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-healthomics-resourcefallback-wdl/",
+      "pubDate": "2026-09-08T16:00:00",
+      "description": "<p>Today, AWS HealthOmics introduces the resource fallback directive, enabling you to define an ordered list of preferred accelerator types, including...",
       "category": "AWS",
       "source": "AWS What's New"
     },
@@ -42,52 +90,12 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon MWAA Serverless is now available in AWS GovCloud (US)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-serverless-aws-govcloud/",
-      "pubDate": "2026-09-04T22:00:00",
-      "description": "<p>Amazon Managed Workflows for Apache Airflow (MWAA) Serverless is now available in AWS GovCloud (US-East) and AWS GovCloud (US-West). Amazon MWAA Se...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Bedrock Managed Knowledge Base introduces user-managed setup for SharePoint, OneDrive, and Confluence data sources",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/",
-      "pubDate": "2026-09-04T21:29:00",
-      "description": "<p>AWS announces user-managed setup (3LO) for SharePoint, OneDrive, and Confluence data sources in Amazon Bedrock Managed Knowledge Base. Previously, ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Bedrock Managed Knowledge Base now supports ServiceNow as a native data source connector",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector/",
-      "pubDate": "2026-09-04T21:14:00",
-      "description": "<p>AWS announces the ServiceNow data source connector for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Bedrock Managed Knowledge Base now supports automatic sync scheduling for data source connectors",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-automatic-sync-scheduling-data-source-connectors/",
-      "pubDate": "2026-09-04T21:01:00",
-      "description": "<p>AWS announces automatic sync scheduling for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) service tha...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon EC2 now supports specifying compatible instance types on AMIs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-images-supported-instances",
-      "pubDate": "2026-09-04T19:26:00",
-      "description": "<p>Amazon EC2 now enables AMI owners to define which instance types are compatible with their AMIs. Owners can specify supported instance types, unsup...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon GuardDuty adds optional threat detection rules",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/guardduty-optional-detection-rules/",
-      "pubDate": "2026-09-04T17:01:00",
-      "description": "<p>Amazon GuardDuty now offers Custom Detection Rules, a library of 35 prebuilt, opt-in rules for CloudTrail management events that let you extend thr...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "VCF Breakroom Chats Episode 94: Supercharging VKS Networking with Tigera",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/08/vcf-breakroom-chats-episode-94-supercharging-vks-networking-with-tigera/",
+      "pubDate": "2026-09-08T20:45:36",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/06/VCF-Breakroom-Chat...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "AI-Ready Private Cloud with Cisco and VMware",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/announcing-general-availability-of-vmware-cloud-foundation-9-1-1/",
       "pubDate": "2026-09-03T13:47:18",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"171\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/07/Getty-1495819409.j...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Explore 2026: VMware AI Factory and other new AI innovations in VCF",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/explore-2026-vmware-ai-factory-and-other-new-ai-innovations-in-vcf/",
-      "pubDate": "2026-09-03T07:01:48",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/Private-AI-logo-2....",
       "category": "VMware",
       "source": "VMware Blogs"
     }
