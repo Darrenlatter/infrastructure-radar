@@ -75,9 +75,9 @@
     },
     {
       "title": "Dynamic Image Transformation for Amazon CloudFront adds four new features",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/dynamic-image-transfromation-adds-new-features/",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/dynamic-image-transformation-adds-new-features/",
       "pubDate": "2026-09-08T14:32:00",
-      "description": "<p>Today, AWS announced four new features for Dynamic Image Transformation for Amazon CloudFront (DIT). Customers can now use enhanced smart cropping ...",
+      "description": "<p>Today, AWS announced four new features for Dynamic Image Transformation for Amazon CloudFront (DIT), an AWS supported solution that helps customers...",
       "category": "AWS",
       "source": "AWS What's New"
     },
