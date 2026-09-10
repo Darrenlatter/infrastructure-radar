@@ -66,14 +66,6 @@
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Private CA EKS add-on and Connector for AD now available in AWS GovCloud (US)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/private-ca-eks-addon-ad-govcloud/",
-      "pubDate": "2026-09-09T08:00:00",
-      "description": "<p>AWS Private Certificate Authority (AWS Private CA) announces the availability of the AWS Private CA Connector for Kubernetes as a managed Amazon EK...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
       "title": "AWS Systems Manager now diagnoses more issues that cause EC2 instances to be unmanaged",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/systems-manager-diagnoses-ec2-unmanaged/",
       "pubDate": "2026-09-09T08:00:00",
@@ -82,10 +74,18 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Connect Customer Profiles now sends events when customers enter or exit segments",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-customer-profiles-segment-events/",
+      "title": "AWS Private CA EKS add-on and Connector for AD now available in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/private-ca-eks-addon-ad-govcloud/",
       "pubDate": "2026-09-09T08:00:00",
-      "description": "<p>Amazon Connect Customer Profiles now sends segment membership events, providing the ability to receive real-time and scheduled notifications when c...",
+      "description": "<p>AWS Private Certificate Authority (AWS Private CA) announces the availability of the AWS Private CA Connector for Kubernetes as a managed Amazon EK...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Entity Resolution adds record-level confidence scores for ML matching",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/entity-resolution-record-confidence/",
+      "pubDate": "2026-09-09T08:00:00",
+      "description": "<p>AWS Entity Resolution now provides record-level confidence scores for Machine Learning (ML) based matching workflows, giving you a per-record signa...",
       "category": "AWS",
       "source": "AWS What's New"
     },
