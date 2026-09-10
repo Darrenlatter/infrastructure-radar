@@ -10,10 +10,18 @@
   ],
   "articles": [
     {
-      "title": "AWS Lambda now supports Graviton5-powered EC2 instances on Lambda Managed Instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-graviton5-ec2/",
-      "pubDate": "2026-09-09T18:00:00",
-      "description": "<p>AWS Lambda now supports AWS Graviton5-powered C9g, C9gd, M9g, and M9gd instances on <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/lambda-ma...",
+      "title": "Amazon Connect Customer now lets you set specific capacity limits for different types of Tasks and Emails",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-capacity-limits/",
+      "pubDate": "2026-09-09T21:00:00",
+      "description": "<p>Amazon Connect Customer now gives contact center managers the ability to set specific capacity limits for different kinds of work. Previously, conc...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Transform for .NET modernization is now generally available via CLI",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-dotnet-cli",
+      "pubDate": "2026-09-09T20:00:00",
+      "description": "<p>Today, AWS announced the general availability of an AWS-managed transformation for .NET modernization in AWS Transform custom that you can trigger ...",
       "category": "AWS",
       "source": "AWS What's New"
     },
@@ -22,6 +30,14 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-90-minute-function/",
       "pubDate": "2026-09-09T18:00:00",
       "description": "<p>AWS Lambda now supports a 90-minute function timeout for <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/invocation-async.html\">asynchronous<...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Lambda now supports Graviton5-powered EC2 instances on Lambda Managed Instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-graviton5-ec2/",
+      "pubDate": "2026-09-09T18:00:00",
+      "description": "<p>AWS Lambda now supports AWS Graviton5-powered C9g, C9gd, M9g, and M9gd instances on <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/lambda-ma...",
       "category": "AWS",
       "source": "AWS What's New"
     },
@@ -42,6 +58,22 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Amazon EBS Volume Clones now supports copying volumes across accounts",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ebs-volume-clones-cross-account-copy/",
+      "pubDate": "2026-09-09T10:00:00",
+      "description": "<p>Amazon Elastic Block Store (Amazon EBS) Volume Clones now supports copying EBS volumes across AWS accounts with re-encryption. You can copy EBS vol...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Private CA EKS add-on and Connector for AD now available in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/private-ca-eks-addon-ad-govcloud/",
+      "pubDate": "2026-09-09T08:00:00",
+      "description": "<p>AWS Private Certificate Authority (AWS Private CA) announces the availability of the AWS Private CA Connector for Kubernetes as a managed Amazon EK...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Systems Manager now diagnoses more issues that cause EC2 instances to be unmanaged",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/systems-manager-diagnoses-ec2-unmanaged/",
       "pubDate": "2026-09-09T08:00:00",
@@ -50,42 +82,10 @@
       "source": "AWS What's New"
     },
     {
-      "title": "OpenAI GPT-6 Astra is now generally available on Amazon Bedrock",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-on-amazon-bedrock/",
-      "pubDate": "2026-09-08T22:49:00",
-      "description": "<p>Today, AWS announces the general availability of GPT-6 Astra from OpenAI on Amazon Bedrock. The latest and most capable model from OpenAI to date, ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Timestream for InfluxDB 3 now supports custom plugins",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/timestream-influxdb-custom-plugins/",
-      "pubDate": "2026-09-08T21:58:00",
-      "description": "<p>Amazon Timestream for InfluxDB now lets you run your own custom Python plugins on the managed versions of InfluxDB 3 Core and Enterprise editions. ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon SageMaker Feature Store now supports individual feature updates to lower write latency",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/sgm-feature-store-update-record/",
-      "pubDate": "2026-09-08T21:19:00",
-      "description": "<p>Amazon SageMaker Feature Store is a fully managed capability that makes it easy to compute, store, and retrieve features for training and deploying...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Transform is now available in AWS GovCloud (US-West)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-govcloud-us-west/",
-      "pubDate": "2026-09-08T21:00:00",
-      "description": "<p>AWS Transform is now available in the AWS GovCloud (US-West) Region, enabling government agencies and regulated organizations to plan and execute l...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon API Gateway now supports mutual TLS for backend integrations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-api-gateway-mutual-tls-backend/",
-      "pubDate": "2026-09-08T19:16:00",
-      "description": "<p>You can now configure Amazon API Gateway REST APIs to present an AWS Certificate Manager (ACM) certificate to your backend during the TLS handshake...",
+      "title": "Amazon Connect Customer Profiles now sends events when customers enter or exit segments",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-customer-profiles-segment-events/",
+      "pubDate": "2026-09-09T08:00:00",
+      "description": "<p>Amazon Connect Customer Profiles now sends segment membership events, providing the ability to receive real-time and scheduled notifications when c...",
       "category": "AWS",
       "source": "AWS What's New"
     },
