@@ -10,6 +10,54 @@
   ],
   "articles": [
     {
+      "title": "Amazon EC2 X2idn instances are now available in Asia Pacific (Hong Kong)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x2idn-asia-pacific-hong-kong/",
+      "pubDate": "2026-09-11T18:35:00",
+      "description": "<p>Memory-optimized Amazon Elastic Compute Cloud (Amazon EC2) X2idn instances are now available in Asia Pacific (Hong Kong) Region. These instances, p...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon SageMaker HyperPod now supports model caching for faster inference autoscaling and reduced cold starts",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sgm-hyperpod-model-caching-inf/",
+      "pubDate": "2026-09-11T18:25:00",
+      "description": "<p>Amazon SageMaker HyperPod now supports model caching, an inference optimization that pre-loads model weights and container images onto cluster node...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Bedrock Managed Knowledge Base now supports multimodal embeddings for video, audio, and image content with TwelveLabs Marengo 3.0",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-multimodal-embeddings-twelvelabs-marengo/",
+      "pubDate": "2026-09-11T15:13:00",
+      "description": "<p>AWS announces the availability of TwelveLabs Marengo 3.0 as an embedding model in Amazon Bedrock Managed Knowledge Base, enabling customers to crea...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS HealthOmics now publishes real-time run metrics to Amazon CloudWatch",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-healthomics-realtime-run-metrics/",
+      "pubDate": "2026-09-11T15:00:00",
+      "description": "<p>AWS HealthOmics now publishes real-time run metrics to Amazon CloudWatch, giving you visibility into workflow resource utilization as runs execute....",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS DevOps Agent adds support for bidirectional Slack communication",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-bidirectional-slack-communication",
+      "pubDate": "2026-09-11T15:00:00",
+      "description": "<p>AWS DevOps Agent now enables engineers to manage&nbsp;production operations&nbsp;across AWS, multicloud, and on-premises environments with the comp...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon RDS for Oracle now supports Supplemental Patch Bundle for July 2026 Release Update",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-oracle-supports-spatial-patch-bundle-jul-2026-ru/",
+      "pubDate": "2026-09-11T07:12:00",
+      "description": "<p><a href=\"https://aws.amazon.com/rds/oracle/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for Oracle</...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Lambda recursive loop detection is now available in Europe Sovereign Cloud",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/lambda-recursion-europe-sovereign-cloud",
       "pubDate": "2026-09-10T20:00:00",
@@ -38,54 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-durable-pydantic-ai/",
       "pubDate": "2026-09-10T18:45:00",
       "description": "<p>Today, AWS Lambda durable functions announces an integration with <a href=\"https://pydantic.dev/docs/ai/overview/\">Pydantic AI</a>, an open source ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon MQ now supports RabbitMQ 4.3",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mq-rabbitmq-43/",
-      "pubDate": "2026-09-10T18:08:00",
-      "description": "<p>Amazon MQ now supports RabbitMQ version 4.3 which adds quorum queue feature enhancements such as compaction, increased priority levels, native dela...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Announcing second-generation single-rack AWS Outposts",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/single-rack-aws-outposts/",
-      "pubDate": "2026-09-10T17:58:00",
-      "description": "<p>Today, AWS announces the general availability of second-generation single-rack AWS Outposts, a self-contained 42U rack that integrates compute, sto...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon OpenSearch Serverless is now available on v0 by Vercel",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-opensearch-serverless-available-V0-vercel/",
-      "pubDate": "2026-09-10T17:00:00",
-      "description": "<p>You can now build full-stack search and AI applications in minutes using Amazon OpenSearch Serverless on v0 by Vercel, an AI-powered platform that ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon ECS expands IAM condition key support for RunTask and StartTask APIs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-expands-condition-key-support/",
-      "pubDate": "2026-09-10T16:52:00",
-      "description": "<p><br /> <a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service</a> (Amazon ECS) now supports the IAM condition keys for CPU and memo...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Redshift RG instances now available in Europe (Zurich) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-redshift-rg-available-zurich",
-      "pubDate": "2026-09-10T16:00:00",
-      "description": "<p>Amazon Redshift RG instances, powered by AWS Graviton processors, are now available in the AWS Europe (Zurich) Region. RG instances deliver better ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon CloudWatch now supports network health indicator for TGW inter-Region peering using synthetic monitors",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudwatch-network-monitoring-tgw-support/",
-      "pubDate": "2026-09-10T11:00:00",
-      "description": "<p>With synthetic monitors in Amazon CloudWatch Network Monitoring, you can now determine whether a network performance issue on a path that crosses a...",
       "category": "AWS",
       "source": "AWS What's New"
     },
