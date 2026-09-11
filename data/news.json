@@ -10,6 +10,30 @@
   ],
   "articles": [
     {
+      "title": "AWS Lambda recursive loop detection is now available in Europe Sovereign Cloud",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/lambda-recursion-europe-sovereign-cloud",
+      "pubDate": "2026-09-10T20:00:00",
+      "description": "<p>AWS Lambda <a href=\"https://docs.aws.eu/lambda/latest/dg/invocation-recursion.html\">recursive loop detection</a> is now supported for functions run...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Transform for .NET now generates unit tests for modernized code",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-net-unit-tests",
+      "pubDate": "2026-09-10T20:00:00",
+      "description": "<p>Today, AWS announced that AWS Transform for .NET can automatically generate unit tests for the code it modernizes. When enabled, AWS Transform gene...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon API Gateway now supports 1 MB execution logs with configurable delivery destinations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-api-gateway-1-mb-execution-logs/",
+      "pubDate": "2026-09-10T20:00:00",
+      "description": "<p>Amazon API Gateway now supports configurable delivery destinations and larger log events for REST API execution logs. Previously, execution logs we...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Lambda durable functions integrates with Pydantic AI",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-durable-pydantic-ai/",
       "pubDate": "2026-09-10T18:45:00",
@@ -42,6 +66,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Amazon ECS expands IAM condition key support for RunTask and StartTask APIs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-expands-condition-key-support/",
+      "pubDate": "2026-09-10T16:52:00",
+      "description": "<p><br /> <a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service</a> (Amazon ECS) now supports the IAM condition keys for CPU and memo...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon Redshift RG instances now available in Europe (Zurich) Region",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-redshift-rg-available-zurich",
       "pubDate": "2026-09-10T16:00:00",
@@ -54,38 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudwatch-network-monitoring-tgw-support/",
       "pubDate": "2026-09-10T11:00:00",
       "description": "<p>With synthetic monitors in Amazon CloudWatch Network Monitoring, you can now determine whether a network performance issue on a path that crosses a...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Elemental Inference now generates contextual metadata from live video in real time",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/elemental-inference-contextual-metadata/",
-      "pubDate": "2026-09-10T08:00:00",
-      "description": "<p><a href=\"https://aws.amazon.com/elemental-inference/\">AWS Elemental Inference</a> now generates contextual metadata from live video streams in real...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Elemental MediaTailor now offers Yield Optimization to automatically fill ad breaks with Amazon Ads demand",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/mediatailor-yield-optimization/",
-      "pubDate": "2026-09-10T08:00:00",
-      "description": "<p>AWS Elemental MediaTailor now offers Yield Optimization, a new capability that automatically monetizes unused ad inventory with Amazon Ads demand d...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Elemental MediaLive adds support for A/B forensic watermarking",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-ab-forensic-watermarking/",
-      "pubDate": "2026-09-10T08:00:00",
-      "description": "<p>AWS Elemental MediaLive now supports A/B forensic watermarking, enabling content owners to trace the source of unauthorized redistribution of live ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Elemental MediaTailor now supports Low-Latency HLS ad insertion",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-mediatailor-low-latency-hls-ad-insertion",
-      "pubDate": "2026-09-10T08:00:00",
-      "description": "<p>AWS Elemental MediaTailor now supports Low-Latency HTTP Live Streaming (LL-HLS) ad insertion using HLS Interstitials. MediaTailor is a channel asse...",
       "category": "AWS",
       "source": "AWS What's New"
     },
