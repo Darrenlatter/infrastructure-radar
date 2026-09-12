@@ -26,6 +26,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "AWS Lambda now supports direct read configuration for Amazon S3 Files",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-direct-read-s3files/",
+      "pubDate": "2026-09-11T17:00:00",
+      "description": "<p>AWS Lambda now supports <a href=\"https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-files-performance.html#s3-files-performance-how\">direct r...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon Bedrock Managed Knowledge Base now supports multimodal embeddings for video, audio, and image content with TwelveLabs Marengo 3.0",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-multimodal-embeddings-twelvelabs-marengo/",
       "pubDate": "2026-09-11T15:13:00",
@@ -43,7 +51,7 @@
     },
     {
       "title": "AWS DevOps Agent adds support for bidirectional Slack communication",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-bidirectional-slack-communication",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-devops-agent-bidirectional-slack-communication",
       "pubDate": "2026-09-11T15:00:00",
       "description": "<p>AWS DevOps Agent now enables engineers to manage&nbsp;production operations&nbsp;across AWS, multicloud, and on-premises environments with the comp...",
       "category": "AWS",
@@ -78,14 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-api-gateway-1-mb-execution-logs/",
       "pubDate": "2026-09-10T20:00:00",
       "description": "<p>Amazon API Gateway now supports configurable delivery destinations and larger log events for REST API execution logs. Previously, execution logs we...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Lambda durable functions integrates with Pydantic AI",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-durable-pydantic-ai/",
-      "pubDate": "2026-09-10T18:45:00",
-      "description": "<p>Today, AWS Lambda durable functions announces an integration with <a href=\"https://pydantic.dev/docs/ai/overview/\">Pydantic AI</a>, an open source ...",
       "category": "AWS",
       "source": "AWS What's New"
     },
