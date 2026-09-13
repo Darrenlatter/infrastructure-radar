@@ -10,6 +10,14 @@
   ],
   "articles": [
     {
+      "title": "AWS Elemental MediaLive enables frame-accurate pipeline locking for streams without timecode",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-pipeline-locking/",
+      "pubDate": "2026-09-12T08:00:00",
+      "description": "<p>AWS Elemental MediaLive now supports Video Aligned Locking, a new feature to synchronize video pipelines without requiring timecode from the source...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon EC2 X2idn instances are now available in Asia Pacific (Hong Kong)",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x2idn-asia-pacific-hong-kong/",
       "pubDate": "2026-09-11T18:35:00",
@@ -78,14 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-net-unit-tests",
       "pubDate": "2026-09-10T20:00:00",
       "description": "<p>Today, AWS announced that AWS Transform for .NET can automatically generate unit tests for the code it modernizes. When enabled, AWS Transform gene...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon API Gateway now supports 1 MB execution logs with configurable delivery destinations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-api-gateway-1-mb-execution-logs/",
-      "pubDate": "2026-09-10T20:00:00",
-      "description": "<p>Amazon API Gateway now supports configurable delivery destinations and larger log events for REST API execution logs. Previously, execution logs we...",
       "category": "AWS",
       "source": "AWS What's New"
     },
