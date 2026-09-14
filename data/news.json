@@ -10,6 +10,38 @@
   ],
   "articles": [
     {
+      "title": "Qwen3.6-35B-A3B-NVFP4 and Wan2.1-T2V-1.3B-Diffusers models now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/qwen3.6-35b-a3b-nvfp4-wan2.1-t2v-1.3B-diffusers-jumpstart/",
+      "pubDate": "2026-09-14T17:39:00",
+      "description": "<p>NVIDIA's Qwen3.6-35B-A3B-NVFP4 and Alibaba's Wan2.1-T2V-1.3B-Diffusers models are now available on Amazon SageMaker JumpStart, expanding the portfo...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Ministral-3-3B-Instruct-2512 and Ministral-3-8B-Instruct-2512 models now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/ministral-3-3b-instruct-2512-ministral-3-8B-Instruct-2512-jumpstart/",
+      "pubDate": "2026-09-14T17:35:00",
+      "description": "<p>Mistral AI's Ministral-3-3B-Instruct-2512 and Ministral-3-8B-Instruct-2512 models are now available on Amazon SageMaker JumpStart, expanding the po...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Gemma-4-31B-it-assistant and Gemma-4-31B-IT-NVFP4 models now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/gemma-4-31b-it-assistant-gemma-4-31b-it-nvfp4-jumpstart/",
+      "pubDate": "2026-09-14T17:32:00",
+      "description": "<p>Google DeepMind's Gemma-4-31B-it-assistant and NVIDIA's Gemma-4-31B-IT-NVFP4 models are now available on Amazon SageMaker JumpStart, expanding the ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "granite-speech-4.1-2b, kanana-2-30b-a3b-instruct, and OpenFold3 models now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/granite-speech-4.1-2b-edge-kanana-2-30b-a3b-instruct-openfold3-jumpstart/",
+      "pubDate": "2026-09-14T17:30:00",
+      "description": "<p>BM's granite-speech-4.1-2b, Kakao's kanana-2-30b-a3b-instruct, and the OpenFold Consortium's OpenFold3 models are now available on Amazon SageMaker...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Elemental MediaLive enables frame-accurate pipeline locking for streams without timecode",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-pipeline-locking/",
       "pubDate": "2026-09-12T08:00:00",
@@ -54,38 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-healthomics-realtime-run-metrics/",
       "pubDate": "2026-09-11T15:00:00",
       "description": "<p>AWS HealthOmics now publishes real-time run metrics to Amazon CloudWatch, giving you visibility into workflow resource utilization as runs execute....",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS DevOps Agent adds support for bidirectional Slack communication",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-devops-agent-bidirectional-slack-communication",
-      "pubDate": "2026-09-11T15:00:00",
-      "description": "<p>AWS DevOps Agent now enables engineers to manage&nbsp;production operations&nbsp;across AWS, multicloud, and on-premises environments with the comp...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon RDS for Oracle now supports Supplemental Patch Bundle for July 2026 Release Update",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-oracle-supports-spatial-patch-bundle-jul-2026-ru/",
-      "pubDate": "2026-09-11T07:12:00",
-      "description": "<p><a href=\"https://aws.amazon.com/rds/oracle/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for Oracle</...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Lambda recursive loop detection is now available in Europe Sovereign Cloud",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/lambda-recursion-europe-sovereign-cloud",
-      "pubDate": "2026-09-10T20:00:00",
-      "description": "<p>AWS Lambda <a href=\"https://docs.aws.eu/lambda/latest/dg/invocation-recursion.html\">recursive loop detection</a> is now supported for functions run...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Transform for .NET now generates unit tests for modernized code",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-net-unit-tests",
-      "pubDate": "2026-09-10T20:00:00",
-      "description": "<p>Today, AWS announced that AWS Transform for .NET can automatically generate unit tests for the code it modernizes. When enabled, AWS Transform gene...",
       "category": "AWS",
       "source": "AWS What's New"
     },
