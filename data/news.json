@@ -10,6 +10,38 @@
   ],
   "articles": [
     {
+      "title": "Amazon SageMaker AI now supports instance preference lists for training and processing jobs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-training-processing-instance-pref-lists/",
+      "pubDate": "2026-09-15T18:30:00",
+      "description": "<p>Today, Amazon SageMaker AI announces instance preference lists for training and processing jobs, making it easier and faster to find compute capaci...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Analyze your CloudTrail events using natural language in Amazon Q Console",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudtrail-amazon-q-console/",
+      "pubDate": "2026-09-15T16:54:00",
+      "description": "<p>AWS CloudTrail, a service that records API activity across your AWS account for security auditing, compliance, and operational troubleshooting, now...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Connect Customer now enables agents to bid on preferred shifts",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-shift-bidding/",
+      "pubDate": "2026-09-15T16:00:00",
+      "description": "<p>Amazon Connect Customer now enables agents to bid on preferred shifts, giving them more control over their work schedules. Schedulers first establi...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS improves regional resiliency for root user sign-in",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/root-user-regional-resiliency/",
+      "pubDate": "2026-09-14T19:30:00",
+      "description": "<p>AWS root user sign-in is now served across US East (N. Virginia), US East (Ohio), and US West (Oregon), with sign-in traffic distributed across all...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Qwen3.6-35B-A3B-NVFP4 and Wan2.1-T2V-1.3B-Diffusers models now available on Amazon SageMaker JumpStart",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/qwen3.6-35b-a3b-nvfp4-wan2.1-t2v-1.3B-diffusers-jumpstart/",
       "pubDate": "2026-09-14T17:39:00",
@@ -56,118 +88,6 @@
       "description": "<p>AWS End User Messaging now supports dynamic WhatsApp flows so you can turn WhatsApp conversations into rich, interactive experiences that end-users...",
       "category": "AWS",
       "source": "AWS What's New"
-    },
-    {
-      "title": "AWS End User Messaging strengthens SMS deliverability with automatic failover",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-end-user-messaging-improves-deliverability",
-      "pubDate": "2026-09-14T07:00:00",
-      "description": "<p>AWS End User Messaging is advancing its deliverability capabilities in phone pools. Now, customers sending through phone pools automatically benefi...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Elemental MediaLive enables frame-accurate pipeline locking for streams without timecode",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-pipeline-locking/",
-      "pubDate": "2026-09-12T08:00:00",
-      "description": "<p>AWS Elemental MediaLive now supports Video Aligned Locking, a new feature to synchronize video pipelines without requiring timecode from the source...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon EC2 X2idn instances are now available in Asia Pacific (Hong Kong)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x2idn-asia-pacific-hong-kong/",
-      "pubDate": "2026-09-11T18:35:00",
-      "description": "<p>Memory-optimized Amazon Elastic Compute Cloud (Amazon EC2) X2idn instances are now available in Asia Pacific (Hong Kong) Region. These instances, p...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon SageMaker HyperPod now supports model caching for faster inference autoscaling and reduced cold starts",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sgm-hyperpod-model-caching-inf/",
-      "pubDate": "2026-09-11T18:25:00",
-      "description": "<p>Amazon SageMaker HyperPod now supports model caching, an inference optimization that pre-loads model weights and container images onto cluster node...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "VCF Breakroom Chats Episode 94: Supercharging VKS Networking with Tigera",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/08/vcf-breakroom-chats-episode-94-supercharging-vks-networking-with-tigera/",
-      "pubDate": "2026-09-08T20:45:36",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/06/VCF-Breakroom-Chat...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "AI-Ready Private Cloud with Cisco and VMware",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/08/ai-ready-private-cloud-with-cisco-and-vmware/",
-      "pubDate": "2026-09-08T15:33:39",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"337\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/image_ad7134.png?w...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "See How Organizations Achieved 137% ROI with VMware Cloud Foundation 9",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/08/see-how-organizations-achieved-137-roi-with-vmware-cloud-foundation-9/",
-      "pubDate": "2026-09-08T15:00:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Getty-1386532266.j...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Client-Side SDK Generation with VMware Cloud Foundation OpenAPI Specs",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/07/client-side-sdk-generation-with-vmware-cloud-foundation-openapi-specs/",
-      "pubDate": "2026-09-07T09:38:44",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/OpenAPI-SDK-Banner...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "A Unified Data Architecture For Sovereign Agentic AI With VMware Tanzu And VMware vSAN",
-      "link": "https://blogs.vmware.com/tanzu/a-unified-data-architecture-for-sovereign-agentic-ai-with-vmware-tanzu-and-vmware-vsan/",
-      "pubDate": "2026-09-03T23:27:50",
-      "description": "<p>By combining VMware Tanzu Greenplum with VMware vSAN, organizations can bring their AI compute directly to their data storage layer for improved co...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Get to VMware Cloud Foundation Faster with VMware Pro Cloud Services",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/get-to-vmware-cloud-foundation-faster-with-vmware-pro-cloud-services/",
-      "pubDate": "2026-09-03T20:21:10",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"164\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/vmw-pro-cloud-4b.p...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "VMware Explore 2026 in Las Vegas | Day 4 Recap",
-      "link": "https://blogs.vmware.com/explore/vmware-explore-2026-las-vegas-recap-day4/",
-      "pubDate": "2026-09-03T19:00:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"188\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/IMG_4267.jpeg?w=30...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "From Bottleneck to Breakthrough: Centralizing GitOps at Enterprise Scale with VCF 9.1.1",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/from-bottleneck-to-breakthrough-centralizing-gitops-at-enterprise-scale-with-vcf-9-1-1/",
-      "pubDate": "2026-09-03T14:03:46",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"199\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/GettyImages-149007...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "New AI and Kubernetes Private Cloud Operations Capabilities in VMware Cloud Foundation 9.1.1",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/new-ai-and-kubernetes-private-cloud-operations-capabilities-in-vmware-cloud-foundation-9-1-1/",
-      "pubDate": "2026-09-03T14:00:05",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"148\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/Getty-1774553067.j...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Announcing General Availability of VMware Cloud Foundation 9.1.1",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/announcing-general-availability-of-vmware-cloud-foundation-9-1-1/",
-      "pubDate": "2026-09-03T13:47:18",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"171\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/07/Getty-1495819409.j...",
-      "category": "VMware",
-      "source": "VMware Blogs"
     }
   ]
 }
