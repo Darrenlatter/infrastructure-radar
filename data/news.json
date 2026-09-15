@@ -42,6 +42,30 @@
       "source": "AWS What's New"
     },
     {
+      "title": "AWS Glue zero-ETL adds target table property ownership and conflict detection",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/glue-zero-etl-ownership-conflicts/",
+      "pubDate": "2026-09-14T08:00:00",
+      "description": "<p>AWS Glue zero-ETL integrations now detect table property conflicts and track integration ownership. When you configure a source table and target ca...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS End User Messaging now supports Dynamic Flows in WhatsApp",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-end-user-messaging-whatsapp-dynamic-flows",
+      "pubDate": "2026-09-14T07:00:00",
+      "description": "<p>AWS End User Messaging now supports dynamic WhatsApp flows so you can turn WhatsApp conversations into rich, interactive experiences that end-users...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS End User Messaging strengthens SMS deliverability with automatic failover",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-end-user-messaging-improves-deliverability",
+      "pubDate": "2026-09-14T07:00:00",
+      "description": "<p>AWS End User Messaging is advancing its deliverability capabilities in phone pools. Now, customers sending through phone pools automatically benefi...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Elemental MediaLive enables frame-accurate pipeline locking for streams without timecode",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-pipeline-locking/",
       "pubDate": "2026-09-12T08:00:00",
@@ -62,30 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sgm-hyperpod-model-caching-inf/",
       "pubDate": "2026-09-11T18:25:00",
       "description": "<p>Amazon SageMaker HyperPod now supports model caching, an inference optimization that pre-loads model weights and container images onto cluster node...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Lambda now supports direct read configuration for Amazon S3 Files",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-direct-read-s3files/",
-      "pubDate": "2026-09-11T17:00:00",
-      "description": "<p>AWS Lambda now supports <a href=\"https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-files-performance.html#s3-files-performance-how\">direct r...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Bedrock Managed Knowledge Base now supports multimodal embeddings for video, audio, and image content with TwelveLabs Marengo 3.0",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-multimodal-embeddings-twelvelabs-marengo/",
-      "pubDate": "2026-09-11T15:13:00",
-      "description": "<p>AWS announces the availability of TwelveLabs Marengo 3.0 as an embedding model in Amazon Bedrock Managed Knowledge Base, enabling customers to crea...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS HealthOmics now publishes real-time run metrics to Amazon CloudWatch",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-healthomics-realtime-run-metrics/",
-      "pubDate": "2026-09-11T15:00:00",
-      "description": "<p>AWS HealthOmics now publishes real-time run metrics to Amazon CloudWatch, giving you visibility into workflow resource utilization as runs execute....",
       "category": "AWS",
       "source": "AWS What's New"
     },
