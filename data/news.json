@@ -34,6 +34,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "AWS Step Functions adds new AWS service integrations automatically, starting with AWS Lambda MicroVMs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-step-functions-integrations/",
+      "pubDate": "2026-09-15T18:54:00",
+      "description": "<p><a href=\"https://aws.amazon.com/step-functions/\">AWS Step Functions</a> now automatically adds AWS SDK integrations for new AWS services and capabi...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon SageMaker AI now supports instance preference lists for training and processing jobs",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-training-processing-instance-pref-lists/",
       "pubDate": "2026-09-15T18:30:00",
@@ -78,14 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/qwen3.6-35b-a3b-nvfp4-wan2.1-t2v-1.3B-diffusers-jumpstart/",
       "pubDate": "2026-09-14T17:39:00",
       "description": "<p>NVIDIA's Qwen3.6-35B-A3B-NVFP4 and Alibaba's Wan2.1-T2V-1.3B-Diffusers models are now available on Amazon SageMaker JumpStart, expanding the portfo...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Ministral-3-3B-Instruct-2512 and Ministral-3-8B-Instruct-2512 models now available on Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/ministral-3-3b-instruct-2512-ministral-3-8B-Instruct-2512-jumpstart/",
-      "pubDate": "2026-09-14T17:35:00",
-      "description": "<p>Mistral AI's Ministral-3-3B-Instruct-2512 and Ministral-3-8B-Instruct-2512 models are now available on Amazon SageMaker JumpStart, expanding the po...",
       "category": "AWS",
       "source": "AWS What's New"
     },
