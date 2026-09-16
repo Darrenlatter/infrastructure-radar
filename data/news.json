@@ -10,6 +10,70 @@
   ],
   "articles": [
     {
+      "title": "AWS Client VPN is now supporting MacOS 27 Golden Gate",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-client-vpn-macos-golden-gate/",
+      "pubDate": "2026-09-16T17:56:00",
+      "description": "<p>AWS Client VPN now supports MacOS 27 Golden Gate client with versions 6.0+ You can now run the AWS supplied VPN client on the latest MacOS versions...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "New AWS experience helps builders get started and ship faster",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/New-AWS-Builder-Experience",
+      "pubDate": "2026-09-16T17:45:00",
+      "description": "<p>Builders can now sign up for a new simplified experience that makes it faster to turn ideas into running code on AWS. AWS services provide an array...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon WorkSpaces adds support for NVIDIA Blackwell GPU instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-nvidia-blackwell-gpu-instances/",
+      "pubDate": "2026-09-16T17:00:00",
+      "description": "<p>Amazon WorkSpaces Personal and Amazon WorkSpaces Core now support Graphics G7 bundles, built on NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs a...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Connect Customer custom metrics now supports tag-based access control",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-customer-custom-metrics-tag/",
+      "pubDate": "2026-09-16T17:00:00",
+      "description": "<p>Amazon Connect Customer now supports tag-based access control for custom metrics, so you can govern which users and roles can view, create, or modi...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Elemental MediaTailor Monetization Functions adds ad response hooks",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-mediatailor-functions-ad-response-hooks",
+      "pubDate": "2026-09-16T16:30:00",
+      "description": "<p>AWS Elemental MediaTailor now supports two additional lifecycle hooks for monetization functions: post ad decision server (ADS) response, and pre m...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon ECS extends Amazon S3 Files support to the Amazon EC2 compute type",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-s3-files-ec2/",
+      "pubDate": "2026-09-16T16:25:00",
+      "description": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service</a> (Amazon ECS) now supports Amazon S3 Files for tasks running on the Amazo...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Connect Customer now lets you create, manage, and search custom metrics through APIs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-customer-custom-metrics-apis/",
+      "pubDate": "2026-09-16T16:00:00",
+      "description": "<p>Amazon Connect Customer provides a library of standard metrics. Custom metrics let you go further; defining the measurements unique to your busines...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS STS simplifies session token size limits and adds session token size monitoring",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-sts/",
+      "pubDate": "2026-09-15T22:42:00",
+      "description": "<p>AWS Security Token Service (STS) now enforces a single 4,096-byte size limit on session tokens. Previously, STS enforced separate limits on session...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Monitor cost anomalies directly in Billing and Cost Management Dashboards with the new Detected Anomalies widget",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/monitor-detected-anomalies-using-dashboards",
       "pubDate": "2026-09-15T22:00:00",
@@ -26,68 +90,12 @@
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Billing Conductor now supports custom rates and usage tier pricing configurations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/AWS-Billing-Conductor-custom-rates-usage-tier",
-      "pubDate": "2026-09-15T18:58:00",
-      "description": "<p>AWS Billing Conductor now lets you define custom rate pricing for AWS services, including defining custom usage tiers to configure rates by the des...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Step Functions adds new AWS service integrations automatically, starting with AWS Lambda MicroVMs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-step-functions-integrations/",
-      "pubDate": "2026-09-15T18:54:00",
-      "description": "<p><a href=\"https://aws.amazon.com/step-functions/\">AWS Step Functions</a> now automatically adds AWS SDK integrations for new AWS services and capabi...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon SageMaker AI now supports instance preference lists for training and processing jobs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-training-processing-instance-pref-lists/",
-      "pubDate": "2026-09-15T18:30:00",
-      "description": "<p>Today, Amazon SageMaker AI announces instance preference lists for training and processing jobs, making it easier and faster to find compute capaci...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Analyze your CloudTrail events using natural language in Amazon Q Console",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudtrail-amazon-q-console/",
-      "pubDate": "2026-09-15T16:54:00",
-      "description": "<p>AWS CloudTrail, a service that records API activity across your AWS account for security auditing, compliance, and operational troubleshooting, now...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Connect Customer now enables agents to bid on preferred shifts",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-shift-bidding/",
-      "pubDate": "2026-09-15T16:00:00",
-      "description": "<p>Amazon Connect Customer now enables agents to bid on preferred shifts, giving them more control over their work schedules. Schedulers first establi...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Glue zero-ETL now captures archived Salesforce records",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/glue-zero-etl-archived-salesforce/",
-      "pubDate": "2026-09-15T08:00:00",
-      "description": "<p>AWS Glue zero-ETL integrations for Salesforce now capture archived records in your target tables, giving you a complete replica of your Salesforce ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS improves regional resiliency for root user sign-in",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/root-user-regional-resiliency/",
-      "pubDate": "2026-09-14T19:30:00",
-      "description": "<p>AWS root user sign-in is now served across US East (N. Virginia), US East (Ohio), and US West (Oregon), with sign-in traffic distributed across all...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Qwen3.6-35B-A3B-NVFP4 and Wan2.1-T2V-1.3B-Diffusers models now available on Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/qwen3.6-35b-a3b-nvfp4-wan2.1-t2v-1.3B-diffusers-jumpstart/",
-      "pubDate": "2026-09-14T17:39:00",
-      "description": "<p>NVIDIA's Qwen3.6-35B-A3B-NVFP4 and Alibaba's Wan2.1-T2V-1.3B-Diffusers models are now available on Amazon SageMaker JumpStart, expanding the portfo...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "First VMmark 4.1 Power-Performance and VMware Cloud Foundation 9.1 Results",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/16/first-vmmark-4-1-power-performance-and-vcf-9-1-results/",
+      "pubDate": "2026-09-16T18:20:25",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"174\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/image_b203be.png?w...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "VCF9\u3067\u5b8c\u9042\u3059\u308b\u30e1\u30a4\u30f3\u30d5\u30ec\u30fc\u30e0\u30fb\u30e2\u30c0\u30ca\u30a4\u30bc\u30fc\u30b7\u30e7\u30f3",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/from-bottleneck-to-breakthrough-centralizing-gitops-at-enterprise-scale-with-vcf-9-1-1/",
       "pubDate": "2026-09-03T14:03:46",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"199\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/GettyImages-149007...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "New AI and Kubernetes Private Cloud Operations Capabilities in VMware Cloud Foundation 9.1.1",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/new-ai-and-kubernetes-private-cloud-operations-capabilities-in-vmware-cloud-foundation-9-1-1/",
-      "pubDate": "2026-09-03T14:00:05",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"148\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/Getty-1774553067.j...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
