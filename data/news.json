@@ -10,6 +10,30 @@
   ],
   "articles": [
     {
+      "title": "Monitor cost anomalies directly in Billing and Cost Management Dashboards with the new Detected Anomalies widget",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/monitor-detected-anomalies-using-dashboards",
+      "pubDate": "2026-09-15T22:00:00",
+      "description": "<p>Today, AWS Billing and Cost Management (BCM) announces support for the Detected Anomalies widget in BCM Dashboards. You can now review cost anomali...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Direct Connect announces flat-rate pricing for dedicated connections",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-direct-connect-announces-flat-rate-pricing/",
+      "pubDate": "2026-09-15T19:00:00",
+      "description": "<p><b>AWS Direct Connect announces flat-rate pricing for 10G and 100G dedicated connections</b></p> \n<p>AWS Direct Connect provides dedicated network ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Billing Conductor now supports custom rates and usage tier pricing configurations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/AWS-Billing-Conductor-custom-rates-usage-tier",
+      "pubDate": "2026-09-15T18:58:00",
+      "description": "<p>AWS Billing Conductor now lets you define custom rate pricing for AWS services, including defining custom usage tiers to configure rates by the des...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon SageMaker AI now supports instance preference lists for training and processing jobs",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-training-processing-instance-pref-lists/",
       "pubDate": "2026-09-15T18:30:00",
@@ -30,6 +54,14 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-shift-bidding/",
       "pubDate": "2026-09-15T16:00:00",
       "description": "<p>Amazon Connect Customer now enables agents to bid on preferred shifts, giving them more control over their work schedules. Schedulers first establi...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Glue zero-ETL now captures archived Salesforce records",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/glue-zero-etl-archived-salesforce/",
+      "pubDate": "2026-09-15T08:00:00",
+      "description": "<p>AWS Glue zero-ETL integrations for Salesforce now capture archived records in your target tables, giving you a complete replica of your Salesforce ...",
       "category": "AWS",
       "source": "AWS What's New"
     },
@@ -58,36 +90,84 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Gemma-4-31B-it-assistant and Gemma-4-31B-IT-NVFP4 models now available on Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/gemma-4-31b-it-assistant-gemma-4-31b-it-nvfp4-jumpstart/",
-      "pubDate": "2026-09-14T17:32:00",
-      "description": "<p>Google DeepMind's Gemma-4-31B-it-assistant and NVIDIA's Gemma-4-31B-IT-NVFP4 models are now available on Amazon SageMaker JumpStart, expanding the ...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "VCF9\u3067\u5b8c\u9042\u3059\u308b\u30e1\u30a4\u30f3\u30d5\u30ec\u30fc\u30e0\u30fb\u30e2\u30c0\u30ca\u30a4\u30bc\u30fc\u30b7\u30e7\u30f3",
+      "link": "https://blogs.vmware.com/vmware-japan/2026/09/vcf9_mainframe_1.html",
+      "pubDate": "2026-09-16T00:35:16",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"292\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/\u30b9\u30af\u30ea\u30fc\u30f3\u30b7\u30e7\u30c3\u30c8-2026-09-...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
-      "title": "granite-speech-4.1-2b, kanana-2-30b-a3b-instruct, and OpenFold3 models now available on Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/granite-speech-4.1-2b-edge-kanana-2-30b-a3b-instruct-openfold3-jumpstart/",
-      "pubDate": "2026-09-14T17:30:00",
-      "description": "<p>BM's granite-speech-4.1-2b, Kakao's kanana-2-30b-a3b-instruct, and the OpenFold Consortium's OpenFold3 models are now available on Amazon SageMaker...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "VCF Breakroom Chats Episode 94: Supercharging VKS Networking with Tigera",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/08/vcf-breakroom-chats-episode-94-supercharging-vks-networking-with-tigera/",
+      "pubDate": "2026-09-08T20:45:36",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/06/VCF-Breakroom-Chat...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
-      "title": "AWS Glue zero-ETL adds target table property ownership and conflict detection",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/glue-zero-etl-ownership-conflicts/",
-      "pubDate": "2026-09-14T08:00:00",
-      "description": "<p>AWS Glue zero-ETL integrations now detect table property conflicts and track integration ownership. When you configure a source table and target ca...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "AI-Ready Private Cloud with Cisco and VMware",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/08/ai-ready-private-cloud-with-cisco-and-vmware/",
+      "pubDate": "2026-09-08T15:33:39",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"337\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/image_ad7134.png?w...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
-      "title": "AWS End User Messaging now supports Dynamic Flows in WhatsApp",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-end-user-messaging-whatsapp-dynamic-flows",
-      "pubDate": "2026-09-14T07:00:00",
-      "description": "<p>AWS End User Messaging now supports dynamic WhatsApp flows so you can turn WhatsApp conversations into rich, interactive experiences that end-users...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "See How Organizations Achieved 137% ROI with VMware Cloud Foundation 9",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/08/see-how-organizations-achieved-137-roi-with-vmware-cloud-foundation-9/",
+      "pubDate": "2026-09-08T15:00:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Getty-1386532266.j...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "Client-Side SDK Generation with VMware Cloud Foundation OpenAPI Specs",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/07/client-side-sdk-generation-with-vmware-cloud-foundation-openapi-specs/",
+      "pubDate": "2026-09-07T09:38:44",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/OpenAPI-SDK-Banner...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "A Unified Data Architecture For Sovereign Agentic AI With VMware Tanzu And VMware vSAN",
+      "link": "https://blogs.vmware.com/tanzu/a-unified-data-architecture-for-sovereign-agentic-ai-with-vmware-tanzu-and-vmware-vsan/",
+      "pubDate": "2026-09-03T23:27:50",
+      "description": "<p>By combining VMware Tanzu Greenplum with VMware vSAN, organizations can bring their AI compute directly to their data storage layer for improved co...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "Get to VMware Cloud Foundation Faster with VMware Pro Cloud Services",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/get-to-vmware-cloud-foundation-faster-with-vmware-pro-cloud-services/",
+      "pubDate": "2026-09-03T20:21:10",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"164\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/vmw-pro-cloud-4b.p...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "VMware Explore 2026 in Las Vegas | Day 4 Recap",
+      "link": "https://blogs.vmware.com/explore/vmware-explore-2026-las-vegas-recap-day4/",
+      "pubDate": "2026-09-03T19:00:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"188\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/IMG_4267.jpeg?w=30...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "From Bottleneck to Breakthrough: Centralizing GitOps at Enterprise Scale with VCF 9.1.1",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/from-bottleneck-to-breakthrough-centralizing-gitops-at-enterprise-scale-with-vcf-9-1-1/",
+      "pubDate": "2026-09-03T14:03:46",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"199\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/GettyImages-149007...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "New AI and Kubernetes Private Cloud Operations Capabilities in VMware Cloud Foundation 9.1.1",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/new-ai-and-kubernetes-private-cloud-operations-capabilities-in-vmware-cloud-foundation-9-1-1/",
+      "pubDate": "2026-09-03T14:00:05",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"148\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/Getty-1774553067.j...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     }
   ]
 }
