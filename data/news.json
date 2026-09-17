@@ -10,6 +10,22 @@
   ],
   "articles": [
     {
+      "title": "Amazon Corretto 27 is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-27-generally-available/",
+      "pubDate": "2026-09-17T00:00:31",
+      "description": "<p>Amazon Corretto 27, a Feature Release (FR) version, is now available for download. <a href=\"https://aws.amazon.com/corretto/\">Amazon Corretto</a> i...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon SageMaker AI now supports serverless model customization for NVIDIA Nemotron 3.5 Lightning",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-ft-nemotron-3-5-lightning/",
+      "pubDate": "2026-09-16T22:29:00",
+      "description": "<p>Amazon SageMaker AI now supports serverless model customization for the NVIDIA Nemotron 3.5 Lightning model using supervised fine-tuning (SFT), Dir...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Client VPN is now supporting MacOS 27 Golden Gate",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-client-vpn-macos-golden-gate/",
       "pubDate": "2026-09-16T17:56:00",
@@ -42,6 +58,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Amazon Connect Customer can now import evaluation form PDFs using AI",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-import-evaluation-form-PDF/",
+      "pubDate": "2026-09-16T17:00:00",
+      "description": "<p>Amazon Connect Customer now lets managers import a PDF of an evaluation form from a third-party quality management application, and automatically r...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Elemental MediaTailor Monetization Functions adds ad response hooks",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-mediatailor-functions-ad-response-hooks",
       "pubDate": "2026-09-16T16:30:00",
@@ -62,30 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-customer-custom-metrics-apis/",
       "pubDate": "2026-09-16T16:00:00",
       "description": "<p>Amazon Connect Customer provides a library of standard metrics. Custom metrics let you go further; defining the measurements unique to your busines...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS STS simplifies session token size limits and adds session token size monitoring",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-sts/",
-      "pubDate": "2026-09-15T22:42:00",
-      "description": "<p>AWS Security Token Service (STS) now enforces a single 4,096-byte size limit on session tokens. Previously, STS enforced separate limits on session...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Monitor cost anomalies directly in Billing and Cost Management Dashboards with the new Detected Anomalies widget",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/monitor-detected-anomalies-using-dashboards",
-      "pubDate": "2026-09-15T22:00:00",
-      "description": "<p>Today, AWS Billing and Cost Management (BCM) announces support for the Detected Anomalies widget in BCM Dashboards. You can now review cost anomali...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Direct Connect announces flat-rate pricing for dedicated connections",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-direct-connect-announces-flat-rate-pricing/",
-      "pubDate": "2026-09-15T19:00:00",
-      "description": "<p><b>AWS Direct Connect announces flat-rate pricing for 10G and 100G dedicated connections</b></p> \n<p>AWS Direct Connect provides dedicated network ...",
       "category": "AWS",
       "source": "AWS What's New"
     },
