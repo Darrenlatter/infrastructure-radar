@@ -26,6 +26,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Amazon ECS deployment observability for Amazon ECS Managed Daemons in AWS Management Console",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-daemon-deployment-console/",
+      "pubDate": "2026-09-16T22:01:00",
+      "description": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service</a> (Amazon ECS) now provides a consolidated deployment view for Amazon ECS ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Client VPN is now supporting MacOS 27 Golden Gate",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-client-vpn-macos-golden-gate/",
       "pubDate": "2026-09-16T17:56:00",
@@ -78,14 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-s3-files-ec2/",
       "pubDate": "2026-09-16T16:25:00",
       "description": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service</a> (Amazon ECS) now supports Amazon S3 Files for tasks running on the Amazo...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Connect Customer now lets you create, manage, and search custom metrics through APIs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-customer-custom-metrics-apis/",
-      "pubDate": "2026-09-16T16:00:00",
-      "description": "<p>Amazon Connect Customer provides a library of standard metrics. Custom metrics let you go further; defining the measurements unique to your busines...",
       "category": "AWS",
       "source": "AWS What's New"
     },
