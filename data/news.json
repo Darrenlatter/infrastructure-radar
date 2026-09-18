@@ -10,6 +10,38 @@
   ],
   "articles": [
     {
+      "title": "AWS Continuum now supports credential testing and accessible domain suggestions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-security-agent/",
+      "pubDate": "2026-09-18T18:34:00",
+      "description": "<p>AWS Continuum for penetration testing is a frontier agent that proactively secures applications throughout the development lifecycle by offering on...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon ECS Express Mode now supports AWS Graviton (ARM64) workloads",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-express-mode-arm-architecture/",
+      "pubDate": "2026-09-18T17:27:00",
+      "description": "<p><a href=\"https://aws.amazon.com/ecs/\" target=\"_blank\">Amazon Elastic Container Service</a> Express Mode now supports specifying ARM64 as the CPU ar...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS RTB Fabric now supports configurable Availability Zone affinity",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-rtb-fabric-configurable-availability-zone-affinity/",
+      "pubDate": "2026-09-18T15:30:00",
+      "description": "<p>AWS RTB Fabric now supports <a href=\"https://docs.aws.amazon.com/rtb-fabric/latest/userguide/working-with-responder-gateways.html#configuring-avail...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Kimi K3 by Moonshot AI is now generally available on Amazon Bedrock",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/moonshot-ai-kimi-k3-on-amazon-bedrock/",
+      "pubDate": "2026-09-18T15:15:00",
+      "description": "<p>Amazon Bedrock continues to expand its open weight model portfolio with the same security and governance that customers rely on.&nbsp;Today, Kimi K...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "The new AgentCore Runtime is now available in Amazon Bedrock AgentCore",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/new-agentcore-runtime-generally-available",
       "pubDate": "2026-09-18T13:25:00",
@@ -54,38 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/elastic-beanstalk-cluster-mode/",
       "pubDate": "2026-09-17T08:00:00",
       "description": "<p>AWS Elastic Beanstalk introduces Cluster Mode, a new deployment mode that lets you run and manage multiple applications on shared infrastructure in...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon S3 Express One Zone is now available in 7 additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/s3-express-one-zone-7-regions/",
-      "pubDate": "2026-09-17T08:00:00",
-      "description": "<p>The Amazon S3 Express One Zone storage class is now available in 7 additional AWS Regions: Asia Pacific (Singapore), South America (Sao Paulo), US ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Builder Center now available as mobile app on iOS and Android",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-builder-center-now-available-as-mobile-app/",
-      "pubDate": "2026-09-17T07:09:00",
-      "description": "<p>AWS Builder Center is a platform that brings together the global builder community, offering articles, workshops, sandbox environments, events, and...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon SES now supports tenant-level deliverability insights",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ses-vdm-tenants/",
-      "pubDate": "2026-09-17T07:00:00",
-      "description": "<p><a href=\"https://aws.amazon.com/ses/\">Amazon Simple Email Service (SES)</a> now supports tenant-level deliverability insights in Virtual Deliverabi...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Quick now generates individual sheets and builds analyses from an image",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/generate-sheet-and-generate-analysis-from-an-image/",
-      "pubDate": "2026-09-17T02:37:00",
-      "description": "<p>Amazon Quick now expands Generate Analysis with two new ways to create dashboards faster. You can generate a single sheet inside an existing analys...",
       "category": "AWS",
       "source": "AWS What's New"
     },
