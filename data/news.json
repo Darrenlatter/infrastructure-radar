@@ -34,10 +34,42 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Introducing Amazon EC2 T8i instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-t8i-instances-ga/",
+      "pubDate": "2026-09-17T15:00:00",
+      "description": "<p>AWS is announcing the general availability of new low-cost burstable Amazon EC2 T8i instances. These instances are powered by custom sixth generati...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Elastic Beanstalk introduces Cluster Mode to run multiple applications on shared infrastructure",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/elastic-beanstalk-cluster-mode/",
       "pubDate": "2026-09-17T08:00:00",
       "description": "<p>AWS Elastic Beanstalk introduces Cluster Mode, a new deployment mode that lets you run and manage multiple applications on shared infrastructure in...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon S3 Express One Zone is now available in 7 additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/s3-express-one-zone-7-regions/",
+      "pubDate": "2026-09-17T08:00:00",
+      "description": "<p>The Amazon S3 Express One Zone storage class is now available in 7 additional AWS Regions: Asia Pacific (Singapore), South America (Sao Paulo), US ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Builder Center now available as mobile app on iOS and Android",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-builder-center-now-available-as-mobile-app/",
+      "pubDate": "2026-09-17T07:09:00",
+      "description": "<p>AWS Builder Center is a platform that brings together the global builder community, offering articles, workshops, sandbox environments, events, and...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Quick now generates individual sheets and builds analyses from an image",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/generate-sheet-and-generate-analysis-from-an-image/",
+      "pubDate": "2026-09-17T02:37:00",
+      "description": "<p>Amazon Quick now expands Generate Analysis with two new ways to create dashboards faster. You can generate a single sheet inside an existing analys...",
       "category": "AWS",
       "source": "AWS What's New"
     },
@@ -54,38 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-ft-nemotron-3-5-lightning/",
       "pubDate": "2026-09-16T22:29:00",
       "description": "<p>Amazon SageMaker AI now supports serverless model customization for the NVIDIA Nemotron 3.5 Lightning model using supervised fine-tuning (SFT), Dir...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon ECS deployment observability for Amazon ECS Managed Daemons in AWS Management Console",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-daemon-deployment-console/",
-      "pubDate": "2026-09-16T22:01:00",
-      "description": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service</a> (Amazon ECS) now provides a consolidated deployment view for Amazon ECS ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Client VPN is now supporting MacOS 27 Golden Gate",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-client-vpn-macos-golden-gate/",
-      "pubDate": "2026-09-16T17:56:00",
-      "description": "<p>AWS Client VPN now supports MacOS 27 Golden Gate client with versions 6.0+ You can now run the AWS supplied VPN client on the latest MacOS versions...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "New AWS experience helps builders get started and ship faster",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/New-AWS-Builder-Experience",
-      "pubDate": "2026-09-16T17:45:00",
-      "description": "<p>Builders can now sign up for a new simplified experience that makes it faster to turn ideas into running code on AWS. AWS services provide an array...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon WorkSpaces adds support for NVIDIA Blackwell GPU instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-nvidia-blackwell-gpu-instances/",
-      "pubDate": "2026-09-16T17:00:00",
-      "description": "<p>Amazon WorkSpaces Personal and Amazon WorkSpaces Core now support Graphics G7 bundles, built on NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs a...",
       "category": "AWS",
       "source": "AWS What's New"
     },
