@@ -10,6 +10,14 @@
   ],
   "articles": [
     {
+      "title": "The new AgentCore Runtime is now available in Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/new-agentcore-runtime-generally-available",
+      "pubDate": "2026-09-18T13:25:00",
+      "description": "<p>Today, AWS announces the availability of&nbsp;the next generation of <a href=\"https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/agents-...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Transfer Family now supports source IP preservation for SFTP servers behind a Network Load Balancer (NLB)",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-source-ip-nlb/",
       "pubDate": "2026-09-17T19:00:00",
@@ -66,6 +74,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Amazon SES now supports tenant-level deliverability insights",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ses-vdm-tenants/",
+      "pubDate": "2026-09-17T07:00:00",
+      "description": "<p><a href=\"https://aws.amazon.com/ses/\">Amazon Simple Email Service (SES)</a> now supports tenant-level deliverability insights in Virtual Deliverabi...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon Quick now generates individual sheets and builds analyses from an image",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/generate-sheet-and-generate-analysis-from-an-image/",
       "pubDate": "2026-09-17T02:37:00",
@@ -74,20 +90,20 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Corretto 27 is now generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-27-generally-available/",
-      "pubDate": "2026-09-17T00:00:31",
-      "description": "<p>Amazon Corretto 27, a Feature Release (FR) version, is now available for download. <a href=\"https://aws.amazon.com/corretto/\">Amazon Corretto</a> i...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "NVMe Drive Selection for Memory Tiering Explained",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/18/nvme-drive-selection-for-memory-tiering-explained/",
+      "pubDate": "2026-09-18T14:18:46",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/blog-featured-imag...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
-      "title": "Amazon SageMaker AI now supports serverless model customization for NVIDIA Nemotron 3.5 Lightning",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-ft-nemotron-3-5-lightning/",
-      "pubDate": "2026-09-16T22:29:00",
-      "description": "<p>Amazon SageMaker AI now supports serverless model customization for the NVIDIA Nemotron 3.5 Lightning model using supervised fine-tuning (SFT), Dir...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Strengthening the Programmable Infrastructure: Security and Hardening in VCF 9.1.1",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/18/strengthening-the-programmable-infrastructure-security-and-hardening-in-vcf-9-1-1/",
+      "pubDate": "2026-09-18T11:25:21",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"163\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/Blog-post-image.jp...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "[TAM Blog] VMware Cloud Foundation\u00ae 9.1.1 \u3067\u59cb\u3081\u308b Agentic AI \u904b\u7528 \u2013 AI Assistant for VCF",
@@ -150,22 +166,6 @@
       "link": "https://blogs.vmware.com/tanzu/a-unified-data-architecture-for-sovereign-agentic-ai-with-vmware-tanzu-and-vmware-vsan/",
       "pubDate": "2026-09-03T23:27:50",
       "description": "<p>By combining VMware Tanzu Greenplum with VMware vSAN, organizations can bring their AI compute directly to their data storage layer for improved co...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Get to VMware Cloud Foundation Faster with VMware Pro Cloud Services",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/get-to-vmware-cloud-foundation-faster-with-vmware-pro-cloud-services/",
-      "pubDate": "2026-09-03T20:21:10",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"164\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/vmw-pro-cloud-4b.p...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "VMware Explore 2026 in Las Vegas | Day 4 Recap",
-      "link": "https://blogs.vmware.com/explore/vmware-explore-2026-las-vegas-recap-day4/",
-      "pubDate": "2026-09-03T19:00:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"188\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/IMG_4267.jpeg?w=30...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
