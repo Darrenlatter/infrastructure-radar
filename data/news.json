@@ -26,6 +26,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "AWS Resilience Hub adds three new capabilities",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/resilience-hub-eks-dependency-policy/",
+      "pubDate": "2026-09-18T16:49:00",
+      "description": "<p>The next generation of AWS Resilience Hub is a central location in the AWS that helps platform engineering and site reliability teams assess and st...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS RTB Fabric now supports configurable Availability Zone affinity",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-rtb-fabric-configurable-availability-zone-affinity/",
       "pubDate": "2026-09-18T15:30:00",
@@ -42,10 +50,26 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Amazon SNS now supports message payloads up to 1 MiB",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sns-1mib-support",
+      "pubDate": "2026-09-18T15:00:00",
+      "description": "<p><a href=\"https://aws.amazon.com/sns/\">Amazon Simple Notification Service (Amazon SNS)</a>&nbsp;now supports message payloads up to 1 MiB, a 4x incr...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "The new AgentCore Runtime is now available in Amazon Bedrock AgentCore",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/new-agentcore-runtime-generally-available",
       "pubDate": "2026-09-18T13:25:00",
       "description": "<p>Today, AWS announces the availability of&nbsp;the next generation of <a href=\"https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/agents-...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS PrivateLink announces Tunnel Endpoints to access network segments",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/9/privatelink-tunnel-endpoint/",
+      "pubDate": "2026-09-18T07:00:00",
+      "description": "<p>AWS PrivateLink customers can now use VPC endpoint to privately and securely access network segments in another VPC/account. They can use a \u2018tunnel...",
       "category": "AWS",
       "source": "AWS What's New"
     },
@@ -62,30 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/omics-iam-session-policy/",
       "pubDate": "2026-09-17T18:32:00",
       "description": "<p>AWS HealthOmics now supports IAM session policies, enabling you to restrict permissions for individual runs without creating and managing multiple ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Batch now supports bulk job cancellation and termination",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-batch-bulk-cancellation/",
-      "pubDate": "2026-09-17T17:23:00",
-      "description": "<p>AWS Batch now supports bulk job cancellation and termination, enabling you to cancel or terminate up to 50 jobs with a single API call. The new Can...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Introducing Amazon EC2 T8i instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-t8i-instances-ga/",
-      "pubDate": "2026-09-17T15:00:00",
-      "description": "<p>AWS is announcing the general availability of new low-cost burstable Amazon EC2 T8i instances. These instances are powered by custom sixth generati...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Elastic Beanstalk introduces Cluster Mode to run multiple applications on shared infrastructure",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/elastic-beanstalk-cluster-mode/",
-      "pubDate": "2026-09-17T08:00:00",
-      "description": "<p>AWS Elastic Beanstalk introduces Cluster Mode, a new deployment mode that lets you run and manage multiple applications on shared infrastructure in...",
       "category": "AWS",
       "source": "AWS What's New"
     },
