@@ -10,6 +10,14 @@
   ],
   "articles": [
     {
+      "title": "Amazon EC2 X8i instances are now available in the South America (S\u00e3o Paulo) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x8i-south-america-sao-paulo/",
+      "pubDate": "2026-09-18T22:16:00",
+      "description": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8i instances are available in the South America (S\u00e3o Paulo) region. These instances are ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Continuum now supports credential testing and accessible domain suggestions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-security-agent/",
       "pubDate": "2026-09-18T18:34:00",
@@ -78,14 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-source-ip-nlb/",
       "pubDate": "2026-09-17T19:00:00",
       "description": "<p>AWS Transfer Family now preserves the client's source IP address using Proxy Protocol v2 (PPv2) when you place a Network Load Balancer (NLB) in fro...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS HealthOmics now supports IAM session policies",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/omics-iam-session-policy/",
-      "pubDate": "2026-09-17T18:32:00",
-      "description": "<p>AWS HealthOmics now supports IAM session policies, enabling you to restrict permissions for individual runs without creating and managing multiple ...",
       "category": "AWS",
       "source": "AWS What's New"
     },
