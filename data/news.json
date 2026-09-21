@@ -42,6 +42,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Amazon EC2 I7ie instances now available in AWS Israel region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-i7ie-instances-israel-telaviv-region/",
+      "pubDate": "2026-09-18T16:00:00",
+      "description": "<p>AWS is announcing starting today, Amazon EC2 I7ie instances are now available in AWS Israel (Tel Aviv) region. Designed for large storage I/O inten...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS RTB Fabric now supports configurable Availability Zone affinity",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-rtb-fabric-configurable-availability-zone-affinity/",
       "pubDate": "2026-09-18T15:30:00",
@@ -82,12 +90,12 @@
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Transfer Family now supports source IP preservation for SFTP servers behind a Network Load Balancer (NLB)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-source-ip-nlb/",
-      "pubDate": "2026-09-17T19:00:00",
-      "description": "<p>AWS Transfer Family now preserves the client's source IP address using Proxy Protocol v2 (PPv2) when you place a Network Load Balancer (NLB) in fro...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Shattering the Resilience Illusion: Cyber Resilience in the Era of AI-Driven Threats",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/21/shattering-the-resilience-illusion-cyber-resilience-in-the-era-of-ai-driven-threats/",
+      "pubDate": "2026-09-21T20:35:15",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/intel-qat-vsphere-...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "NVMe Drive Selection for Memory Tiering Explained",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/09/07/client-side-sdk-generation-with-vmware-cloud-foundation-openapi-specs/",
       "pubDate": "2026-09-07T09:38:44",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/OpenAPI-SDK-Banner...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "A Unified Data Architecture For Sovereign Agentic AI With VMware Tanzu And VMware vSAN",
-      "link": "https://blogs.vmware.com/tanzu/a-unified-data-architecture-for-sovereign-agentic-ai-with-vmware-tanzu-and-vmware-vsan/",
-      "pubDate": "2026-09-03T23:27:50",
-      "description": "<p>By combining VMware Tanzu Greenplum with VMware vSAN, organizations can bring their AI compute directly to their data storage layer for improved co...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
