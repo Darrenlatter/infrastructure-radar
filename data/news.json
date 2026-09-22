@@ -10,6 +10,22 @@
   ],
   "articles": [
     {
+      "title": "Amazon ECS now provides real-time deployment observability in the AWS Management Console",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-console-deployment-observability/",
+      "pubDate": "2026-09-21T20:05:00",
+      "description": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service</a> (Amazon ECS) now provides real-time service deployment observability in ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon EVS now in scope for FedRAMP Class C",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-evs-fedramp-class-c/",
+      "pubDate": "2026-09-21T19:08:00",
+      "description": "<p>The&nbsp;Amazon Elastic VMware Service (EVS) service is now in scope for FedRAMP Class C (formerly Moderate baseline) in all United States Regions....",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon EC2 X8i instances are now available in the South America (S\u00e3o Paulo) Region",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x8i-south-america-sao-paulo/",
       "pubDate": "2026-09-18T22:16:00",
@@ -74,20 +90,12 @@
       "source": "AWS What's New"
     },
     {
-      "title": "The new AgentCore Runtime is now available in Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/new-agentcore-runtime-generally-available",
-      "pubDate": "2026-09-18T13:25:00",
-      "description": "<p>Today, AWS announces the availability of&nbsp;the next generation of <a href=\"https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/agents-...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS PrivateLink announces Tunnel Endpoints to access network segments",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/9/privatelink-tunnel-endpoint/",
-      "pubDate": "2026-09-18T07:00:00",
-      "description": "<p>AWS PrivateLink customers can now use VPC endpoint to privately and securely access network segments in another VPC/account. They can use a \u2018tunnel...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Optimizing AI Deployments with VMware Cloud Foundation (Part 1)",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/21/optimizing-ai-deployments-with-vmware-cloud-foundation-part-1/",
+      "pubDate": "2026-09-22T02:13:27",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"149\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/Screenshot-2026-09...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Shattering the Resilience Illusion: Cyber Resilience in the Era of AI-Driven Threats",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/09/08/see-how-organizations-achieved-137-roi-with-vmware-cloud-foundation-9/",
       "pubDate": "2026-09-08T15:00:00",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Getty-1386532266.j...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Client-Side SDK Generation with VMware Cloud Foundation OpenAPI Specs",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/07/client-side-sdk-generation-with-vmware-cloud-foundation-openapi-specs/",
-      "pubDate": "2026-09-07T09:38:44",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/OpenAPI-SDK-Banner...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
