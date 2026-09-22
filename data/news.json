@@ -90,6 +90,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "The Next Generation of Hands-on Labs",
+      "link": "https://blogs.vmware.com/hol/2026/09/the-next-generation-of-hands-on-labs.html",
+      "pubDate": "2026-09-22T02:17:46",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"300\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/bc-vmw-HOL-icon_ic...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
       "title": "Optimizing AI Deployments with VMware Cloud Foundation (Part 1)",
       "link": "https://blogs.vmware.com/cloud-foundation/2026/09/21/optimizing-ai-deployments-with-vmware-cloud-foundation-part-1/",
       "pubDate": "2026-09-22T02:13:27",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/09/08/ai-ready-private-cloud-with-cisco-and-vmware/",
       "pubDate": "2026-09-08T15:33:39",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"337\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/image_ad7134.png?w...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "See How Organizations Achieved 137% ROI with VMware Cloud Foundation 9",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/08/see-how-organizations-achieved-137-roi-with-vmware-cloud-foundation-9/",
-      "pubDate": "2026-09-08T15:00:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Getty-1386532266.j...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
