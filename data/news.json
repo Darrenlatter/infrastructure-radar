@@ -10,6 +10,14 @@
   ],
   "articles": [
     {
+      "title": "Amazon Kinesis Data Streams announces Service-Managed Partition Keys for simplified data ingestion",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/kinesis/service-managed-partition-keys",
+      "pubDate": "2026-09-23T22:51:00",
+      "description": "<p>Amazon Kinesis Data Streams now supports service-managed partition keys for On-Demand Standard and On-Demand Advantage streams, automatically distr...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon Bedrock Managed Knowledge Base now supports Salesforce and Zendesk as native data source connectors",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-salesforce-zendesk-native-data-source-connectors/",
       "pubDate": "2026-09-23T17:41:00",
@@ -22,6 +30,22 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-routing-step-data/",
       "pubDate": "2026-09-23T16:00:00",
       "description": "<p>Amazon Connect Customer now provides routing step data in the analytics data lake, making it easier for customers to generate insights from routing...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon EMR on EKS now supports IPv6 Amazon EKS clusters",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-eks-ipv6-support",
+      "pubDate": "2026-09-23T15:00:00",
+      "description": "<p>Today, AWS announces that Amazon EMR on EKS now supports running workloads on IPv6 Amazon Elastic Kubernetes Service (Amazon EKS) clusters. Amazon ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon DynamoDB global tables with multi-Region strong consistency now supports additional AWS Regions and cross-continent configurations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/dynamodb-mrsc-additional-regions/",
+      "pubDate": "2026-09-23T08:00:00",
+      "description": "<p>Starting today, Amazon DynamoDB global tables with multi-Region strong consistency (MRSC) is available in five additional AWS Regions: Canada (Cent...",
       "category": "AWS",
       "source": "AWS What's New"
     },
@@ -62,30 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws/",
       "pubDate": "2026-09-22T15:00:00",
       "description": "<p>AWS now offers Claude Opus 5.5, Anthropic\u2019s most capable Opus model yet and, the first of the Claude 5.5 model family, a better collaborator that h...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon EMR introduces Long Term Support with Apache Spark 4.1",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-long-term-support-spark-4-1/",
-      "pubDate": "2026-09-22T08:00:00",
-      "description": "<p>Amazon EMR introduces Long Term Support (LTS) releases, starting with emr-spark-8.1.0 and Apache Spark 4.1. With LTS, designated versions of the AW...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Route 53 Resolver is now generally available on second-generation AWS Outposts racks",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/route-53-resolver-gen2-outposts/",
-      "pubDate": "2026-09-22T08:00:00",
-      "description": "<p>Amazon Route 53 Resolver is now generally available on second-generation AWS Outposts, providing local, managed recursive DNS resolution directly o...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Security Hub AI Inventory adds Azure self-hosted instance support",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/security-hub-ai-inventory-azure-support/",
-      "pubDate": "2026-09-22T08:00:00",
-      "description": "<p>AWS Security Hub AI Inventory now supports discovering and cataloging AI assets running on self-hosted instances in Microsoft Azure. This expansion...",
       "category": "AWS",
       "source": "AWS What's New"
     },
