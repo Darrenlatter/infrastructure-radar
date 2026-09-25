@@ -90,6 +90,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "The Complete Guide to Workload Mobility with VMware Cloud Foundation Operations HCX 9.1 (Part 3: Extending Networks and Migrating Workloads)",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/25/vcf-9-operations-hcx-network-extension-migration-part-3/",
+      "pubDate": "2026-09-25T10:11:19",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/featured_hcx_part3...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
       "title": "Broadcom (VMware) Recognized as a Leader in Two 2026 Gartner\u00ae Magic Quadrant\u2122 Reports",
       "link": "https://blogs.vmware.com/cloud-foundation/2026/09/24/broadcom-vmware-recognized-as-a-leader-in-two-2026-gartner-magic-quadrant-reports/",
       "pubDate": "2026-09-24T22:33:44",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/09/16/first-vmmark-4-1-power-performance-and-vcf-9-1-results/",
       "pubDate": "2026-09-16T18:20:25",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"174\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/image_b203be.png?w...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "VCF9\u3067\u5b8c\u9042\u3059\u308b\u30e1\u30a4\u30f3\u30d5\u30ec\u30fc\u30e0\u30fb\u30e2\u30c0\u30ca\u30a4\u30bc\u30fc\u30b7\u30e7\u30f3",
-      "link": "https://blogs.vmware.com/vmware-japan/2026/09/vcf9_mainframe_1.html",
-      "pubDate": "2026-09-16T00:35:16",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"292\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/\u30b9\u30af\u30ea\u30fc\u30f3\u30b7\u30e7\u30c3\u30c8-2026-09-...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
