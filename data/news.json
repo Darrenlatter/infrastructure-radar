@@ -10,6 +10,22 @@
   ],
   "articles": [
     {
+      "title": "AWS DataSync launches a monitoring dashboard for tracking task executions across your account",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/datasync-monitoring-dashboard",
+      "pubDate": "2026-09-25T15:24:00",
+      "description": "<p>AWS DataSync now provides a monitoring dashboard in the DataSync console that gives you visibility into your data transfers across your account. Fo...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Elastic Disaster Recovery now supports AWS Graviton-based source servers",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/elastic-disaster-recovery-graviton/",
+      "pubDate": "2026-09-25T08:00:00",
+      "description": "<p>AWS Elastic Disaster Recovery (AWS DRS) now supports disaster recovery for AWS Graviton-based (arm64) source servers. You can now protect and recov...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Billing and Cost Management now provides billing context for your account through a new API",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-billing-and-cost-management-billing-context-api/",
       "pubDate": "2026-09-25T00:58:00",
@@ -70,22 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-hyperpod-inference-gateway/",
       "pubDate": "2026-09-24T08:00:00",
       "description": "<p>Amazon SageMaker HyperPod Inference Gateway is a Kubernetes-native, GPU-aware routing system that deploys as a single EKS managed add-on on existin...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Run interactive workloads on Amazon EMR on EKS with Spark Connect",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/emr-eks-spark-connect-interactive/",
-      "pubDate": "2026-09-24T08:00:00",
-      "description": "<p>Amazon EMR on EKS now supports interactive Apache Spark sessions with Spark Connect. Data engineers and data scientists can develop and debug Apach...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon GameLift Servers now available in 5 new regions and 8 Local Zones",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-gamelift-servers-region-expansion-2026",
-      "pubDate": "2026-09-24T08:00:00",
-      "description": "<p>Amazon GameLift Servers is a fully managed service for deploying, operating, and scaling dedicated game servers for multiplayer games. High latency...",
       "category": "AWS",
       "source": "AWS What's New"
     },
