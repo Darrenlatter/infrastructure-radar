@@ -66,18 +66,18 @@
       "source": "AWS What's New"
     },
     {
-      "title": "AWS End User Messaging now supports voice calling on WhatsApp",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-end-user-messaging-voice-calling-whatsapp",
-      "pubDate": "2026-09-25T07:00:00",
-      "description": "<p><a href=\"https://aws.amazon.com/end-user-messaging/\">AWS End User Messaging</a> now lets businesses place and receive voice calls with their custom...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
       "title": "AWS End User Messaging and Amazon SES now offer AI agent skills for the AWS MCP Server",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-messaging-ses-ai-skills-mcp-server/",
       "pubDate": "2026-09-25T07:00:00",
       "description": "<p>AWS End User Messaging and Amazon SES now publish AI agent skills for the AWS MCP Server, enabling developers to build and send messages by asking ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS End User Messaging now supports voice calling on WhatsApp",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-end-user-messaging-voice-calling-whatsapp",
+      "pubDate": "2026-09-25T07:00:00",
+      "description": "<p><a href=\"https://aws.amazon.com/end-user-messaging/\">AWS End User Messaging</a> now lets businesses place and receive voice calls with their custom...",
       "category": "AWS",
       "source": "AWS What's New"
     },
