@@ -90,6 +90,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "The Cost Case Is Clear: Infrastructure Economics with VMware vSphere Foundation 9.1",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/28/the-cost-case-is-clear-infrastructure-economics-with-vmware-vsphere-foundation-9-1/",
+      "pubDate": "2026-09-28T13:00:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Getty-1386532266.j...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
       "title": "One Namespace to Rule Them All: The New esxcli memtier Namespace",
       "link": "https://blogs.vmware.com/cloud-foundation/2026/09/25/one-namespace-to-rule-them-all-the-new-esxcli-memtier-namespace/",
       "pubDate": "2026-09-25T14:18:42",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/09/18/strengthening-the-programmable-infrastructure-security-and-hardening-in-vcf-9-1-1/",
       "pubDate": "2026-09-18T11:25:21",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"163\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/Blog-post-image.jp...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "[TAM Blog] VMware Cloud Foundation\u00ae 9.1.1 \u3067\u59cb\u3081\u308b Agentic AI \u904b\u7528 \u2013 AI Assistant for VCF",
-      "link": "https://blogs.vmware.com/vmware-japan/2026/09/ai-assistant-for-vcf.html",
-      "pubDate": "2026-09-18T06:14:28",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"217\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/tam-ai-fi01.png?w=...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
