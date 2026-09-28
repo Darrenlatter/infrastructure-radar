@@ -10,6 +10,54 @@
   ],
   "articles": [
     {
+      "title": "Amazon EC2 Future-dated Capacity Reservations Now Supports Postponing Start Dates",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-fcr-postpone-start-date/",
+      "pubDate": "2026-09-28T21:17:00",
+      "description": "<p>Amazon EC2 Future-dated Capacity Reservations let you secure capacity up to 120 days in advance by specifying the capacity you need, the start date...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Rekognition Face Liveness now returns Feedback Codes",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/rekognition-liveness-feedback-codes/",
+      "pubDate": "2026-09-28T20:41:00",
+      "description": "<p>Amazon Rekognition Face Liveness now returns Feedback Codes that help customers understand why a liveness check&nbsp;received a low score and how u...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Claude Sonnet 5.5 now available on AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/",
+      "pubDate": "2026-09-28T15:00:00",
+      "description": "<p>AWS now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work with at a low...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Claude Sonnet 5.5 now available on AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws-govcloud-us/",
+      "pubDate": "2026-09-28T15:00:00",
+      "description": "<p>AWS GovCloud (US) now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Corretto September 2026 Patch Updates",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-sept-2026-updates/",
+      "pubDate": "2026-09-28T14:00:00",
+      "description": "<p>On September 25, 2026, Amazon announced a patch update for the following Amazon Corretto Long-Term Support (LTS) and Feature Release (FR) versions ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Backup adds logically air-gapped vault support for Amazon FSx for NetApp ONTAP",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-backup-air-gapped-vault-fsx-ontap/",
+      "pubDate": "2026-09-28T08:00:00",
+      "description": "<p>AWS Backup logically air-gapped vault now supports Amazon FSx for NetApp ONTAP. Logically air-gapped vaults are a type of AWS Backup vault that all...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon Transcribe adds customer-managed KMS keys for custom resources",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-transcribe/",
       "pubDate": "2026-09-25T19:19:00",
@@ -38,54 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/c8i-c8i-flex-thf-september-2026/",
       "pubDate": "2026-09-25T18:09:00",
       "description": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8i and C8i-flex instances are available in the AWS European Sovereign Cloud (Germany) re...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS IAM outbound identity federation now supports interface VPC endpoints for OIDC discovery",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-sts-vpc-oidc/",
-      "pubDate": "2026-09-25T17:54:00",
-      "description": "<p><a href=\"https://aws.amazon.com/identity/federation/outbound-federation/\">AWS Identity and Access Management (IAM) outbound identity federation</a>...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS DataSync launches a monitoring dashboard for tracking task executions across your account",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/datasync-monitoring-dashboard",
-      "pubDate": "2026-09-25T15:24:00",
-      "description": "<p>AWS DataSync now provides a monitoring dashboard in the DataSync console that gives you visibility into your data transfers across your account. Fo...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Elastic Disaster Recovery now supports AWS Graviton-based source servers",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/elastic-disaster-recovery-graviton/",
-      "pubDate": "2026-09-25T08:00:00",
-      "description": "<p>AWS Elastic Disaster Recovery (AWS DRS) now supports disaster recovery for AWS Graviton-based (arm64) source servers. You can now protect and recov...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS End User Messaging and Amazon SES now offer AI agent skills for the AWS MCP Server",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-messaging-ses-ai-skills-mcp-server/",
-      "pubDate": "2026-09-25T07:00:00",
-      "description": "<p>AWS End User Messaging and Amazon SES now publish AI agent skills for the AWS MCP Server, enabling developers to build and send messages by asking ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS End User Messaging now supports voice calling on WhatsApp",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-end-user-messaging-voice-calling-whatsapp",
-      "pubDate": "2026-09-25T07:00:00",
-      "description": "<p><a href=\"https://aws.amazon.com/end-user-messaging/\">AWS End User Messaging</a> now lets businesses place and receive voice calls with their custom...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Billing and Cost Management now provides billing context for your account through a new API",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-billing-and-cost-management-billing-context-api/",
-      "pubDate": "2026-09-25T00:58:00",
-      "description": "<p>AWS Billing and Cost Management now offers the ListBillingViewSegments API, which returns the billing context of your account over a time period yo...",
       "category": "AWS",
       "source": "AWS What's New"
     },
