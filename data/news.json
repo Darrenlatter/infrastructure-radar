@@ -10,6 +10,54 @@
   ],
   "articles": [
     {
+      "title": "OpenAI GPT-6.1 Sol is now generally available on Amazon Bedrock",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/",
+      "pubDate": "2026-09-29T20:17:00",
+      "description": "<p>Today, AWS announces the general availability of GPT-6.1 Sol from OpenAI on Amazon Bedrock. An upgrade to GPT-6 Sol, GPT-6.1 Sol delivers exception...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Connect Customer now lets business users manage more reference data to adjust contact center configurations in real time",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-manage-data-tables/",
+      "pubDate": "2026-09-29T17:00:00",
+      "description": "<p>Amazon Connect Customer now lets administrators store more of the reference data that drives their contact center configurations. Administrators ca...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon RDS for PostgreSQL announces Extended Support minor versions 13.23-rds.20260514, 12.22-rds.20260514 and 11.22-rds.20260514",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-postgresql-extended-support/",
+      "pubDate": "2026-09-29T16:00:00",
+      "description": "<p><a href=\"https://aws.amazon.com/rds/postgresql/\">Amazon Relational Database Service (RDS) for PostgreSQL</a> announces Amazon RDS Extended Support ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Aurora now supports PostgreSQL\u202f18.6, 17.11, 16.15, 15.19, 14.24",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-postgresql-18-6-17-11-16-15-15-19-14-24/",
+      "pubDate": "2026-09-29T16:00:00",
+      "description": "<p><a href=\"https://aws.amazon.com/rds/aurora/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Aurora PostgreSQL-Compatible Edition</a> now supports...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Systems Manager now supports sharing documents through AWS Resource Access Manager",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/systems-manager-sharing-documents-ram/",
+      "pubDate": "2026-09-29T08:00:00",
+      "description": "<p>AWS Systems Manager now lets you share your Systems Manager Documents (SSM Documents) with an entire AWS organization or with specific organization...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Route 53 Resolver DNS Firewall support for Palo Alto Networks Advanced DNS Security is now Generally Available (GA)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/route-53-dns-firewall-panw-dns-security-generally-available",
+      "pubDate": "2026-09-29T01:03:00",
+      "description": "<p>\u200b\u200bAmazon Route 53 Resolver DNS Firewall support for Palo Alto Networks (PANW) Advanced DNS Security is now generally available across 32 AWS Region...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon EC2 Future-dated Capacity Reservations Now Supports Postponing Start Dates",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-fcr-postpone-start-date/",
       "pubDate": "2026-09-28T21:17:00",
@@ -38,54 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/",
       "pubDate": "2026-09-28T15:00:00",
       "description": "<p>AWS now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work with at a low...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Claude Sonnet 5.5 now available on AWS GovCloud (US)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws-govcloud-us/",
-      "pubDate": "2026-09-28T15:00:00",
-      "description": "<p>AWS GovCloud (US) now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Corretto September 2026 Patch Updates",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-sept-2026-updates/",
-      "pubDate": "2026-09-28T14:00:00",
-      "description": "<p>On September 25, 2026, Amazon announced a patch update for the following Amazon Corretto Long-Term Support (LTS) and Feature Release (FR) versions ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon DocumentDB (with MongoDB compatibility) adds support for 5 MongoDB aggregation stages and change stream capabilities in version 8.0.2",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-documentdb-8-0-2/",
-      "pubDate": "2026-09-28T08:00:00",
-      "description": "<p>Amazon DocumentDB (with MongoDB compatibility) now supports&nbsp;retryable writes, 5 new aggregation stages, and change stream enhancements startin...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon DocumentDB (with MongoDB compatibility) now supports retryable writes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-documentdb-retryable-writes/",
-      "pubDate": "2026-09-28T08:00:00",
-      "description": "<p>For developers building MongoDB-compatible applications, retryable writes improve application resilience during transient errors such as network in...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Backup adds logically air-gapped vault support for Amazon FSx for NetApp ONTAP",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-backup-air-gapped-vault-fsx-ontap/",
-      "pubDate": "2026-09-28T08:00:00",
-      "description": "<p>AWS Backup logically air-gapped vault now supports Amazon FSx for NetApp ONTAP. Logically air-gapped vaults are a type of AWS Backup vault that all...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Transcribe adds customer-managed KMS keys for custom resources",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-transcribe/",
-      "pubDate": "2026-09-25T19:19:00",
-      "description": "<p>Amazon Transcribe now lets you encrypt your custom vocabularies, custom vocabulary filters, and custom language models at rest with a customer-mana...",
       "category": "AWS",
       "source": "AWS What's New"
     },
