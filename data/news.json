@@ -58,18 +58,18 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon DocumentDB (with MongoDB compatibility) now supports retryable writes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-documentdb-retryable-writes/",
-      "pubDate": "2026-09-28T08:00:00",
-      "description": "<p>For developers building MongoDB-compatible applications, retryable writes improve application resilience during transient errors such as network in...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
       "title": "Amazon DocumentDB (with MongoDB compatibility) adds support for 5 MongoDB aggregation stages and change stream capabilities in version 8.0.2",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-documentdb-8-0-2/",
       "pubDate": "2026-09-28T08:00:00",
       "description": "<p>Amazon DocumentDB (with MongoDB compatibility) now supports&nbsp;retryable writes, 5 new aggregation stages, and change stream enhancements startin...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon DocumentDB (with MongoDB compatibility) now supports retryable writes",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-documentdb-retryable-writes/",
+      "pubDate": "2026-09-28T08:00:00",
+      "description": "<p>For developers building MongoDB-compatible applications, retryable writes improve application resilience during transient errors such as network in...",
       "category": "AWS",
       "source": "AWS What's New"
     },
