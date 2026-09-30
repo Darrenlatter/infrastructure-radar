@@ -90,6 +90,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Managing VKS Clusters at Scale: Improvements in VCF 9.1",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/30/managing-vks-clusters-at-scale-improvements-in-vcf-9-1/",
+      "pubDate": "2026-09-30T09:14:56",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"184\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/image_8d918d.png?w...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
       "title": "Optimizing AI Deployments with VMware Cloud Foundation (Part 2)",
       "link": "https://blogs.vmware.com/cloud-foundation/2026/09/28/optimizing-ai-deployments-with-vmware-cloud-foundation-part-2/",
       "pubDate": "2026-09-28T22:07:39",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/09/21/shattering-the-resilience-illusion-cyber-resilience-in-the-era-of-ai-driven-threats/",
       "pubDate": "2026-09-21T20:35:15",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/intel-qat-vsphere-...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "NVMe Drive Selection for Memory Tiering Explained",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/18/nvme-drive-selection-for-memory-tiering-explained/",
-      "pubDate": "2026-09-18T14:18:46",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/blog-featured-imag...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
