@@ -10,6 +10,22 @@
   ],
   "articles": [
     {
+      "title": "Amazon Bedrock Managed Agents, powered by OpenAI, is now available in preview",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/bedrock-managed-agents-preview/",
+      "pubDate": "2026-09-29T21:10:00",
+      "description": "<p>Developed jointly by AWS and OpenAI, Bedrock Managed Agents (BMA) is built on a customized version of&nbsp;OpenAI's Agents API engineered to be AWS...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon RDS now adds full snapshot size information to the Console and API",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-full-snapshot-size-available/",
+      "pubDate": "2026-09-29T21:00:23",
+      "description": "<p>Amazon RDS now displays the full snapshot size for RDS Snapshots. With this enhancement, customers can now retrieve full snapshot sizes programmati...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "OpenAI GPT-6.1 Sol is now generally available on Amazon Bedrock",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/",
       "pubDate": "2026-09-29T20:17:00",
@@ -22,6 +38,22 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-manage-data-tables/",
       "pubDate": "2026-09-29T17:00:00",
       "description": "<p>Amazon Connect Customer now lets administrators store more of the reference data that drives their contact center configurations. Administrators ca...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon WorkSpaces Applications introduces unified graphics images",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-applications-unified-graphics-images/",
+      "pubDate": "2026-09-29T17:00:00",
+      "description": "<p>Today, Amazon WorkSpaces Applications announces unified graphics images, a single image type that works across all supported graphics instance fami...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Service Availability Updates",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-service-availability/",
+      "pubDate": "2026-09-29T16:21:00",
+      "description": "<p>We're announcing availability changes to the following AWS services and features.</p>\n<p><b>Services moving to Maintenance</b></p>\n<p>Services movi...",
       "category": "AWS",
       "source": "AWS What's New"
     },
@@ -42,50 +74,18 @@
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Systems Manager now supports sharing documents through AWS Resource Access Manager",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/systems-manager-sharing-documents-ram/",
-      "pubDate": "2026-09-29T08:00:00",
-      "description": "<p>AWS Systems Manager now lets you share your Systems Manager Documents (SSM Documents) with an entire AWS organization or with specific organization...",
+      "title": "Amazon Bedrock expands Claude model availability to India, South Korea, and Singapore",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-region-expansion-in-sk/",
+      "pubDate": "2026-09-29T15:41:00",
+      "description": "<p>We're excited to announce the availability of Anthropic's <a href=\"https://docs.aws.amazon.com/bedrock/latest/userguide/model-card-anthropic-claude...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Route 53 Resolver DNS Firewall support for Palo Alto Networks Advanced DNS Security is now Generally Available (GA)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/route-53-dns-firewall-panw-dns-security-generally-available",
-      "pubDate": "2026-09-29T01:03:00",
-      "description": "<p>\u200b\u200bAmazon Route 53 Resolver DNS Firewall support for Palo Alto Networks (PANW) Advanced DNS Security is now generally available across 32 AWS Region...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon EC2 Future-dated Capacity Reservations Now Supports Postponing Start Dates",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-fcr-postpone-start-date/",
-      "pubDate": "2026-09-28T21:17:00",
-      "description": "<p>Amazon EC2 Future-dated Capacity Reservations let you secure capacity up to 120 days in advance by specifying the capacity you need, the start date...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Rekognition Face Liveness now returns Feedback Codes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/rekognition-liveness-feedback-codes/",
-      "pubDate": "2026-09-28T20:41:00",
-      "description": "<p>Amazon Rekognition Face Liveness now returns Feedback Codes that help customers understand why a liveness check&nbsp;received a low score and how u...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Grok 4.7 is now available on Amazon Bedrock",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-grok-4-7/",
-      "pubDate": "2026-09-28T18:29:00",
-      "description": "<p>Amazon Bedrock now supports SpaceXAI Grok 4.7, a frontier model built for coding, agentic tasks, and knowledge work, with US Geo and Global cross-R...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Claude Sonnet 5.5 now available on AWS",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/",
-      "pubDate": "2026-09-28T15:00:00",
-      "description": "<p>AWS now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work with at a low...",
+      "title": "AWS Transform now supports Apache Kafka migration assessments for Amazon MSK",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-msk-migration-assessment-with-aws-transform",
+      "pubDate": "2026-09-29T15:00:00",
+      "description": "<p>You can now use <a href=\"https://aws.amazon.com/transform/\">AWS Transform</a> agentic migration assessments to evaluate the migration of on-premise...",
       "category": "AWS",
       "source": "AWS What's New"
     },
