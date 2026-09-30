@@ -10,84 +10,100 @@
   ],
   "articles": [
     {
-      "title": "Amazon Bedrock Managed Agents, powered by OpenAI, is now available in preview",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/bedrock-managed-agents-preview/",
-      "pubDate": "2026-09-29T21:10:00",
-      "description": "<p>Developed jointly by AWS and OpenAI, Bedrock Managed Agents (BMA) is built on a customized version of&nbsp;OpenAI's Agents API engineered to be AWS...",
+      "title": "Amazon S3 Vectors introduces metadata pre-filtering for up to 5x higher recall on filtered search",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/s3-vectors-introduces-metadata-pre-filtering/",
+      "pubDate": "2026-09-30T20:00:00",
+      "description": "<p>Amazon S3 Vectors now supports pre-filtering, which evaluates metadata filters before running similarity search, returning up to 5x more of the mat...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon RDS now adds full snapshot size information to the Console and API",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-full-snapshot-size-available/",
-      "pubDate": "2026-09-29T21:00:23",
-      "description": "<p>Amazon RDS now displays the full snapshot size for RDS Snapshots. With this enhancement, customers can now retrieve full snapshot sizes programmati...",
+      "title": "OpenAI GPT-6 Astra now supports UltraFast mode on Amazon Bedrock",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-ultrafast-on-amazon-bedrock/",
+      "pubDate": "2026-09-30T19:00:00",
+      "description": "<p>&nbsp;Today, AWS announces the availability of UltraFast mode for GPT-6 Astra from OpenAI on Amazon Bedrock. Ultrafast is a premium speed tier for ...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "OpenAI GPT-6.1 Sol is now generally available on Amazon Bedrock",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/",
-      "pubDate": "2026-09-29T20:17:00",
-      "description": "<p>Today, AWS announces the general availability of GPT-6.1 Sol from OpenAI on Amazon Bedrock. An upgrade to GPT-6 Sol, GPT-6.1 Sol delivers exception...",
+      "title": "Amazon Aurora serverless now scales faster to support agentic AI and other bursty workloads",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-16-acu-scaling/",
+      "pubDate": "2026-09-30T17:50:00",
+      "description": "<p><a href=\"https://aws.amazon.com/rds/aurora/serverless/\">Amazon Aurora serverless</a> now scales in even larger steps, adding up to 16 ACUs to its c...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Connect Customer now lets business users manage more reference data to adjust contact center configurations in real time",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-manage-data-tables/",
-      "pubDate": "2026-09-29T17:00:00",
-      "description": "<p>Amazon Connect Customer now lets administrators store more of the reference data that drives their contact center configurations. Administrators ca...",
+      "title": "Amazon Aurora and RDS now support AMD-based R8a instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-rds-amd-r8a/",
+      "pubDate": "2026-09-30T17:00:00",
+      "description": "<p>Amazon Aurora and Amazon RDS now support R8a database instances powered by 5th generation AMD EPYC processors, expanding the choice available for y...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon WorkSpaces Applications introduces unified graphics images",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-applications-unified-graphics-images/",
-      "pubDate": "2026-09-29T17:00:00",
-      "description": "<p>Today, Amazon WorkSpaces Applications announces unified graphics images, a single image type that works across all supported graphics instance fami...",
+      "title": "Amazon RDS now supports AMD-based M8a instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-rds-amd-m8a/",
+      "pubDate": "2026-09-30T17:00:00",
+      "description": "<p>Amazon RDS for PostgreSQL, MySQL, and MariaDB now support M8a database instances powered by 5th generation AMD EPYC processors, expanding the choic...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Service Availability Updates",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-service-availability/",
-      "pubDate": "2026-09-29T16:21:00",
-      "description": "<p>We're announcing availability changes to the following AWS services and features.</p>\n<p><b>Services moving to Maintenance</b></p>\n<p>Services movi...",
+      "title": "Aurora PostgreSQL now supports querying of Apache Iceberg and Parquet data",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-postgresql-query-apache-iceberg-and-parquet/",
+      "pubDate": "2026-09-30T16:00:00",
+      "description": "<p>Starting today, you can directly query operational data together with data stored in data lakes in Apache Iceberg and Parquet formats using your ex...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon RDS for PostgreSQL announces Extended Support minor versions 13.23-rds.20260514, 12.22-rds.20260514 and 11.22-rds.20260514",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-postgresql-extended-support/",
-      "pubDate": "2026-09-29T16:00:00",
-      "description": "<p><a href=\"https://aws.amazon.com/rds/postgresql/\">Amazon Relational Database Service (RDS) for PostgreSQL</a> announces Amazon RDS Extended Support ...",
+      "title": "Amazon RDS for MySQL supports MySQL 26.7 in Amazon RDS Database Preview Environment",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/rds-mysql-26-7-preview-environment/",
+      "pubDate": "2026-09-30T16:00:00",
+      "description": "<p>Starting today, <a href=\"https://aws.amazon.com/rds/mysql/\" target=\"_blank\">Amazon RDS for MySQL</a> 26.7 is available in the <a href=\"https://docs...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Aurora now supports PostgreSQL\u202f18.6, 17.11, 16.15, 15.19, 14.24",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-postgresql-18-6-17-11-16-15-15-19-14-24/",
-      "pubDate": "2026-09-29T16:00:00",
-      "description": "<p><a href=\"https://aws.amazon.com/rds/aurora/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Aurora PostgreSQL-Compatible Edition</a> now supports...",
+      "title": "Uncover blind spots in AWS data plane operations with CloudTrail Event Coverage",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cloudtrail-event-coverage/",
+      "pubDate": "2026-09-30T16:00:00",
+      "description": "<p>AWS CloudTrail introduces Event Coverage, a new console experience that gives customers visibility into their data plane operations coverage at the...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Bedrock expands Claude model availability to India, South Korea, and Singapore",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-region-expansion-in-sk/",
-      "pubDate": "2026-09-29T15:41:00",
-      "description": "<p>We're excited to announce the availability of Anthropic's <a href=\"https://docs.aws.amazon.com/bedrock/latest/userguide/model-card-anthropic-claude...",
+      "title": "Partner Revenue Measurement adds Multi-Partner support to Resource Tagging",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/partner-revenue-measurement-multi-partner-resource-tagging",
+      "pubDate": "2026-09-30T12:00:00",
+      "description": "<p>Partner Revenue Measurement (PRM) provides measurement of AWS consumption driven by Partner solutions. Today, PRM adds multi-Partner support to Res...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Transform now supports Apache Kafka migration assessments for Amazon MSK",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-msk-migration-assessment-with-aws-transform",
-      "pubDate": "2026-09-29T15:00:00",
-      "description": "<p>You can now use <a href=\"https://aws.amazon.com/transform/\">AWS Transform</a> agentic migration assessments to evaluate the migration of on-premise...",
+      "title": "AWS Transfer Family now automatically approves SFTP connector quota increases up to 1,000",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transfer-family-sftp-connector-quota-1000/",
+      "pubDate": "2026-09-30T08:00:00",
+      "description": "<p>AWS Transfer Family now automatically approves requests to increase your SFTP connector quota up to 1,000 connectors per AWS account in each AWS Re...",
       "category": "AWS",
       "source": "AWS What's New"
+    },
+    {
+      "title": "Streamlining CI/CD on VMware vSphere Kubernetes Service with Harness, Wiz, Artifactory, Dynatrace and the VCF Secret Store",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/30/streamlining-ci-cd-on-vmware-vsphere-kubernetes-service-with-harness-wiz-artifactory-dynatrace-and-the-vcf-secret-store/",
+      "pubDate": "2026-09-30T14:42:52",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"136\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/image_43aac7.png?w...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "VMware Explore on Tour 2026 | Season Recap",
+      "link": "https://blogs.vmware.com/explore/explore-on-tour-recap-2026/",
+      "pubDate": "2026-09-30T12:30:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/0U2A3087.jpg?w=300...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Managing VKS Clusters at Scale: Improvements in VCF 9.1",
@@ -150,22 +166,6 @@
       "link": "https://blogs.vmware.com/hol/2026/09/the-next-generation-of-hands-on-labs.html",
       "pubDate": "2026-09-22T02:17:46",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"300\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/bc-vmw-HOL-icon_ic...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Optimizing AI Deployments with VMware Cloud Foundation (Part 1)",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/21/optimizing-ai-deployments-with-vmware-cloud-foundation-part-1/",
-      "pubDate": "2026-09-22T02:13:27",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"149\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/Screenshot-2026-09...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Shattering the Resilience Illusion: Cyber Resilience in the Era of AI-Driven Threats",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/21/shattering-the-resilience-illusion-cyber-resilience-in-the-era-of-ai-driven-threats/",
-      "pubDate": "2026-09-21T20:35:15",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/intel-qat-vsphere-...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
