@@ -10,6 +10,22 @@
   ],
   "articles": [
     {
+      "title": "Amazon WorkSpaces Core Managed Instances adds support for NVIDIA Blackwell GPU",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-cmi-g7/",
+      "pubDate": "2026-09-30T23:59:00",
+      "description": "<p>Amazon WorkSpaces Core Managed Instances now supports Graphics G7 instances, powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs and Intel...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS CLI now supports bulk skill updates and version checks for the Agent Toolkit for AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cli-agent-toolkit-update-skill/",
+      "pubDate": "2026-09-30T20:16:00",
+      "description": "<p>Today, AWS expanded the AWS Command Line Interface (CLI) commands for the <a href=\"https://docs.aws.amazon.com/agent-toolkit/latest/userguide/what-...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon S3 Vectors introduces metadata pre-filtering for up to 5x higher recall on filtered search",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/s3-vectors-introduces-metadata-pre-filtering/",
       "pubDate": "2026-09-30T20:00:00",
@@ -18,10 +34,26 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Amazon Managed Grafana now supports creating Grafana 13.2 workspaces",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-managed-grafana-now-supports-creating-grafana-13-2-workspaces",
+      "pubDate": "2026-09-30T19:30:00",
+      "description": "<p>Amazon Managed Grafana now supports creating new workspaces with Grafana version 13.2. This release brings features from open-source Grafana versio...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "OpenAI GPT-6 Astra now supports UltraFast mode on Amazon Bedrock",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-ultrafast-on-amazon-bedrock/",
       "pubDate": "2026-09-30T19:00:00",
       "description": "<p>&nbsp;Today, AWS announces the availability of UltraFast mode for GPT-6 Astra from OpenAI on Amazon Bedrock. Ultrafast is a premium speed tier for ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Parallel Computing Service now supports scaling logs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-pcs-scaling-logs/",
+      "pubDate": "2026-09-30T19:00:00",
+      "description": "<p>AWS Parallel Computing Service (AWS PCS) now supports scaling logs, which record how AWS PCS scales the compute node groups in your cluster. Each l...",
       "category": "AWS",
       "source": "AWS What's New"
     },
@@ -58,36 +90,12 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon RDS for MySQL supports MySQL 26.7 in Amazon RDS Database Preview Environment",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/rds-mysql-26-7-preview-environment/",
-      "pubDate": "2026-09-30T16:00:00",
-      "description": "<p>Starting today, <a href=\"https://aws.amazon.com/rds/mysql/\" target=\"_blank\">Amazon RDS for MySQL</a> 26.7 is available in the <a href=\"https://docs...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Uncover blind spots in AWS data plane operations with CloudTrail Event Coverage",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cloudtrail-event-coverage/",
-      "pubDate": "2026-09-30T16:00:00",
-      "description": "<p>AWS CloudTrail introduces Event Coverage, a new console experience that gives customers visibility into their data plane operations coverage at the...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Partner Revenue Measurement adds Multi-Partner support to Resource Tagging",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/partner-revenue-measurement-multi-partner-resource-tagging",
-      "pubDate": "2026-09-30T12:00:00",
-      "description": "<p>Partner Revenue Measurement (PRM) provides measurement of AWS consumption driven by Partner solutions. Today, PRM adds multi-Partner support to Res...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Transfer Family now automatically approves SFTP connector quota increases up to 1,000",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transfer-family-sftp-connector-quota-1000/",
-      "pubDate": "2026-09-30T08:00:00",
-      "description": "<p>AWS Transfer Family now automatically approves requests to increase your SFTP connector quota up to 1,000 connectors per AWS account in each AWS Re...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Broadcom\u304c\u30b5\u30dd\u30fc\u30c8\u3059\u308bKubernetes\u95a2\u9023\u306eOSS\u30d1\u30c3\u30b1\u30fc\u30b8 (VKS \u30a2\u30c9\u30aa\u30f3) \u306b\u3064\u3044\u3066",
+      "link": "https://blogs.vmware.com/vmware-japan/2026/10/vcf-vks-addons-jpn.html",
+      "pubDate": "2026-10-01T00:23:37",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"179\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/VKSaddonsJPN.jpg?w...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Streamlining CI/CD on VMware vSphere Kubernetes Service with Harness, Wiz, Artifactory, Dynatrace and the VCF Secret Store",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/09/24/webinar-recap-operationalizing-vmware-vsphere-kubernetes-service-with-add-ons/",
       "pubDate": "2026-09-24T19:59:25",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/07/bc-vmw-illu-dev-sp...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "The Next Generation of Hands-on Labs",
-      "link": "https://blogs.vmware.com/hol/2026/09/the-next-generation-of-hands-on-labs.html",
-      "pubDate": "2026-09-22T02:17:46",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"300\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/bc-vmw-HOL-icon_ic...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
