@@ -10,6 +10,14 @@
   ],
   "articles": [
     {
+      "title": "Amazon ECS adds Amazon VPC Lattice support for blue/green, linear, and canary deployments",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-vpc-lattice-blue-green-deployments",
+      "pubDate": "2026-10-02T20:18:00",
+      "description": "<p><a href=\"https://aws.amazon.com/ecs/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Elastic Container Service</a> (Amazon ECS) now supports buil...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Health introduces the version catalog for software lifecycle management",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-health-introduces-version-catalog-software-lifecycle-management",
       "pubDate": "2026-10-02T18:09:00",
@@ -78,14 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-well-architected-agent/",
       "pubDate": "2026-10-01T20:00:00",
       "description": "<p>AWS announces the preview of AWS Well-Architected Agent, a AI-powered service that is the next-gen evolution of AWS Trusted Advisor and the AWS Wel...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Redshift now supports cross-Region queries for your data lake",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-cross-Region-queries-for-data-lake",
-      "pubDate": "2026-10-01T18:41:00",
-      "description": "<p>Amazon Redshift now supports querying Amazon S3 data lake tables located in a different AWS Region. With enhanced VPC routing, data lake query traf...",
       "category": "AWS",
       "source": "AWS What's New"
     },
