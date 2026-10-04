@@ -26,18 +26,18 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Aurora DSQL now supports partial indexes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-dsql-partial-indexes/",
-      "pubDate": "2026-10-02T17:30:00",
-      "description": "<p><a href=\"https://aws.amazon.com/rds/aurora/dsql/\">Amazon Aurora DSQL</a> now lets you build an index over a specific subset of a table, storing onl...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
       "title": "Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.37",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-distro-kubernetes-version-1-37",
       "pubDate": "2026-10-02T17:30:00",
       "description": "<p>Kubernetes version 1.37 introduced several new features and bug fixes, and AWS is excited to announce that you can now use <a href=\"https://aws.ama...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Aurora DSQL now supports partial indexes",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-dsql-partial-indexes/",
+      "pubDate": "2026-10-02T17:30:00",
+      "description": "<p><a href=\"https://aws.amazon.com/rds/aurora/dsql/\">Amazon Aurora DSQL</a> now lets you build an index over a specific subset of a table, storing onl...",
       "category": "AWS",
       "source": "AWS What's New"
     },
