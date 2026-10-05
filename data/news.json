@@ -10,6 +10,54 @@
   ],
   "articles": [
     {
+      "title": "Amazon Redshift adds support for creating and refreshing Apache Iceberg materialized views",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-iceberg-materialized-views",
+      "pubDate": "2026-10-05T21:57:18",
+      "description": "<p>Amazon Redshift now supports the creation and refresh of Apache Iceberg materialized views. Materialized views pre-compute expensive joins and aggr...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS IAM Identity Center now supports network access controls for Identity Store",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-network-controls/",
+      "pubDate": "2026-10-05T21:00:00",
+      "description": "<p>AWS IAM Identity Center helps you configure the single sign-on experience for your workforce to AWS accounts and applications. IAM Identity Center ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Continuum for Penetration Testing now supports continuous penetration testing integrated directly into your CI/CD pipeline",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-penetration-testing/",
+      "pubDate": "2026-10-05T18:32:00",
+      "description": "<p>AWS Continuum for Penetration Testing now integrates continuous penetration testing directly into your CI/CD pipeline (public preview)</p>\n<p>AWS C...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Advanced Ruby Driver Wrapper is generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ruby-driver-wrapper-available/",
+      "pubDate": "2026-10-05T17:00:00",
+      "description": "<p>The Amazon Web Services (AWS) Advanced Ruby Driver Wrapper is now generally available for use with <a href=\"https://aws.amazon.com/rds/\" target=\"_b...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Batch now supports Amazon EKS access entry authentication",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-batch-access-entries/",
+      "pubDate": "2026-10-05T15:31:00",
+      "description": "<p>AWS Batch now supports Amazon EKS access entry authentication for compute environments. EKS access entries provide an API-driven approach to granti...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Private CA now provides detailed certificate issuance logs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-private-ca-certificate-issuance-logs/",
+      "pubDate": "2026-10-05T09:00:00",
+      "description": "<p>AWS Private CA announces detailed certificate issuance logs, a new AWS CloudTrail service event that records the complete certificate content, issu...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon ECS adds Amazon VPC Lattice support for blue/green, linear, and canary deployments",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-vpc-lattice-blue-green-deployments",
       "pubDate": "2026-10-02T20:18:00",
@@ -42,52 +90,20 @@
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Brazil automates distribution of non-Brazilian software product licenses to Brazilian customers",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-brazil-software-license-distribution/",
-      "pubDate": "2026-10-02T16:30:00",
-      "description": "<p>AWS Brazil now provides an automated distribution workflow through the AWS Brazil 2P Distribution Program. Eligible non-Brazilian independent softw...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Optimizing AI Deployments with VMware Cloud Foundation (Part 3)",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/05/optimizing-ai-deployments-with-vmware-cloud-foundation-part-3/",
+      "pubDate": "2026-10-05T21:20:23",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Blog3_featuredimag...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
-      "title": "The AWS MCP Server is now available in six additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-mcp-server-six-additional-regions/",
-      "pubDate": "2026-10-02T08:00:00",
-      "description": "<p>The AWS MCP Server is now available in six additional AWS Regions: Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Tokyo), Europe (I...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AgentCore Gateway supports private TLS certificates for VPC endpoints",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-private-tls-vpc/",
-      "pubDate": "2026-10-02T08:00:00",
-      "description": "<p>Amazon Bedrock AgentCore Gateway now supports TLS certificates signed by private certificate authorities (CAs) on MCP, OpenAPI, and HTTP proxy targ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon ElastiCache for Valkey now supports OpenTelemetry metrics and detailed monitoring",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-valkey-opentelemetry-metrics-detailed-monitoring",
-      "pubDate": "2026-10-02T07:00:00",
-      "description": "<p><a href=\"https://aws.amazon.com/elasticache/\">Amazon ElastiCache</a> for Valkey now publishes OpenTelemetry metrics to Amazon CloudWatch for your n...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "GuardDuty Runtime Monitoring is now included in the AWS Security Hub Threat Analytics plan",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-security-hub-runtime-monitoring/",
-      "pubDate": "2026-10-02T03:35:00",
-      "description": "<p>Today, AWS announces that Amazon GuardDuty Runtime Monitoring is now included in the AWS Security Hub Threat Analytics plan. Runtime Monitoring ins...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Well-Architected Agent is now available in preview",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-well-architected-agent/",
-      "pubDate": "2026-10-01T20:00:00",
-      "description": "<p>AWS announces the preview of AWS Well-Architected Agent, a AI-powered service that is the next-gen evolution of AWS Trusted Advisor and the AWS Wel...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Forrester Spotlight Finds That VMware Cloud Foundation Streamlines Private Cloud Operations",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/05/forrester-spotlight-finds-that-vmware-cloud-foundation-streamlines-private-cloud-operations/",
+      "pubDate": "2026-10-05T20:59:56",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/vmw-prod-icon-clou...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Security Starts with Hardware",
@@ -150,22 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/09/28/the-cost-case-is-clear-infrastructure-economics-with-vmware-vsphere-foundation-9-1/",
       "pubDate": "2026-09-28T13:00:00",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Getty-1386532266.j...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "One Namespace to Rule Them All: The New esxcli memtier Namespace",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/25/one-namespace-to-rule-them-all-the-new-esxcli-memtier-namespace/",
-      "pubDate": "2026-09-25T14:18:42",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/memory-tiering-fea...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "The Complete Guide to Workload Mobility with VMware Cloud Foundation Operations HCX 9.1 (Part 3: Extending Networks and Migrating Workloads)",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/25/vcf-9-operations-hcx-network-extension-migration-part-3/",
-      "pubDate": "2026-09-25T10:11:19",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/featured_hcx_part3...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
