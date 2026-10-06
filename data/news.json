@@ -10,6 +10,22 @@
   ],
   "articles": [
     {
+      "title": "AWS Batch now publishes job metrics to Amazon CloudWatch",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-batch-job-cloudwatch-metrics/",
+      "pubDate": "2026-10-06T17:30:00",
+      "description": "<p>AWS Batch now publishes job metrics to Amazon CloudWatch, providing native observability for batch workloads. AWS Batch emits metrics throughout th...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Certificate Manager now supports ACME issuance through AWS PrivateLink",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/AWS-Certificate-Manager-ACME-Privatelink",
+      "pubDate": "2026-10-06T14:01:00",
+      "description": "<p>AWS Certificate Manager (ACM) now supports AWS PrivateLink for ACME public certificate issuance, allowing you to request and renew public TLS certi...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon Redshift adds support for creating and refreshing Apache Iceberg materialized views",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-iceberg-materialized-views",
       "pubDate": "2026-10-05T21:57:18",
@@ -34,10 +50,26 @@
       "source": "AWS What's New"
     },
     {
+      "title": "AWS Control Tower AFT now supports plan-only customization runs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-control-tower-aft/",
+      "pubDate": "2026-10-05T19:31:00",
+      "description": "<p>AWS Control Tower Account Factory for Terraform (AFT) now supports plan-only customization runs, giving administrators the ability to preview Terra...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Continuum for Penetration Testing now supports continuous penetration testing integrated directly into your CI/CD pipeline",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-penetration-testing/",
       "pubDate": "2026-10-05T18:32:00",
       "description": "<p>AWS Continuum for Penetration Testing now integrates continuous penetration testing directly into your CI/CD pipeline (public preview)</p>\n<p>AWS C...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon EC2 introduces shared tags for Amazon Machine Images",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-ami-shared-tags",
+      "pubDate": "2026-10-05T17:28:00",
+      "description": "<p>Amazon EC2 now supports AMI tag sharing, a new feature that lets AMI owners make selected tags visible to all AWS accounts an AMI is shared with. W...",
       "category": "AWS",
       "source": "AWS What's New"
     },
@@ -58,36 +90,20 @@
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Batch now supports Amazon EKS access entry authentication",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-batch-access-entries/",
-      "pubDate": "2026-10-05T15:31:00",
-      "description": "<p>AWS Batch now supports Amazon EKS access entry authentication for compute environments. EKS access entries provide an API-driven approach to granti...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Dependencies Are a Boat Anchor",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/06/dependencies-are-a-boat-anchor/",
+      "pubDate": "2026-10-06T17:08:20",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/cybersecurity-awar...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
-      "title": "AWS Private CA now provides detailed certificate issuance logs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-private-ca-certificate-issuance-logs/",
-      "pubDate": "2026-10-05T09:00:00",
-      "description": "<p>AWS Private CA announces detailed certificate issuance logs, a new AWS CloudTrail service event that records the complete certificate content, issu...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Announcing Amazon Nova 2.5 Sonic with improved reasoning for voice agents",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-nova-2.5-sonic/",
-      "pubDate": "2026-10-05T08:10:00",
-      "description": "<p>Today, we announce the general availability of Amazon Nova 2.5 Sonic, our latest speech-to-speech model for natural, real-time voice agents. This r...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon ECS adds Amazon VPC Lattice support for blue/green, linear, and canary deployments",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-vpc-lattice-blue-green-deployments",
-      "pubDate": "2026-10-02T20:18:00",
-      "description": "<p><a href=\"https://aws.amazon.com/ecs/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Elastic Container Service</a> (Amazon ECS) now supports buil...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "What\u2019s New in VMware Cloud Foundation 9.1.1 for Single Sign-On",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/06/whats-new-in-vmware-cloud-foundation-9-1-1-for-single-sign-on/",
+      "pubDate": "2026-10-06T16:21:47",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/resized_1200x600.j...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "VCF Security Hardening Guidance",
@@ -150,22 +166,6 @@
       "link": "https://blogs.vmware.com/explore/explore-on-tour-recap-2026/",
       "pubDate": "2026-09-30T12:30:00",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/0U2A3087.jpg?w=300...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Managing VKS Clusters at Scale: Improvements in VCF 9.1",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/30/managing-vks-clusters-at-scale-improvements-in-vcf-9-1/",
-      "pubDate": "2026-09-30T09:14:56",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"184\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/image_8d918d.png?w...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Optimizing AI Deployments with VMware Cloud Foundation (Part 2)",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/28/optimizing-ai-deployments-with-vmware-cloud-foundation-part-2/",
-      "pubDate": "2026-09-28T22:07:39",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/Blog2_featuredimag...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
