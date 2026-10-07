@@ -10,6 +10,38 @@
   ],
   "articles": [
     {
+      "title": "AWS Capabilities by Region now offers availability notifications for individual features and advanced filters",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/awscapabilities-enhancements/",
+      "pubDate": "2026-10-07T15:00:00",
+      "description": "<p>Today, AWS announces feature-level availability notifications and advanced filters for <a href=\"https://builder.aws.com/build/capabilities/explore\"...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Config now supports 77 new resource types",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-config-new-resource-types",
+      "pubDate": "2026-10-07T15:00:00",
+      "description": "<p>AWS Config now supports 77 additional AWS resource types across key services including Amazon EC2, Amazon S3 Files, and Amazon Q Business. This exp...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Claude Haiku 5.5 is now available on AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-aws/",
+      "pubDate": "2026-10-07T14:00:00",
+      "description": "<p>AWS now offers Claude Haiku 5.5, the fastest and most efficient model in the Claude 5.5 family, built for subagents and high-volume, cost-sensitive...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Claude Haiku 5.5 is now available on AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-aws-govcloud/",
+      "pubDate": "2026-10-07T14:00:00",
+      "description": "<p>AWS GovCloud (US) now offers Claude Haiku 5.5, the fastest and most efficient model in the Claude 5.5 family, built for subagents and high-volume, ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Batch now publishes job metrics to Amazon CloudWatch",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-batch-job-cloudwatch-metrics/",
       "pubDate": "2026-10-06T17:30:00",
@@ -58,36 +90,28 @@
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Control Tower AFT now supports plan-only customization runs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-control-tower-aft/",
-      "pubDate": "2026-10-05T19:31:00",
-      "description": "<p>AWS Control Tower Account Factory for Terraform (AFT) now supports plan-only customization runs, giving administrators the ability to preview Terra...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Vulnerabilities: Everything You\u2019ve Wanted To Know",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/07/vulnerabilities-everything-you-want-know/",
+      "pubDate": "2026-10-07T20:29:12",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/cybersecurity-awar...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
-      "title": "AWS Continuum for Penetration Testing now supports continuous penetration testing integrated directly into your CI/CD pipeline",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-penetration-testing/",
-      "pubDate": "2026-10-05T18:32:00",
-      "description": "<p>AWS Continuum for Penetration Testing now integrates continuous penetration testing directly into your CI/CD pipeline (public preview)</p>\n<p>AWS C...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "The Cloud Admin\u2019s Path to Platform Engineering",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/07/the-cloud-admins-path-to-platform-engineering/",
+      "pubDate": "2026-10-07T18:14:55",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Getty-2203607940.j...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
-      "title": "Amazon EC2 introduces shared tags for Amazon Machine Images",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-ami-shared-tags",
-      "pubDate": "2026-10-05T17:28:00",
-      "description": "<p>Amazon EC2 now supports AMI tag sharing, a new feature that lets AMI owners make selected tags visible to all AWS accounts an AMI is shared with. W...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Advanced Ruby Driver Wrapper is generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ruby-driver-wrapper-available/",
-      "pubDate": "2026-10-05T17:00:00",
-      "description": "<p>The Amazon Web Services (AWS) Advanced Ruby Driver Wrapper is now generally available for use with <a href=\"https://aws.amazon.com/rds/\" target=\"_b...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "VCF Breakroom Chats Episode 96 \u2013 The Infrastructure-Centric Path to App Modernization",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/07/vcf-breakroom-chats-episode-96-the-infrastructure-centric-path-to-app-modernization/",
+      "pubDate": "2026-10-07T15:02:58",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/06/VCF-Breakroom-Chat...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Dependencies Are a Boat Anchor",
@@ -142,30 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/10/01/navigating-the-ai-threat-era-upgrading-to-vmware-cloud-foundation-9-1-and-applying-express-patches/",
       "pubDate": "2026-10-01T17:17:22",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"179\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/50081324_XL.jpg?w=...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Broadcom\u304c\u30b5\u30dd\u30fc\u30c8\u3059\u308bKubernetes\u95a2\u9023\u306eOSS\u30d1\u30c3\u30b1\u30fc\u30b8 (VKS \u30a2\u30c9\u30aa\u30f3) \u306b\u3064\u3044\u3066",
-      "link": "https://blogs.vmware.com/vmware-japan/2026/10/vcf-vks-addons-jpn.html",
-      "pubDate": "2026-10-01T00:23:37",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"179\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/VKSaddonsJPN.jpg?w...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Streamlining CI/CD on VMware vSphere Kubernetes Service with Harness, Wiz, Artifactory, Dynatrace and the VCF Secret Store",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/09/30/streamlining-ci-cd-on-vmware-vsphere-kubernetes-service-with-harness-wiz-artifactory-dynatrace-and-the-vcf-secret-store/",
-      "pubDate": "2026-09-30T14:42:52",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"136\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/image_43aac7.png?w...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "VMware Explore on Tour 2026 | Season Recap",
-      "link": "https://blogs.vmware.com/explore/explore-on-tour-recap-2026/",
-      "pubDate": "2026-09-30T12:30:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/0U2A3087.jpg?w=300...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
