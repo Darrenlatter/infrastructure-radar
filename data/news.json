@@ -50,6 +50,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Amazon EC2 Hpc8a instances are now available in Asia Pacific (Singapore)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-hpc8a-asia-pacific/",
+      "pubDate": "2026-10-05T20:33:00",
+      "description": "<p>Starting today, Amazon EC2 Hpc8a instances are available in&nbsp;Asia Pacific (Singapore) region. These instances are powered by 5th Gen AMD EPYC p...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Control Tower AFT now supports plan-only customization runs",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-control-tower-aft/",
       "pubDate": "2026-10-05T19:31:00",
@@ -78,14 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ruby-driver-wrapper-available/",
       "pubDate": "2026-10-05T17:00:00",
       "description": "<p>The Amazon Web Services (AWS) Advanced Ruby Driver Wrapper is now generally available for use with <a href=\"https://aws.amazon.com/rds/\" target=\"_b...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Client VPN now supports device posture assessment",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-client-vpn-device-posture/",
-      "pubDate": "2026-10-05T17:00:00",
-      "description": "<p>AWS Client VPN now supports device posture assessment, allowing you to verify that connecting user devices meet your security and compliance requir...",
       "category": "AWS",
       "source": "AWS What's New"
     },
