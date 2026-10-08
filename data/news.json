@@ -10,6 +10,14 @@
   ],
   "articles": [
     {
+      "title": "Amazon EC2 C8gb instances now generally available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-c8gb/",
+      "pubDate": "2026-10-07T18:26:00",
+      "description": "<p style=\"text-align: left;\">Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gb instances, powered by the latest-generation AWS Graviton4 ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Capabilities by Region now offers availability notifications for individual features and advanced filters",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/awscapabilities-enhancements/",
       "pubDate": "2026-10-07T15:00:00",
@@ -82,12 +90,20 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon EC2 Hpc8a instances are now available in Asia Pacific (Singapore)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-hpc8a-asia-pacific/",
-      "pubDate": "2026-10-05T20:33:00",
-      "description": "<p>Starting today, Amazon EC2 Hpc8a instances are available in&nbsp;Asia Pacific (Singapore) region. These instances are powered by 5th Gen AMD EPYC p...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Upgrade to VMware Cloud Foundation 9.1 and Express Patching Webinar Top 10 Questions Answered",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/08/upgrade-to-vmware-cloud-foundation-9-1-and-express-patching-webinar-top-10-questions-answered/",
+      "pubDate": "2026-10-08T18:00:46",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Getty-1283776192.j...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "Initial Triage Guide for VMware Cloud Foundation Private AI Services",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/08/initial-triage-guide-for-vmware-cloud-foundation-private-ai-services/",
+      "pubDate": "2026-10-08T15:05:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Getty-1409407984.j...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Vulnerabilities: Everything You\u2019ve Wanted To Know",
@@ -150,22 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/10/05/forrester-spotlight-finds-that-vmware-cloud-foundation-streamlines-private-cloud-operations/",
       "pubDate": "2026-10-05T20:59:56",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/vmw-prod-icon-clou...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Security Starts with Hardware",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/02/security-starts-with-hardware/",
-      "pubDate": "2026-10-02T15:38:44",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"258\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Cybersecurity-Awar...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Navigating the AI Threat Era: Upgrading to VMware Cloud Foundation 9.1 and Applying Express Patches",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/01/navigating-the-ai-threat-era-upgrading-to-vmware-cloud-foundation-9-1-and-applying-express-patches/",
-      "pubDate": "2026-10-01T17:17:22",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"179\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/50081324_XL.jpg?w=...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
