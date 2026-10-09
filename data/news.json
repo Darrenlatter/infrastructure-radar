@@ -10,84 +10,124 @@
   ],
   "articles": [
     {
-      "title": "OpenAI GPT-6.1 Sol now supports Ultrafast mode on Amazon Bedrock",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-sol-ultrafast-amazon/",
-      "pubDate": "2026-10-08T19:41:00",
-      "description": "<p>Today, AWS announces the availability of Ultrafast mode for GPT-6.1 Sol from OpenAI on Amazon Bedrock.&nbsp;Ultrafast mode provides faster inferenc...",
+      "title": "Amazon EC2 R8gd instances are now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-r8gd-thf/",
+      "pubDate": "2026-10-09T19:29:00",
+      "description": "<p>Amazon Elastic Compute Cloud (Amazon EC2) R8gd instances are available in AWS European Sovereign Cloud (Germany) region. These instances feature up...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Cost Explorer, Budgets, and Dashboards now support Amazon Bedrock product attributes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-bedrock-attributes-in-cost-explorer/",
-      "pubDate": "2026-10-08T18:51:00",
-      "description": "<p>AWS Cost Explorer, AWS Budgets, and AWS Cost Management Dashboards now let you analyze Amazon Bedrock costs by product attributes, a new dimension ...",
+      "title": "Amazon EC2 R8g instances now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-r8g-instances-thf/",
+      "pubDate": "2026-10-09T19:19:00",
+      "description": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8g instances are available in the AWS European Sovereign Cloud (Germany) region. These i...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon RDS for Oracle now supports minor version upgrade prechecks and a new RDS event to help reduce patching downtime",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-minor-version-upgrade-precheck-new-patching-rds-event/",
-      "pubDate": "2026-10-08T18:00:00",
-      "description": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now lets you run a minor version upgrad...",
+      "title": "Amazon Bedrock now supports reasoning summaries for OpenAI models",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-reasoning-summaries-openai/",
+      "pubDate": "2026-10-09T17:44:00",
+      "description": "<p>Amazon Bedrock now supports the reasoning.summary parameter for OpenAI models through the Responses API. This capability lets you request a human-r...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Network Firewall adds wildcard support for container attribute filters",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-network-firewall-container-attributes-wildcard",
-      "pubDate": "2026-10-08T16:00:00",
-      "description": "<p>AWS Network Firewall now supports wildcard matching in container attribute-based inspection filters for Amazon Elastic Kubernetes Service (Amazon E...",
+      "title": "Anthropic Claude Sonnet 5.5 and Claude Opus 5.5 are now available on Kiro in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/kiro-claude-5-5-aws-govcloud-us/",
+      "pubDate": "2026-10-09T17:13:00",
+      "description": "<p>Two new Anthropic models are now available in the Kiro IDE and CLI for the AWS GovCloud (US) Regions.</p>\n<p>Claude Opus 5.5 is Anthropic's most ca...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon GameLift Servers adds CPU burstability for container fleets",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-gamelift-servers-cpu-burstability",
-      "pubDate": "2026-10-08T08:00:00",
-      "description": "<p>Amazon GameLift Servers now supports CPU burstability for container fleets, giving game developers greater flexibility in how compute resources are...",
+      "title": "Amazon Connect Customer now provides automated checks to improve performance evaluation forms",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-customer-automated-checks-evaluation-forms/",
+      "pubDate": "2026-10-09T17:00:00",
+      "description": "<p>Amazon Connect Customer now suggests changes to performance evaluation forms that improve the accuracy of evaluations automatically filled by AI. W...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon EC2 C8gb instances now generally available in additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-c8gb/",
-      "pubDate": "2026-10-07T18:26:00",
-      "description": "<p style=\"text-align: left;\">Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gb instances, powered by the latest-generation AWS Graviton4 ...",
+      "title": "Amazon S3 Vectors metadata pre-filtering is now available in AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/s3-vectors-metadata-pre-filtering-in-govcloud-regions/",
+      "pubDate": "2026-10-09T17:00:00",
+      "description": "<p>Amazon S3 Vectors metadata pre-filtering is now available in the AWS GovCloud (US-East) and AWS GovCloud (US-West) Regions. Pre-filtering evaluates...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Capabilities by Region now offers availability notifications for individual features and advanced filters",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/awscapabilities-enhancements/",
-      "pubDate": "2026-10-07T15:00:00",
-      "description": "<p>Today, AWS announces feature-level availability notifications and advanced filters for <a href=\"https://builder.aws.com/build/capabilities/explore\"...",
+      "title": "AWS Lambda supports OAuth authentication for self-managed Apache Kafka event sources",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-Lambda-supports-oauth-kafka-esm/",
+      "pubDate": "2026-10-09T16:30:00",
+      "description": "<p>AWS Lambda now supports OAuth authentication for <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/with-kafka.html\">self-managed Apache Kafka e...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Config now supports 77 new resource types",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-config-new-resource-types",
-      "pubDate": "2026-10-07T15:00:00",
-      "description": "<p>AWS Config now supports 77 additional AWS resource types across key services including Amazon EC2, Amazon S3 Files, and Amazon Q Business. This exp...",
+      "title": "Amazon Quick now supports brand templates for on-brand presentations and documents",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-quick-brand-templates-on-brand-presentations-documents/",
+      "pubDate": "2026-10-09T15:00:00",
+      "description": "<p>Starting today, you can upload brand templates in Amazon Quick, allowing you to create presentations and documents that match your approved visual ...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Claude Haiku 5.5 is now available on AWS",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-aws/",
-      "pubDate": "2026-10-07T14:00:00",
-      "description": "<p>AWS now offers Claude Haiku 5.5, the fastest and most efficient model in the Claude 5.5 family, built for subagents and high-volume, cost-sensitive...",
+      "title": "Amazon SageMaker Unified Studio now supports custom Tooling blueprints",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-tooling-blueprints/",
+      "pubDate": "2026-10-09T08:00:00",
+      "description": "<p>Amazon SageMaker Unified Studio now supports custom Tooling blueprints, giving domain administrators the ability to define the foundation of every ...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Claude Haiku 5.5 is now available on AWS GovCloud (US)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-aws-govcloud/",
-      "pubDate": "2026-10-07T14:00:00",
-      "description": "<p>AWS GovCloud (US) now offers Claude Haiku 5.5, the fastest and most efficient model in the Claude 5.5 family, built for subagents and high-volume, ...",
+      "title": "TwelveLabs Pegasus 1.5 model now available on Amazon Bedrock",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/twelve-labs-pegasus-1-5-aws/",
+      "pubDate": "2026-10-09T05:32:00",
+      "description": "<p>Amazon Bedrock now supports TwelveLabs Pegasus 1.5, a video-to-text model that generates structured, time-coded metadata from video. Until now, fin...",
       "category": "AWS",
       "source": "AWS What's New"
+    },
+    {
+      "title": "Certificates, Trust, and Network Encryption",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/09/certificates-trust-network-encryption/",
+      "pubDate": "2026-10-09T19:33:40",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/cybersecurity-awar...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "Beyond the Kubernetes complexity: Delivering an AI-Ready Platform Developers Love (Over Lunch)",
+      "link": "https://blogs.vmware.com/tanzu/beyond-the-kubernetes-complexity-delivering-an-ai-ready-platform-developers-love-over-lunch/",
+      "pubDate": "2026-10-09T15:46:00",
+      "description": "<p>Developers want to push code and watch the platform take care of the rest\u2014packaging images, configuring variables, and deploying to a secure, highl...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "Creating a FinOps Dashboard in VMware Cloud Foundation",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/09/creating-a-finops-dashboard-in-vmware-cloud-foundation/",
+      "pubDate": "2026-10-09T13:26:48",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"243\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Final_dashboard-e1...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "Automated Budget Control for Multi-Tenant Environments",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/09/automated-budget-control-for-multi-tenant-environments/",
+      "pubDate": "2026-10-09T13:20:47",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"207\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Alert_End_Result-e...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "Security Scanners and VCF",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/08/security-scanners/",
+      "pubDate": "2026-10-09T06:57:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/cybersecurity-awar...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Upgrade to VMware Cloud Foundation 9.1 and Express Patching Webinar Top 10 Questions Answered",
@@ -126,46 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/10/07/vcf-breakroom-chats-episode-96-the-infrastructure-centric-path-to-app-modernization/",
       "pubDate": "2026-10-07T15:02:58",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/06/VCF-Breakroom-Chat...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Dependencies Are a Boat Anchor",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/06/dependencies-are-a-boat-anchor/",
-      "pubDate": "2026-10-06T17:08:20",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/cybersecurity-awar...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "What\u2019s New in VMware Cloud Foundation 9.1.1 for Single Sign-On",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/06/whats-new-in-vmware-cloud-foundation-9-1-1-for-single-sign-on/",
-      "pubDate": "2026-10-06T16:21:47",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/resized_1200x600.j...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "VCF Security Hardening Guidance",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/05/vcf-security-configuration-guide/",
-      "pubDate": "2026-10-06T03:45:10",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/cybersecurity-awar...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Optimizing AI Deployments with VMware Cloud Foundation (Part 3)",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/05/optimizing-ai-deployments-with-vmware-cloud-foundation-part-3/",
-      "pubDate": "2026-10-05T21:20:23",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Blog3_featuredimag...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Forrester Spotlight Finds That VMware Cloud Foundation Streamlines Private Cloud Operations",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/05/forrester-spotlight-finds-that-vmware-cloud-foundation-streamlines-private-cloud-operations/",
-      "pubDate": "2026-10-05T20:59:56",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/vmw-prod-icon-clou...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
