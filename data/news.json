@@ -10,6 +10,14 @@
   ],
   "articles": [
     {
+      "title": "AWS Security Hub now exports findings to S3 in CSV or JSON format",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-exports-s3-csv-json/",
+      "pubDate": "2026-10-09T22:00:00",
+      "description": "<p>Today, AWS Security Hub announces support for exporting findings to Amazon S3 in CSV or JSON (OCSF) format. Security teams that need findings outsi...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon EC2 R8gd instances are now available in additional regions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-r8gd-thf/",
       "pubDate": "2026-10-09T19:29:00",
@@ -82,12 +90,12 @@
       "source": "AWS What's New"
     },
     {
-      "title": "TwelveLabs Pegasus 1.5 model now available on Amazon Bedrock",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/twelve-labs-pegasus-1-5-aws/",
-      "pubDate": "2026-10-09T05:32:00",
-      "description": "<p>Amazon Bedrock now supports TwelveLabs Pegasus 1.5, a video-to-text model that generates structured, time-coded metadata from video. Until now, fin...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "CRITICAL ADVISORY: Pre-Upgrade Verification Required for vSphere Supervisor and VKS Environments Upgrading to vCenter 9.1.0 or 9.1.1",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/09/critical-advisory-pre-upgrade-verification-required-for-vsphere-supervisor-and-vks-environments-upgrading-to-vcenter-9-1-0-or-9-1-1/",
+      "pubDate": "2026-10-09T23:11:43",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"201\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/criticaladvisory.j...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Certificates, Trust, and Network Encryption",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/10/07/the-cloud-admins-path-to-platform-engineering/",
       "pubDate": "2026-10-07T18:14:55",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Getty-2203607940.j...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "VCF Breakroom Chats Episode 96 \u2013 The Infrastructure-Centric Path to App Modernization",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/07/vcf-breakroom-chats-episode-96-the-infrastructure-centric-path-to-app-modernization/",
-      "pubDate": "2026-10-07T15:02:58",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/06/VCF-Breakroom-Chat...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
