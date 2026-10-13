@@ -58,6 +58,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Amazon S3 Express One Zone is now available in 4 additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/s3-express-one-zone-4-additional-regions/",
+      "pubDate": "2026-10-12T08:00:00",
+      "description": "<p>The Amazon S3 Express One Zone storage class is now available in 4 additional AWS Regions: Europe (London), Asia Pacific (Jakarta), Asia Pacific (H...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Secrets Manager adds managed external secrets support for Databricks and Twilio",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/secrets-manager-managed-external-secrets-databricks-twilio/",
       "pubDate": "2026-10-12T07:00:00",
@@ -82,12 +90,12 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon OpenSearch Service now supports index-level encryption",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/opensearch-index-level-encryption",
-      "pubDate": "2026-10-12T02:30:00",
-      "description": "<p>Amazon OpenSearch Service now supports index-level encryption, letting you encrypt each index at rest with its own AWS Key Management Service (AWS ...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Proactive Defense: Enhancing Hypervisor Security\u00a0in the AI Era",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/13/proactive-hypervisor-defense-introducing-vmware-hyperarmor/",
+      "pubDate": "2026-10-13T07:01:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/HyperArmor-Blog-Im...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Patch Easier, Then Faster",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/10/08/upgrade-to-vmware-cloud-foundation-9-1-and-express-patching-webinar-top-10-questions-answered/",
       "pubDate": "2026-10-08T18:00:46",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Getty-1283776192.j...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Initial Triage Guide for VMware Cloud Foundation Private AI Services",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/08/initial-triage-guide-for-vmware-cloud-foundation-private-ai-services/",
-      "pubDate": "2026-10-08T15:05:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Getty-1409407984.j...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
