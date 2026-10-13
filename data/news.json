@@ -10,6 +10,62 @@
   ],
   "articles": [
     {
+      "title": "AWS Agent Registry now supports custom metadata for registry records",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-agent-registry-custom-metadata-registry-records",
+      "pubDate": "2026-10-13T21:00:00",
+      "description": "<p>AWS Agent Registry is the centralized, governed catalog for agents, MCP servers, agent skills, gateways, and custom resources within your organizat...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon DCV releases version 2026.0 with RHEL 10 support and new clients",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-dcv-2026-0/",
+      "pubDate": "2026-10-13T19:35:00",
+      "description": "<p>Amazon DCV 2026.0 is now available, adding support for RHEL 10, Rocky Linux 10, CentOS 10, and Ubuntu 26.04 along with a new macOS client and updat...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Deadline Cloud now helps users find their accessible resources in the Deadline Cloud monitor",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/deadline-cloud/resources",
+      "pubDate": "2026-10-13T18:54:00",
+      "description": "<p>AWS Deadline Cloud now lets users who have access to specific queues, fleets, or jobs, rather than an entire farm, find the resources they can reac...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Bring deep SageMaker AI expertise to your coding agent with the AWS AI/ML skill in the Agent Toolkit for AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bring-sagemaker-ai-expertise-to-your-coding-agent/",
+      "pubDate": "2026-10-13T14:00:00",
+      "description": "<p>Your coding agent can select, train, optimize and deploy models on Amazon SageMaker AI while working across the rest of your AWS environment in a s...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS DataSync Enhanced mode now supports FSx for OpenZFS, NFS 4.2, and object metadata controls",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/datasync-enhanced-openzfs-nfs42-metadata/",
+      "pubDate": "2026-10-13T08:00:00",
+      "description": "<p>AWS DataSync Enhanced mode now supports Amazon FSx for OpenZFS as a source or destination location, NFS version 4.2 for on-premises NFS servers and...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Route 53 now supports registrations, transfers, and renewals for Premium Domains",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/route-53-premium-domains/",
+      "pubDate": "2026-10-13T08:00:00",
+      "description": "<p>Amazon Route 53 Domains now supports Premium Domain Names. Customers can now search for, register, transfer, renew, and restore registry premium na...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon RDS now supports the latest CU for Microsoft SQL Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-supports-latest-cu-microsoft-sql-server/",
+      "pubDate": "2026-10-13T07:30:00",
+      "description": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server </a>now supports the...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon CloudFront now supports AWS Lambda Web Functions as an origin",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-lambda-web-functions-origin/",
       "pubDate": "2026-10-12T23:10:00",
@@ -34,60 +90,20 @@
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Lambda announces Lambda Web Functions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-web-functions/",
-      "pubDate": "2026-10-12T19:30:00",
-      "description": "<p>AWS Lambda announces Lambda Web Functions, a new serverless compute primitive where your code handles HTTP requests directly. Your code listens on ...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Anatomy of an AI",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/13/ai-security-anatomy/",
+      "pubDate": "2026-10-13T21:06:43",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/cybersecurity-awar...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
-      "title": "Announcing consumption-based pricing for short-term memory in Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-memory-consumption-based-pricing",
-      "pubDate": "2026-10-12T16:00:00",
-      "description": "<p><b>Announcing consumption-based pricing for short-term memory in Amazon Bedrock AgentCore</b></p>\n<p>Amazon Bedrock AgentCore memory now prices sho...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Transfer Family supports custom ports for public SFTP servers",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-custom-ports-sftp/",
-      "pubDate": "2026-10-12T08:00:00",
-      "description": "<p>AWS Transfer Family now lets you configure custom ports on public SFTP servers and choose a communication mode for each port. You can support clien...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon S3 Express One Zone is now available in 4 additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/s3-express-one-zone-4-additional-regions/",
-      "pubDate": "2026-10-12T08:00:00",
-      "description": "<p>The Amazon S3 Express One Zone storage class is now available in 4 additional AWS Regions: Europe (London), Asia Pacific (Jakarta), Asia Pacific (H...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Secrets Manager adds managed external secrets support for Databricks and Twilio",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/secrets-manager-managed-external-secrets-databricks-twilio/",
-      "pubDate": "2026-10-12T07:00:00",
-      "description": "<p>AWS Secrets Manager now extends its managed external secrets capability to include Databricks and Twilio, enabling you to automatically rotate the ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon ElastiCache for Valkey introduces ElastiCache Insights",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-valkey-elasticache-insights/",
-      "pubDate": "2026-10-12T07:00:00",
-      "description": "<p><a href=\"https://aws.amazon.com/elasticache/\">Amazon ElastiCache</a> for Valkey now features ElastiCache Insights, a pre-built dashboard in Amazon ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon EMR now supports native data quality checks in Apache Spark jobs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-emr-data-quality-spark/",
-      "pubDate": "2026-10-12T07:00:00",
-      "description": "<p>Amazon EMR now validates data quality natively within Apache Spark jobs. Data engineering teams can catch quality issues inline before bad data rea...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Customer Favorite Capabilities: Accelerating Your Path to VCF 9.1.1",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/13/customer-favorite-capabilities-accelerating-your-path-to-vcf-9-1-1/",
+      "pubDate": "2026-10-13T15:00:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"161\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Getty-1420039843.j...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Proactive Defense: Enhancing Hypervisor Security\u00a0in the AI Era",
@@ -150,22 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/10/09/automated-budget-control-for-multi-tenant-environments/",
       "pubDate": "2026-10-09T13:20:47",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"207\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Alert_End_Result-e...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Security Scanners and VCF",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/08/security-scanners/",
-      "pubDate": "2026-10-09T06:57:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/cybersecurity-awar...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Upgrade to VMware Cloud Foundation 9.1 and Express Patching Webinar Top 10 Questions Answered",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/08/upgrade-to-vmware-cloud-foundation-9-1-and-express-patching-webinar-top-10-questions-answered/",
-      "pubDate": "2026-10-08T18:00:46",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Getty-1283776192.j...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
