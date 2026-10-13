@@ -10,84 +10,92 @@
   ],
   "articles": [
     {
-      "title": "AWS Security Hub now exports findings to S3 in CSV or JSON format",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-exports-s3-csv-json/",
-      "pubDate": "2026-10-09T22:00:00",
-      "description": "<p>Today, AWS Security Hub announces support for exporting findings to Amazon S3 in CSV or JSON (OCSF) format. Security teams that need findings outsi...",
+      "title": "Amazon CloudFront now supports AWS Lambda Web Functions as an origin",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-lambda-web-functions-origin/",
+      "pubDate": "2026-10-12T23:10:00",
+      "description": "<p>Starting today, you can deliver web applications built on AWS Lambda Web Functions through CloudFront's global edge network. &nbsp;</p>\n<p>With Clo...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon EC2 R8gd instances are now available in additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-r8gd-thf/",
-      "pubDate": "2026-10-09T19:29:00",
-      "description": "<p>Amazon Elastic Compute Cloud (Amazon EC2) R8gd instances are available in AWS European Sovereign Cloud (Germany) region. These instances feature up...",
+      "title": "Amazon EC2 G7 instances now available in Europe (Frankfurt) and Europe (Stockholm) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-g7-european-regions/",
+      "pubDate": "2026-10-12T22:30:00",
+      "description": "<p>Amazon Elastic Compute Cloud (Amazon EC2) G7 instances powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs are now available in Europe (Fr...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon EC2 R8g instances now available in additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-r8g-instances-thf/",
-      "pubDate": "2026-10-09T19:19:00",
-      "description": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8g instances are available in the AWS European Sovereign Cloud (Germany) region. These i...",
+      "title": "Amazon Connect Customer now prefills step-by-step guides for after contact work",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-prefills-guides-acw",
+      "pubDate": "2026-10-12T22:28:00",
+      "description": "<p>Amazon Connect Customer can now fill in the step-by-step guides that agents complete after a contact, using information extracted from customer con...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Bedrock now supports reasoning summaries for OpenAI models",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-reasoning-summaries-openai/",
-      "pubDate": "2026-10-09T17:44:00",
-      "description": "<p>Amazon Bedrock now supports the reasoning.summary parameter for OpenAI models through the Responses API. This capability lets you request a human-r...",
+      "title": "AWS Lambda announces Lambda Web Functions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-web-functions/",
+      "pubDate": "2026-10-12T19:30:00",
+      "description": "<p>AWS Lambda announces Lambda Web Functions, a new serverless compute primitive where your code handles HTTP requests directly. Your code listens on ...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Anthropic Claude Sonnet 5.5 and Claude Opus 5.5 are now available on Kiro in AWS GovCloud (US)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/kiro-claude-5-5-aws-govcloud-us/",
-      "pubDate": "2026-10-09T17:13:00",
-      "description": "<p>Two new Anthropic models are now available in the Kiro IDE and CLI for the AWS GovCloud (US) Regions.</p>\n<p>Claude Opus 5.5 is Anthropic's most ca...",
+      "title": "Announcing consumption-based pricing for short-term memory in Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-memory-consumption-based-pricing",
+      "pubDate": "2026-10-12T16:00:00",
+      "description": "<p><b>Announcing consumption-based pricing for short-term memory in Amazon Bedrock AgentCore</b></p>\n<p>Amazon Bedrock AgentCore memory now prices sho...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Connect Customer now provides automated checks to improve performance evaluation forms",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-customer-automated-checks-evaluation-forms/",
-      "pubDate": "2026-10-09T17:00:00",
-      "description": "<p>Amazon Connect Customer now suggests changes to performance evaluation forms that improve the accuracy of evaluations automatically filled by AI. W...",
+      "title": "AWS Transfer Family supports custom ports for public SFTP servers",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-custom-ports-sftp/",
+      "pubDate": "2026-10-12T08:00:00",
+      "description": "<p>AWS Transfer Family now lets you configure custom ports on public SFTP servers and choose a communication mode for each port. You can support clien...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon S3 Vectors metadata pre-filtering is now available in AWS GovCloud (US) Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/s3-vectors-metadata-pre-filtering-in-govcloud-regions/",
-      "pubDate": "2026-10-09T17:00:00",
-      "description": "<p>Amazon S3 Vectors metadata pre-filtering is now available in the AWS GovCloud (US-East) and AWS GovCloud (US-West) Regions. Pre-filtering evaluates...",
+      "title": "AWS Secrets Manager adds managed external secrets support for Databricks and Twilio",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/secrets-manager-managed-external-secrets-databricks-twilio/",
+      "pubDate": "2026-10-12T07:00:00",
+      "description": "<p>AWS Secrets Manager now extends its managed external secrets capability to include Databricks and Twilio, enabling you to automatically rotate the ...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Lambda supports OAuth authentication for self-managed Apache Kafka event sources",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-Lambda-supports-oauth-kafka-esm/",
-      "pubDate": "2026-10-09T16:30:00",
-      "description": "<p>AWS Lambda now supports OAuth authentication for <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/with-kafka.html\">self-managed Apache Kafka e...",
+      "title": "Amazon ElastiCache for Valkey introduces ElastiCache Insights",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-valkey-elasticache-insights/",
+      "pubDate": "2026-10-12T07:00:00",
+      "description": "<p><a href=\"https://aws.amazon.com/elasticache/\">Amazon ElastiCache</a> for Valkey now features ElastiCache Insights, a pre-built dashboard in Amazon ...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Quick now supports brand templates for on-brand presentations and documents",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-quick-brand-templates-on-brand-presentations-documents/",
-      "pubDate": "2026-10-09T15:00:00",
-      "description": "<p>Starting today, you can upload brand templates in Amazon Quick, allowing you to create presentations and documents that match your approved visual ...",
+      "title": "Amazon EMR now supports native data quality checks in Apache Spark jobs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-emr-data-quality-spark/",
+      "pubDate": "2026-10-12T07:00:00",
+      "description": "<p>Amazon EMR now validates data quality natively within Apache Spark jobs. Data engineering teams can catch quality issues inline before bad data rea...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon SageMaker Unified Studio now supports custom Tooling blueprints",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-tooling-blueprints/",
-      "pubDate": "2026-10-09T08:00:00",
-      "description": "<p>Amazon SageMaker Unified Studio now supports custom Tooling blueprints, giving domain administrators the ability to define the foundation of every ...",
+      "title": "Amazon OpenSearch Service now supports index-level encryption",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/opensearch-index-level-encryption",
+      "pubDate": "2026-10-12T02:30:00",
+      "description": "<p>Amazon OpenSearch Service now supports index-level encryption, letting you encrypt each index at rest with its own AWS Key Management Service (AWS ...",
       "category": "AWS",
       "source": "AWS What's New"
+    },
+    {
+      "title": "Patch Easier, Then Faster",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/12/patch-easier-then-faster/",
+      "pubDate": "2026-10-12T20:43:47",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/cybersecurity-awar...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "AI, Kubernetes, and Cloud Native Innovations: Broadcom at KubeCon North America 2026",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/10/08/initial-triage-guide-for-vmware-cloud-foundation-private-ai-services/",
       "pubDate": "2026-10-08T15:05:00",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Getty-1409407984.j...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Vulnerabilities: Everything You\u2019ve Wanted To Know",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/07/vulnerabilities-everything-you-want-know/",
-      "pubDate": "2026-10-07T20:29:12",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/cybersecurity-awar...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
