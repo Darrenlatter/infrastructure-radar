@@ -10,6 +10,22 @@
   ],
   "articles": [
     {
+      "title": "AWS Security Hub now supports resource criticality for prioritization",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-resource-criticality/",
+      "pubDate": "2026-10-14T01:00:00",
+      "description": "<p>Today, AWS Security Hub adds resource criticality to exposure prioritization, helping central security teams focus on the exposures that threaten t...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon ECS adds LiveTaskCount and removes the charge for RunningTaskCount metric",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-service-metrics/",
+      "pubDate": "2026-10-13T22:00:00",
+      "description": "<p>Today, Amazon Elastic Container Service (Amazon ECS) announces LiveTaskCount, a new ECS service metric that reports how many tasks are actively run...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Agent Registry now supports custom metadata for registry records",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-agent-registry-custom-metadata-registry-records",
       "pubDate": "2026-10-13T21:00:00",
@@ -30,6 +46,14 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/deadline-cloud/resources",
       "pubDate": "2026-10-13T18:54:00",
       "description": "<p>AWS Deadline Cloud now lets users who have access to specific queues, fleets, or jobs, rather than an entire farm, find the resources they can reac...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Location Service launches an interactive API Playground featuring Places, Routes and Maps APIs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-location-service-api-playground",
+      "pubDate": "2026-10-13T18:46:00",
+      "description": "<p>Amazon Location Service now offers a complete, interactive API Playground that lets developers explore and test every Places, Routes, and Maps API ...",
       "category": "AWS",
       "source": "AWS What's New"
     },
@@ -66,28 +90,12 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon CloudFront now supports AWS Lambda Web Functions as an origin",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-lambda-web-functions-origin/",
-      "pubDate": "2026-10-12T23:10:00",
-      "description": "<p>Starting today, you can deliver web applications built on AWS Lambda Web Functions through CloudFront's global edge network. &nbsp;</p>\n<p>With Clo...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon EC2 G7 instances now available in Europe (Frankfurt) and Europe (Stockholm) Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-g7-european-regions/",
-      "pubDate": "2026-10-12T22:30:00",
-      "description": "<p>Amazon Elastic Compute Cloud (Amazon EC2) G7 instances powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs are now available in Europe (Fr...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Connect Customer now prefills step-by-step guides for after contact work",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-prefills-guides-acw",
-      "pubDate": "2026-10-12T22:28:00",
-      "description": "<p>Amazon Connect Customer can now fill in the step-by-step guides that agents complete after a contact, using information extracted from customer con...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Threat hunting and Cross-Component Forensics with VCF Audit Trail",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/13/threat-hunting-and-cross-component-forensics-with-vcf-audit-trail/",
+      "pubDate": "2026-10-14T03:05:50",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"184\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Screenshot-2026-10...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Anatomy of an AI",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/10/09/creating-a-finops-dashboard-in-vmware-cloud-foundation/",
       "pubDate": "2026-10-09T13:26:48",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"243\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Final_dashboard-e1...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Automated Budget Control for Multi-Tenant Environments",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/09/automated-budget-control-for-multi-tenant-environments/",
-      "pubDate": "2026-10-09T13:20:47",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"207\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Alert_End_Result-e...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
