@@ -10,6 +10,54 @@
   ],
   "articles": [
     {
+      "title": "AWS License Manager now supports license type conversions for Ubuntu Pro purchased through AWS Marketplace",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-license-manager-conversions-ubuntu-pro-marketplace/",
+      "pubDate": "2026-10-14T17:04:00",
+      "description": "<p><a href=\"https://aws.amazon.com/license-manager/\">AWS License Manager&nbsp;</a> now supports in-place upgrades for EC2 Ubuntu LTS (Long Term Suppor...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with social sign-in",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-social-sign-in/",
+      "pubDate": "2026-10-14T17:00:00",
+      "description": "<p>Amazon SageMaker Studio now lets new customers sign up with their Google, GitHub, or Apple credentials and land inside a fully configured Studio en...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS HealthOmics introduces resource fallback order for Nextflow workflows",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-healthomics-resource-fallback-for-Nextflow/",
+      "pubDate": "2026-10-14T16:00:00",
+      "description": "<p>Today, AWS HealthOmics introduces the resource fallback directive for tasks in your Nextflow workflows, enabling you to define an ordered list of p...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Backup now supports Amazon FSx file systems in the Asia Pacific (New Zealand) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-fsx-asia-pacific-new-zealand/",
+      "pubDate": "2026-10-14T08:00:00",
+      "description": "<p>AWS Backup now supports Amazon FSx for Lustre, Amazon FSx for NetApp ONTAP, Amazon FSx for OpenZFS, and Amazon FSx for Windows File Server in the A...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon RDS Proxy now supports SQL Server 2022",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/rds-proxy-supports-sqlserver-2022",
+      "pubDate": "2026-10-14T07:00:00",
+      "description": "<p><a href=\"https://aws.amazon.com/rds/proxy/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon RDS Proxy</a>, a fully managed, highly available datab...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-s3-vercel-marketplace-v0",
+      "pubDate": "2026-10-14T04:00:00",
+      "description": "<p>Amazon S3, including S3 Tables and S3 Vectors, is now available on the Vercel Marketplace and v0 by Vercel. Developers can create and connect S3 re...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Security Hub now supports resource criticality for prioritization",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-resource-criticality/",
       "pubDate": "2026-10-14T01:00:00",
@@ -26,6 +74,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "AWS Lambda durable functions increases durable operation and checkpoint payload limits",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-gen-limit-increase/",
+      "pubDate": "2026-10-13T22:00:00",
+      "description": "<p>Starting today, AWS Lambda durable functions increases the maximum number of durable operations per execution from 3,000 to 30,000, and the maximum...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Agent Registry now supports custom metadata for registry records",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-agent-registry-custom-metadata-registry-records",
       "pubDate": "2026-10-13T21:00:00",
@@ -34,60 +90,20 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon DCV releases version 2026.0 with RHEL 10 support and new clients",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-dcv-2026-0/",
-      "pubDate": "2026-10-13T19:35:00",
-      "description": "<p>Amazon DCV 2026.0 is now available, adding support for RHEL 10, Rocky Linux 10, CentOS 10, and Ubuntu 26.04 along with a new macOS client and updat...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "AI Security Threats: Real or Movie Plot?",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/14/ai-threats-real-or-movie-plot/",
+      "pubDate": "2026-10-14T21:12:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/cybersecurity-awar...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
-      "title": "AWS Deadline Cloud now helps users find their accessible resources in the Deadline Cloud monitor",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/deadline-cloud/resources",
-      "pubDate": "2026-10-13T18:54:00",
-      "description": "<p>AWS Deadline Cloud now lets users who have access to specific queues, fleets, or jobs, rather than an entire farm, find the resources they can reac...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Location Service launches an interactive API Playground featuring Places, Routes and Maps APIs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-location-service-api-playground",
-      "pubDate": "2026-10-13T18:46:00",
-      "description": "<p>Amazon Location Service now offers a complete, interactive API Playground that lets developers explore and test every Places, Routes, and Maps API ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Bring deep SageMaker AI expertise to your coding agent with the AWS AI/ML skill in the Agent Toolkit for AWS",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bring-sagemaker-ai-expertise-to-your-coding-agent/",
-      "pubDate": "2026-10-13T14:00:00",
-      "description": "<p>Your coding agent can select, train, optimize and deploy models on Amazon SageMaker AI while working across the rest of your AWS environment in a s...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS DataSync Enhanced mode now supports FSx for OpenZFS, NFS 4.2, and object metadata controls",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/datasync-enhanced-openzfs-nfs42-metadata/",
-      "pubDate": "2026-10-13T08:00:00",
-      "description": "<p>AWS DataSync Enhanced mode now supports Amazon FSx for OpenZFS as a source or destination location, NFS version 4.2 for on-premises NFS servers and...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Route 53 now supports registrations, transfers, and renewals for Premium Domains",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/route-53-premium-domains/",
-      "pubDate": "2026-10-13T08:00:00",
-      "description": "<p>Amazon Route 53 Domains now supports Premium Domain Names. Customers can now search for, register, transfer, renew, and restore registry premium na...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon RDS now supports the latest CU for Microsoft SQL Server",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-supports-latest-cu-microsoft-sql-server/",
-      "pubDate": "2026-10-13T07:30:00",
-      "description": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server </a>now supports the...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Managing Certificates at Scale with VMware Cloud Foundation 9.1.1",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/14/managing-certificates-at-scale-with-vmware-cloud-foundation-9-1-1/",
+      "pubDate": "2026-10-14T15:30:23",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/image.jpg?w=300\" w...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Threat hunting and Cross-Component Forensics with VCF Audit Trail",
@@ -150,22 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/10/09/certificates-trust-network-encryption/",
       "pubDate": "2026-10-09T19:33:40",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/cybersecurity-awar...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Beyond the Kubernetes complexity: Delivering an AI-Ready Platform Developers Love (Over Lunch)",
-      "link": "https://blogs.vmware.com/tanzu/beyond-the-kubernetes-complexity-delivering-an-ai-ready-platform-developers-love-over-lunch/",
-      "pubDate": "2026-10-09T15:46:00",
-      "description": "<p>Developers want to push code and watch the platform take care of the rest\u2014packaging images, configuring variables, and deploying to a secure, highl...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Creating a FinOps Dashboard in VMware Cloud Foundation",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/09/creating-a-finops-dashboard-in-vmware-cloud-foundation/",
-      "pubDate": "2026-10-09T13:26:48",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"243\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Final_dashboard-e1...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
