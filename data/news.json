@@ -10,6 +10,14 @@
   ],
   "articles": [
     {
+      "title": "AWS Security Hub CSPM now supports the Cyber Risk Institute profile version 2.2",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-cspm-cri-profile-v22/",
+      "pubDate": "2026-10-15T08:00:00",
+      "description": "<p><a href=\"https://aws.amazon.com/security-hub/\">AWS Security Hub CSPM</a> now supports automated security checks that align with the Cyber Risk Inst...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon CloudWatch announces log routing and chained log parsers",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudwatch-pipelines-log-routing/",
       "pubDate": "2026-10-14T22:14:00",
@@ -78,14 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-secrets-host-keys/",
       "pubDate": "2026-10-14T08:00:00",
       "description": "<p>AWS Transfer Family now lets you store SFTP server host keys in AWS Secrets Manager in your own AWS account. This gives you greater control over yo...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon RDS Proxy now supports SQL Server 2022",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/rds-proxy-supports-sqlserver-2022",
-      "pubDate": "2026-10-14T07:00:00",
-      "description": "<p><a href=\"https://aws.amazon.com/rds/proxy/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon RDS Proxy</a>, a fully managed, highly available datab...",
       "category": "AWS",
       "source": "AWS What's New"
     },
