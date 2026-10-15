@@ -10,84 +10,92 @@
   ],
   "articles": [
     {
-      "title": "AWS Security Hub CSPM now supports the Cyber Risk Institute profile version 2.2",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-cspm-cri-profile-v22/",
-      "pubDate": "2026-10-15T08:00:00",
-      "description": "<p><a href=\"https://aws.amazon.com/security-hub/\">AWS Security Hub CSPM</a> now supports automated security checks that align with the Cyber Risk Inst...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon CloudWatch announces log routing and chained log parsers",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudwatch-pipelines-log-routing/",
-      "pubDate": "2026-10-14T22:14:00",
-      "description": "<p>Amazon CloudWatch now supports conditional log routing and chained parsers via pipelines, giving you more control over how log data is transformed ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with social sign-in",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-social-sign-in/",
-      "pubDate": "2026-10-14T22:00:00",
+      "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with new sign-in options",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-new-sign-in-options/",
+      "pubDate": "2026-10-15T20:10:00",
       "description": "<p>Amazon SageMaker Studio now lets new customers sign up with their Google, GitHub, or Apple credentials and land inside a fully configured Studio en...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "ARC Region switch adds four new capabilities",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/region-switch-target-health-ssm-lambda/",
-      "pubDate": "2026-10-14T17:38:00",
-      "description": "<p>Amazon Application Recovery Controller (ARC) Region switch helps you orchestrate the failover of multi-Region applications to achieve a bounded rec...",
+      "title": "Amazon EC2 T8i instances are now available in South America (S\u00e3o Paulo)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-t8i-instances-south-america/",
+      "pubDate": "2026-10-15T20:00:00",
+      "description": "<p>Amazon Elastic Compute Cloud (Amazon EC2) T8i instances are now available in South America (S\u00e3o Paulo). These instances are powered by custom sixth...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "AWS License Manager now supports license type conversions for Ubuntu Pro purchased through AWS Marketplace",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-license-manager-conversions-ubuntu-pro-marketplace/",
-      "pubDate": "2026-10-14T17:04:00",
-      "description": "<p><a href=\"https://aws.amazon.com/license-manager/\">AWS License Manager&nbsp;</a> now supports in-place upgrades for EC2 Ubuntu LTS (Long Term Suppor...",
+      "title": "Amazon DynamoDB Streams now supports timestamp-based stream processing",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-dynamodb-streams-timestamp-processing",
+      "pubDate": "2026-10-15T18:30:00",
+      "description": "<p>Amazon DynamoDB Streams now supports timestamp-based stream processing, enabling you to begin reading stream records from a specific point in time....",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "AWS HealthOmics introduces resource fallback order for Nextflow workflows",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-healthomics-resource-fallback-for-Nextflow/",
-      "pubDate": "2026-10-14T16:00:00",
-      "description": "<p>Today, AWS HealthOmics introduces the resource fallback directive for tasks in your Nextflow workflows, enabling you to define an ordered list of p...",
+      "title": "AWS Lambda Durable Execution SDK for Go is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-go-sdk-support/",
+      "pubDate": "2026-10-15T18:23:00",
+      "description": "<p>Today, AWS announces the general availability of the AWS Lambda Durable Execution SDK for Go, enabling Go developers to build resilient, long-runni...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Backup now supports Amazon FSx file systems in the Asia Pacific (New Zealand) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-fsx-asia-pacific-new-zealand/",
-      "pubDate": "2026-10-14T08:00:00",
-      "description": "<p>AWS Backup now supports Amazon FSx for Lustre, Amazon FSx for NetApp ONTAP, Amazon FSx for OpenZFS, and Amazon FSx for Windows File Server in the A...",
+      "title": "Muse Spark Open model now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/muse-spark-open-on-sagemaker-jumpstart/",
+      "pubDate": "2026-10-15T18:00:00",
+      "description": "<p>Meta's Muse Spark Open is now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. Thi...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Announcing Blockchain Snapshots on AWS for node bootstrapping",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/blockchain-snapshots-node-bootstrapping/",
-      "pubDate": "2026-10-14T08:00:00",
-      "description": "<p>For blockchain node operators running Ethereum or Solana, AWS is announcing Blockchain Snapshots on AWS, an initiative that publishes pre-synced pu...",
+      "title": "AWS HealthOmics now supports shared VPCs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/omics-workflows-shared-vpcs/",
+      "pubDate": "2026-10-15T17:42:00",
+      "description": "<p>AWS HealthOmics now supports sharing VPCs across accounts, enabling your workflows to access resources in Amazon Virtual Private Clouds (VPCs) mana...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Transfer Family console supports SVG logos and ICO favicons for web apps",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-svg-ico-favicons/",
-      "pubDate": "2026-10-14T08:00:00",
-      "description": "<p>The AWS Transfer Family console now supports SVG files for logos and ICO files for favicons in web apps, with upload limits increased to 2 MB. This...",
+      "title": "Amazon Time Sync Service adds support for microsecond-accurate time on 135 additional EC2 instance types in all commercial regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/time-sync-additional-instances-all-regions",
+      "pubDate": "2026-10-15T17:34:00",
+      "description": "<p>Amazon Time Sync Service introduces support for microsecond-accurate time on 135 additional EC2 instance types\u2014spanning 12 instance families\u2014in all...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Transfer Family now supports AWS Secrets Manager storage for SFTP server host keys",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-secrets-host-keys/",
-      "pubDate": "2026-10-14T08:00:00",
-      "description": "<p>AWS Transfer Family now lets you store SFTP server host keys in AWS Secrets Manager in your own AWS account. This gives you greater control over yo...",
+      "title": "AWS Transform for full-stack Windows modernization now supports Aurora PostgreSQL cross-region deployment in 7 more Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-full-stack-aurora-cross-region",
+      "pubDate": "2026-10-15T17:00:00",
+      "description": "<p>Today, AWS Transform for full-stack Windows modernization adds support for cross-region deployment of converted Amazon Aurora PostgreSQL databases ...",
       "category": "AWS",
       "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon MSK Connect and AWS Glue Schema Registry are now available in the AWS European Sovereign Cloud (Germany) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-aws-gsr-additional-aws-regions",
+      "pubDate": "2026-10-15T16:40:00",
+      "description": "<p>Starting today, <a href=\"https://aws.amazon.com/msk/features/msk-connect/\">Amazon MSK Connect</a> and the <a href=\"https://docs.aws.amazon.com/glue...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "PostgreSQL 19 RC1 is now available in Amazon RDS Database Preview Environment",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/postgresql-19-rc1-amazon-rds-database-preview-environment/",
+      "pubDate": "2026-10-15T16:00:00",
+      "description": "<p>Starting today, <a href=\"https://aws.amazon.com/rds/postgresql/\" target=\"_blank\">Amazon RDS for PostgreSQL</a> 19 Release Candidate 1 (RC1) is avai...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "VCF Breakroom Chats Episode 95:\u00a0Securing VMware vSphere Kubernetes Service with Nirmata and Kyverno",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/15/vcf-breakroom-chats-episode-95-securing-vmware-vsphere-kubernetes-service-with-nirmata-and-kyverno/",
+      "pubDate": "2026-10-15T17:27:19",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/06/VCF-Breakroom-Chat...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Optimizing AI Deployments with VMware Cloud Foundation (Part 4)",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/10/12/patch-easier-then-faster/",
       "pubDate": "2026-10-12T20:43:47",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/cybersecurity-awar...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "AI, Kubernetes, and Cloud Native Innovations: Broadcom at KubeCon North America 2026",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/12/ai-kubernetes-and-cloud-native-innovations-broadcom-at-kubecon-north-america-2026/",
-      "pubDate": "2026-10-12T13:00:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"161\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/KubeCon-Blog-Pic.p...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
