@@ -10,18 +10,34 @@
   ],
   "articles": [
     {
-      "title": "AWS License Manager now supports license type conversions for Ubuntu Pro purchased through AWS Marketplace",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-license-manager-conversions-ubuntu-pro-marketplace/",
-      "pubDate": "2026-10-14T17:04:00",
-      "description": "<p><a href=\"https://aws.amazon.com/license-manager/\">AWS License Manager&nbsp;</a> now supports in-place upgrades for EC2 Ubuntu LTS (Long Term Suppor...",
+      "title": "Amazon CloudWatch announces log routing and chained log parsers",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudwatch-pipelines-log-routing/",
+      "pubDate": "2026-10-14T22:14:00",
+      "description": "<p>Amazon CloudWatch now supports conditional log routing and chained parsers via pipelines, giving you more control over how log data is transformed ...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
       "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with social sign-in",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-social-sign-in/",
-      "pubDate": "2026-10-14T17:00:00",
+      "pubDate": "2026-10-14T22:00:00",
       "description": "<p>Amazon SageMaker Studio now lets new customers sign up with their Google, GitHub, or Apple credentials and land inside a fully configured Studio en...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "ARC Region switch adds four new capabilities",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/region-switch-target-health-ssm-lambda/",
+      "pubDate": "2026-10-14T17:38:00",
+      "description": "<p>Amazon Application Recovery Controller (ARC) Region switch helps you orchestrate the failover of multi-Region applications to achieve a bounded rec...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS License Manager now supports license type conversions for Ubuntu Pro purchased through AWS Marketplace",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-license-manager-conversions-ubuntu-pro-marketplace/",
+      "pubDate": "2026-10-14T17:04:00",
+      "description": "<p><a href=\"https://aws.amazon.com/license-manager/\">AWS License Manager&nbsp;</a> now supports in-place upgrades for EC2 Ubuntu LTS (Long Term Suppor...",
       "category": "AWS",
       "source": "AWS What's New"
     },
@@ -42,6 +58,30 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Announcing Blockchain Snapshots on AWS for node bootstrapping",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/blockchain-snapshots-node-bootstrapping/",
+      "pubDate": "2026-10-14T08:00:00",
+      "description": "<p>For blockchain node operators running Ethereum or Solana, AWS is announcing Blockchain Snapshots on AWS, an initiative that publishes pre-synced pu...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Transfer Family console supports SVG logos and ICO favicons for web apps",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-svg-ico-favicons/",
+      "pubDate": "2026-10-14T08:00:00",
+      "description": "<p>The AWS Transfer Family console now supports SVG files for logos and ICO files for favicons in web apps, with upload limits increased to 2 MB. This...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Transfer Family now supports AWS Secrets Manager storage for SFTP server host keys",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-secrets-host-keys/",
+      "pubDate": "2026-10-14T08:00:00",
+      "description": "<p>AWS Transfer Family now lets you store SFTP server host keys in AWS Secrets Manager in your own AWS account. This gives you greater control over yo...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon RDS Proxy now supports SQL Server 2022",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/rds-proxy-supports-sqlserver-2022",
       "pubDate": "2026-10-14T07:00:00",
@@ -50,44 +90,20 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-s3-vercel-marketplace-v0",
-      "pubDate": "2026-10-14T04:00:00",
-      "description": "<p>Amazon S3, including S3 Tables and S3 Vectors, is now available on the Vercel Marketplace and v0 by Vercel. Developers can create and connect S3 re...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Optimizing AI Deployments with VMware Cloud Foundation (Part 4)",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/14/optimizing-ai-deployments-with-vmware-cloud-foundation-part-4/",
+      "pubDate": "2026-10-14T21:53:33",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Blog4-FeaturedImag...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
-      "title": "AWS Security Hub now supports resource criticality for prioritization",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-resource-criticality/",
-      "pubDate": "2026-10-14T01:00:00",
-      "description": "<p>Today, AWS Security Hub adds resource criticality to exposure prioritization, helping central security teams focus on the exposures that threaten t...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon ECS adds LiveTaskCount and removes the charge for RunningTaskCount metric",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-service-metrics/",
-      "pubDate": "2026-10-13T22:00:00",
-      "description": "<p>Today, Amazon Elastic Container Service (Amazon ECS) announces LiveTaskCount, a new ECS service metric that reports how many tasks are actively run...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Lambda durable functions increases durable operation and checkpoint payload limits",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-gen-limit-increase/",
-      "pubDate": "2026-10-13T22:00:00",
-      "description": "<p>Starting today, AWS Lambda durable functions increases the maximum number of durable operations per execution from 3,000 to 30,000, and the maximum...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Agent Registry now supports custom metadata for registry records",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-agent-registry-custom-metadata-registry-records",
-      "pubDate": "2026-10-13T21:00:00",
-      "description": "<p>AWS Agent Registry is the centralized, governed catalog for agents, MCP servers, agent skills, gateways, and custom resources within your organizat...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Show Me the Money: Cost Management and Chargeback in VMware Cloud Foundation",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/14/show-me-the-money-cost-management-and-chargeback-in-vmware-cloud-foundation/",
+      "pubDate": "2026-10-14T21:37:43",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"169\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/word-image-35210-1...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "AI Security Threats: Real or Movie Plot?",
@@ -150,22 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/10/12/ai-kubernetes-and-cloud-native-innovations-broadcom-at-kubecon-north-america-2026/",
       "pubDate": "2026-10-12T13:00:00",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"161\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/KubeCon-Blog-Pic.p...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "CRITICAL ADVISORY: Pre-Upgrade Verification Required for vSphere Supervisor and VKS Environments Upgrading to vCenter 9.1.0 or 9.1.1",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/09/critical-advisory-pre-upgrade-verification-required-for-vsphere-supervisor-and-vks-environments-upgrading-to-vcenter-9-1-0-or-9-1-1/",
-      "pubDate": "2026-10-09T23:11:43",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"201\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/criticaladvisory.j...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Certificates, Trust, and Network Encryption",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/09/certificates-trust-network-encryption/",
-      "pubDate": "2026-10-09T19:33:40",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/cybersecurity-awar...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
