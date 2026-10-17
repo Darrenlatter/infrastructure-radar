@@ -10,6 +10,14 @@
   ],
   "articles": [
     {
+      "title": "Amazon CloudWatch log centralization now available in AWS GovCloud and additional commercial Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-centralization-region-expansion",
+      "pubDate": "2026-10-16T20:04:00",
+      "description": "<p>Amazon CloudWatch log centralization is now available in AWS GovCloud (US) and 13 additional commercial Regions. CloudWatch log centralization copi...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Lambda durable functions are now available in AWS GovCloud (US) Regions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/durablefunctions-govcloud/",
       "pubDate": "2026-10-16T18:26:00",
@@ -82,12 +90,12 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Web Search on Amazon Bedrock AgentCore expands to AWS GovCloud and 3 Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore/",
-      "pubDate": "2026-10-15T20:40:00",
-      "description": "<p>Web Search on Amazon Bedrock AgentCore is now available in four additional AWS Regions: US East (Ohio), US West (Oregon), Asia Pacific (Sydney), an...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Snapshots Are Your Best Friend",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/16/snapshots-are-your-best-friend/",
+      "pubDate": "2026-10-16T22:58:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"151\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/image_6c7a6a.png?w...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "What It Actually Takes to Run AI at Production Scale",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/10/13/threat-hunting-and-cross-component-forensics-with-vcf-audit-trail/",
       "pubDate": "2026-10-14T03:05:50",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"184\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Screenshot-2026-10...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Anatomy of an AI",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/13/ai-security-anatomy/",
-      "pubDate": "2026-10-13T21:06:43",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/cybersecurity-awar...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
