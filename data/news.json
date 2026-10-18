@@ -50,6 +50,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Amazon Braket now in scope for FedRAMP Class C",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/braket-fedramp-class-c/",
+      "pubDate": "2026-10-16T08:00:00",
+      "description": "<p>Amazon Braket is now in scope for FedRAMP Class C in AWS US Regions where Braket is available. The Federal Risk and Authorization Management Progra...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Second-generation AWS Outposts racks now supported in the AWS Mexico (Central) Region",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-outposts-racks-mexico-central/",
       "pubDate": "2026-10-16T08:00:00",
@@ -70,14 +78,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-end-user-messaging-now-supports-brand-profiles",
       "pubDate": "2026-10-16T07:00:00",
       "description": "<p>Today, AWS End User Messaging announces Brand Profiles, which let you store your brand and company information once and reuse it across your messag...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS End User Messaging now offers managed OTP verification end-to-end",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-end-user-messaging-adds-end-to-end-managed-OTP",
-      "pubDate": "2026-10-16T07:00:00",
-      "description": "<p>Today, AWS End User Messaging announces end-to-end managed one-time passcode (OTP) verification in Notify. You get a working OTP solution in under ...",
       "category": "AWS",
       "source": "AWS What's New"
     },
