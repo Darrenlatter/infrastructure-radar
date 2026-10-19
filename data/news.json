@@ -10,6 +10,78 @@
   ],
   "articles": [
     {
+      "title": "Amazon Connect Customer Global Resiliency now provides business users visibility into resiliency readiness across linked Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-readiness-overview",
+      "pubDate": "2026-10-19T21:45:00",
+      "description": "<p>Amazon Connect Customer Global Resiliency now provides a Global Resiliency page in the admin website, giving administrators a single place to revie...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon CloudWatch Omni is now available in additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-omni-8-regions/",
+      "pubDate": "2026-10-19T19:10:00",
+      "description": "<p>AWS announces that Amazon CloudWatch Omni is now available in eight additional AWS Regions. CloudWatch Omni is an AI-powered observability experien...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "EC2 Image Builder now integrates with ASG for faster image builds",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-image-builder-asg-faster-builds/",
+      "pubDate": "2026-10-19T17:30:00",
+      "description": "<p>EC2 Image Builder now supports using existing instances from an Auto Scaling Group (ASG) for building images, enabling faster builds by eliminating...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon GuardDuty adds optional threat detection rules for Runtime Monitoring",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-runtime-optional-detection-rules/",
+      "pubDate": "2026-10-19T16:01:00",
+      "description": "<p>Amazon GuardDuty now supports optional detection rules for Runtime Monitoring. You can enable more than 50 Runtime Monitoring rules that help detec...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Grok 4.7 is now available on Amazon Bedrock in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-grok-4-7-govcloud/",
+      "pubDate": "2026-10-19T13:00:00",
+      "description": "<p>Amazon Bedrock now supports SpaceXAI Grok 4.7, a frontier model built for coding, agentic tasks, and knowledge work in AWS GovCloud (US).</p>\n<p>Gr...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS IAM Identity Center now supports optimistic locking for users and groups in its identity store",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-store-optimistic-locking/",
+      "pubDate": "2026-10-19T08:00:00",
+      "description": "<p>IAM Identity Center helps you configure the single sign-on experience of your workforce to AWS accounts and applications. You can now use optimisti...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon RDS Custom now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-custom-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
+      "pubDate": "2026-10-19T07:30:00",
+      "description": "<p><a href=\"https://aws.amazon.com/rds/custom/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) Custom for SQL Server</a> now supports...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon RDS for SQL Server now supports snapshots on read replicas",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/rds-sqlserver-supports-snapshots-on-read-replicas",
+      "pubDate": "2026-10-19T07:01:00",
+      "description": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL S...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Partner Central adds Solution Matching Engine performance insights",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/solution-matching-engine-performance",
+      "pubDate": "2026-10-17T03:00:00",
+      "description": "<p>AWS Partner Central now gives AWS Partners more visibility into how the Solution Matching Engine (SME) contributes to their co-sell pipeline. The S...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon CloudWatch log centralization now available in AWS GovCloud and additional commercial Regions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-centralization-region-expansion",
       "pubDate": "2026-10-16T20:04:00",
@@ -18,76 +90,12 @@
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Lambda durable functions are now available in AWS GovCloud (US) Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/durablefunctions-govcloud/",
-      "pubDate": "2026-10-16T18:26:00",
-      "description": "<p>AWS Lambda durable functions are now available in the AWS GovCloud (US-West) and AWS GovCloud (US-East) Regions. Lambda durable functions enable de...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Nemotron 3.5 Super VL model now available on Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/nvidia-nemotron-3.5-super-vl-on-sagemaker-jumpstart/",
-      "pubDate": "2026-10-16T17:59:00",
-      "description": "<p>NVIDIA's Nemotron 3.5 Super VL is now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS custom...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Beam model by Reflection is now available on Amazon SageMaker JumpStart and AWS Trainium",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium/",
-      "pubDate": "2026-10-16T16:00:00",
-      "description": "<p>Beam, the first open weight model offered by US-based Reflection, is now available in Amazon SageMaker JumpStart, the model hub in Amazon SageMaker...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Transform announces Azure-to-AWS cloud-native code conversion",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-azure-to-aws-code-conversion/",
-      "pubDate": "2026-10-16T13:50:00",
-      "description": "<p>Today, AWS announced the general availability of application code conversion from Azure SDK to AWS SDK in AWS Transform, giving you an accelerated ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Braket now in scope for FedRAMP Class C",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/braket-fedramp-class-c/",
-      "pubDate": "2026-10-16T08:00:00",
-      "description": "<p>Amazon Braket is now in scope for FedRAMP Class C in AWS US Regions where Braket is available. The Federal Risk and Authorization Management Progra...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Second-generation AWS Outposts racks now supported in the AWS Mexico (Central) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-outposts-racks-mexico-central/",
-      "pubDate": "2026-10-16T08:00:00",
-      "description": "<p>Second-generation AWS Outposts racks are now supported in the AWS Mexico (Central) Region. Outposts racks extend AWS infrastructure, AWS services, ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS End User Messaging adds registration improvements for faster, higher-quality submissions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-end-user-messaging-adds-registration-improvements-for-faster-higher-quality-submissions",
-      "pubDate": "2026-10-16T07:00:00",
-      "description": "<p>AWS End User Messaging now makes it easier to complete messaging registrations correctly the first time, with clearer guidance, explicit field requ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS End User Messaging now supports Brand Profiles",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-end-user-messaging-now-supports-brand-profiles",
-      "pubDate": "2026-10-16T07:00:00",
-      "description": "<p>Today, AWS End User Messaging announces Brand Profiles, which let you store your brand and company information once and reuse it across your messag...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS End User Messaging adds a guided wizard for RCS registration videos",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-end-user-messaging-adds-guided-wizard-rcs-registration-videos",
-      "pubDate": "2026-10-16T07:00:00",
-      "description": "<p>Today, AWS End User Messaging adds a wizard that orchestrates the entire video capture for your RCS agent registration. RCS registrations in multip...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "AI vs. the Fortress: Can Autonomous Agents Breach VMware Security?",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/19/ai-vs-vmware-security/",
+      "pubDate": "2026-10-19T14:16:23",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"138\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/193821142_l.jpg?w=...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Snapshots Are Your Best Friend",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/10/14/managing-certificates-at-scale-with-vmware-cloud-foundation-9-1-1/",
       "pubDate": "2026-10-14T15:30:23",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/image.jpg?w=300\" w...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Threat hunting and Cross-Component Forensics with VCF Audit Trail",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/13/threat-hunting-and-cross-component-forensics-with-vcf-audit-trail/",
-      "pubDate": "2026-10-14T03:05:50",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"184\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Screenshot-2026-10...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
