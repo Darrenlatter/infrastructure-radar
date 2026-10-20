@@ -10,6 +10,14 @@
   ],
   "articles": [
     {
+      "title": "Polly Generative engine upgraded with more natural speech, 14 new voices, and 2 new languages",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/polly-generative/",
+      "pubDate": "2026-10-20T15:32:00",
+      "description": "<p>Today, we are introducing a new model behind the Amazon Polly Generative engine that delivers more natural-sounding, accurate speech output with lo...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon Connect Customer Global Resiliency now provides business users visibility into resiliency readiness across linked Regions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-readiness-overview",
       "pubDate": "2026-10-19T21:45:00",
@@ -82,12 +90,20 @@
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Partner Central adds Solution Matching Engine performance insights",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/solution-matching-engine-performance",
-      "pubDate": "2026-10-17T03:00:00",
-      "description": "<p>AWS Partner Central now gives AWS Partners more visibility into how the Solution Matching Engine (SME) contributes to their co-sell pipeline. The S...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Architecting Data Services for Microsoft SQL Server on VMware Cloud Foundation: A Best Practices Guide",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/20/architecting-data-services-for-microsoft-sql-server-on-vmware-cloud-foundation-a-best-practices-guide/",
+      "pubDate": "2026-10-20T15:23:52",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"159\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/MS-sql-best-practi...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "A Smarter, More Transparent Way to Forecast Capacity in VMware Cloud Foundation 9.1.1",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/20/a-smarter-more-transparent-way-to-forecast-capacity-in-vcf/",
+      "pubDate": "2026-10-20T13:42:48",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"143\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/word-image-35324-1...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "AI vs. the Fortress: Can Autonomous Agents Breach VMware Security?",
@@ -150,22 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/10/14/show-me-the-money-cost-management-and-chargeback-in-vmware-cloud-foundation/",
       "pubDate": "2026-10-14T21:37:43",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"169\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/word-image-35210-1...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "AI Security Threats: Real or Movie Plot?",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/14/ai-threats-real-or-movie-plot/",
-      "pubDate": "2026-10-14T21:12:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/cybersecurity-awar...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Managing Certificates at Scale with VMware Cloud Foundation 9.1.1",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/14/managing-certificates-at-scale-with-vmware-cloud-foundation-9-1-1/",
-      "pubDate": "2026-10-14T15:30:23",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/image.jpg?w=300\" w...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
