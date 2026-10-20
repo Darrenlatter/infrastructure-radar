@@ -18,6 +18,54 @@
       "source": "AWS What's New"
     },
     {
+      "title": "AWS announces TorchNeuron: Native PyTorch Support for AWS Trainium (Public Beta)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-native-pytorch-support-trainium",
+      "pubDate": "2026-10-20T15:00:00",
+      "description": "<p>Today, AWS launched the public beta of TorchNeuron, an open source native PyTorch backend for AWS Trainium. Trainium is a portfolio of AI chips des...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Structured outputs for Claude models available on Amazon Bedrock",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-structured-outputs-bedrock/",
+      "pubDate": "2026-10-20T14:00:00",
+      "description": "<p>Amazon Bedrock now supports structured outputs for all Anthropic Claude models across both the bedrock-runtime and the bedrock-mantle endpoint. Whe...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Clean Rooms now supports Databricks as a data source",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-clean-rooms-supports-databricks",
+      "pubDate": "2026-10-20T12:23:00",
+      "description": "<p>AWS Clean Rooms now supports <a href=\"https://docs.aws.amazon.com/clean-rooms/latest/userguide/prepare-data-databricks.html\" target=\"_blank\">Databr...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS IAM Identity Center simplifies identity source changes from Active Directory",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-center-chg-id-src-from-ad/",
+      "pubDate": "2026-10-20T08:00:00",
+      "description": "<p>AWS IAM Identity Center now retains your workforce identities and their assignments when you change your identity source from Active Directory to a...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Partner Central launches Program Navigator, Case Study Generator, and streamlined specialization review",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/partner-central-program-navigator/",
+      "pubDate": "2026-10-20T08:00:00",
+      "description": "<p>AWS Partner Central now features Program Navigator, a unified experience that lets partners discover, apply for, and track AWS Specialization progr...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Transform for migrations expands support for existing landing zones",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-migrations-landing-zones/",
+      "pubDate": "2026-10-20T08:00:00",
+      "description": "<p>AWS Transform now supports more types of existing AWS environments when building landing zones for your migration, including AWS Control Tower land...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon Connect Customer Global Resiliency now provides business users visibility into resiliency readiness across linked Regions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-readiness-overview",
       "pubDate": "2026-10-19T21:45:00",
@@ -42,52 +90,52 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon GuardDuty adds optional threat detection rules for Runtime Monitoring",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-runtime-optional-detection-rules/",
-      "pubDate": "2026-10-19T16:01:00",
-      "description": "<p>Amazon GuardDuty now supports optional detection rules for Runtime Monitoring. You can enable more than 50 Runtime Monitoring rules that help detec...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Tenant Connectivity on VCF 9.1: Choosing a Design and Running It in Production (Part 6)",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/20/tenant-connectivity-on-vcf-9-1-choosing-a-design-and-running-it-in-production-part-6/",
+      "pubDate": "2026-10-20T17:25:07",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/ctgw-p6-cover.png?...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
-      "title": "Grok 4.7 is now available on Amazon Bedrock in AWS GovCloud (US)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-grok-4-7-govcloud/",
-      "pubDate": "2026-10-19T13:00:00",
-      "description": "<p>Amazon Bedrock now supports SpaceXAI Grok 4.7, a frontier model built for coding, agentic tasks, and knowledge work in AWS GovCloud (US).</p>\n<p>Gr...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Tenant Connectivity on VCF 9.1: Serving the Data Center, Shared Services and the Internet from One Gateway (Part 5)",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/20/tenant-connectivity-on-vcf-9-1-serving-the-data-center-shared-services-and-the-internet-from-one-gateway-part-5/",
+      "pubDate": "2026-10-20T17:24:32",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/ctgw-p5-cover.png?...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
-      "title": "AWS IAM Identity Center now supports optimistic locking for users and groups in its identity store",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-store-optimistic-locking/",
-      "pubDate": "2026-10-19T08:00:00",
-      "description": "<p>IAM Identity Center helps you configure the single sign-on experience of your workforce to AWS accounts and applications. You can now use optimisti...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Tenant Connectivity on VCF 9.1: When the Enterprise Must See Real Workload Addresses (Part 4)",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/20/tenant-connectivity-on-vcf-9-1-when-the-enterprise-must-see-real-workload-addresses-part-4/",
+      "pubDate": "2026-10-20T17:23:27",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/ctgw-p4-cover.png?...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
-      "title": "AWS Elemental MediaConnect Router now supports high bitrate mode",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mediaconnect-router-high-bitrate/",
-      "pubDate": "2026-10-19T08:00:00",
-      "description": "<p>AWS Elemental MediaConnect Router now supports high bitrate modes with two new tiers: 250 Mbps and 500 Mbps. This allows professional broadcasters ...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Tenant Connectivity on VCF 9.1: When Only Provider Addresses Are Allowed (Part 3)",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/20/tenant-connectivity-on-vcf-9-1-when-only-provider-addresses-are-allowed-part-3/",
+      "pubDate": "2026-10-20T17:22:42",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/ctgw-p3-cover.png?...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
-      "title": "Amazon RDS Custom now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-custom-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
-      "pubDate": "2026-10-19T07:30:00",
-      "description": "<p><a href=\"https://aws.amazon.com/rds/custom/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) Custom for SQL Server</a> now supports...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Tenant Connectivity on VCF 9.1: What Decides a Packet\u2019s Source Address (Part 2)",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/20/tenant-connectivity-on-vcf-9-1-what-decides-a-packets-source-address-part-2/",
+      "pubDate": "2026-10-20T17:21:48",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/ctgw-p2-cover.png?...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
-      "title": "Amazon RDS for SQL Server now supports snapshots on read replicas",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/rds-sqlserver-supports-snapshots-on-read-replicas",
-      "pubDate": "2026-10-19T07:01:00",
-      "description": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL S...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Tenant Connectivity on VCF 9.1: A Standard Network Design for Cloud Providers (Part 1)",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/20/tenant-connectivity-on-vcf-9-1-a-standard-network-design-for-cloud-providers-part-1/",
+      "pubDate": "2026-10-20T17:19:48",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/ctgw-p1-cover.png?...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Architecting Data Services for Microsoft SQL Server on VMware Cloud Foundation: A Best Practices Guide",
@@ -118,54 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/10/16/snapshots-are-your-best-friend/",
       "pubDate": "2026-10-16T22:58:00",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"151\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/image_6c7a6a.png?w...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "What It Actually Takes to Run AI at Production Scale",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/16/what-it-actually-takes-to-run-ai-at-production-scale/",
-      "pubDate": "2026-10-16T17:55:46",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"171\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Getty-2169994280.j...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Why vSAN ESA Only Supports NVMe Solid State Storage Devices",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/16/why-vsan-esa-only-supports-nvme-solid-state-storage-devices/",
-      "pubDate": "2026-10-16T15:45:51",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/vSANESA-NVMe-FI.pn...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Securing AI Workloads",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/15/securing-ai-workloads/",
-      "pubDate": "2026-10-15T19:10:16",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/cybersecurity-awar...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "VCF Breakroom Chats Episode 95:\u00a0Securing VMware vSphere Kubernetes Service with Nirmata and Kyverno",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/15/vcf-breakroom-chats-episode-95-securing-vmware-vsphere-kubernetes-service-with-nirmata-and-kyverno/",
-      "pubDate": "2026-10-15T17:27:19",
-      "description": "<p>Welcome to the next episode of the VCF Breakroom Chats. I recently had a great time having a chat with Nirmata Co-founder and VP of Products, Rites...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Optimizing AI Deployments with VMware Cloud Foundation (Part 4)",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/14/optimizing-ai-deployments-with-vmware-cloud-foundation-part-4/",
-      "pubDate": "2026-10-14T21:53:33",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Blog4-FeaturedImag...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Show Me the Money: Cost Management and Chargeback in VMware Cloud Foundation",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/14/show-me-the-money-cost-management-and-chargeback-in-vmware-cloud-foundation/",
-      "pubDate": "2026-10-14T21:37:43",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"169\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/word-image-35210-1...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
