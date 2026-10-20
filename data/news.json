@@ -58,6 +58,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "AWS Elemental MediaConnect Router now supports high bitrate mode",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mediaconnect-router-high-bitrate/",
+      "pubDate": "2026-10-19T08:00:00",
+      "description": "<p>AWS Elemental MediaConnect Router now supports high bitrate modes with two new tiers: 250 Mbps and 500 Mbps. This allows professional broadcasters ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon RDS Custom now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-custom-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
       "pubDate": "2026-10-19T07:30:00",
@@ -78,14 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/solution-matching-engine-performance",
       "pubDate": "2026-10-17T03:00:00",
       "description": "<p>AWS Partner Central now gives AWS Partners more visibility into how the Solution Matching Engine (SME) contributes to their co-sell pipeline. The S...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon CloudWatch log centralization now available in AWS GovCloud and additional commercial Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-centralization-region-expansion",
-      "pubDate": "2026-10-16T20:04:00",
-      "description": "<p>Amazon CloudWatch log centralization is now available in AWS GovCloud (US) and 13 additional commercial Regions. CloudWatch log centralization copi...",
       "category": "AWS",
       "source": "AWS What's New"
     },
