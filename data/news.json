@@ -66,18 +66,18 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Bedrock Guardrails now supports Standard tier for contextual grounding checks",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/",
-      "pubDate": "2026-10-20T08:00:00",
-      "description": "<p>Amazon Bedrock Guardrails now offers a Standard tier for contextual grounding checks, which detect and filter hallucinations by checking whether a ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
       "title": "AWS Partner Central launches Program Navigator, Case Study Generator, and streamlined specialization review",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/partner-central-program-navigator/",
       "pubDate": "2026-10-20T08:00:00",
       "description": "<p>AWS Partner Central now features Program Navigator, a unified experience that lets partners discover, apply for, and track AWS Specialization progr...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Bedrock Guardrails now supports Standard tier for contextual grounding checks",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/",
+      "pubDate": "2026-10-20T08:00:00",
+      "description": "<p>Amazon Bedrock Guardrails now offers a Standard tier for contextual grounding checks, which detect and filter hallucinations by checking whether a ...",
       "category": "AWS",
       "source": "AWS What's New"
     },
