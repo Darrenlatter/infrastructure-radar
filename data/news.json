@@ -10,6 +10,22 @@
   ],
   "articles": [
     {
+      "title": "Announcing Amazon ECS Gateway, a managed ingress solution for your ECS services",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/announcing-amazon-ecs-gateway/",
+      "pubDate": "2026-10-20T23:26:00",
+      "description": "<p>AWS announces Amazon Elastic Container Service (Amazon ECS) Gateway, a new resource that simplifies ingress networking for containerized applicatio...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon DynamoDB global tables now support disassociating replicas",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/dynamodb-global-tables-disassociate/",
+      "pubDate": "2026-10-20T23:00:00",
+      "description": "<p><a href=\"https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html\">Amazon DynamoDB</a> global tables now support disassoc...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Polly Generative engine upgraded with more natural speech, 14 new voices, and 2 new languages",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/polly-generative/",
       "pubDate": "2026-10-20T15:32:00",
@@ -50,6 +66,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Amazon Bedrock Guardrails now supports Standard tier for contextual grounding checks",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/",
+      "pubDate": "2026-10-20T08:00:00",
+      "description": "<p>Amazon Bedrock Guardrails now offers a Standard tier for contextual grounding checks, which detect and filter hallucinations by checking whether a ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Partner Central launches Program Navigator, Case Study Generator, and streamlined specialization review",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/partner-central-program-navigator/",
       "pubDate": "2026-10-20T08:00:00",
@@ -58,34 +82,10 @@
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Transform for migrations expands support for existing landing zones",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-migrations-landing-zones/",
+      "title": "Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-prompt-optimization-shortening/",
       "pubDate": "2026-10-20T08:00:00",
-      "description": "<p>AWS Transform now supports more types of existing AWS environments when building landing zones for your migration, including AWS Control Tower land...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Connect Customer Global Resiliency now provides business users visibility into resiliency readiness across linked Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-readiness-overview",
-      "pubDate": "2026-10-19T21:45:00",
-      "description": "<p>Amazon Connect Customer Global Resiliency now provides a Global Resiliency page in the admin website, giving administrators a single place to revie...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon CloudWatch Omni is now available in additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-omni-8-regions/",
-      "pubDate": "2026-10-19T19:10:00",
-      "description": "<p>AWS announces that Amazon CloudWatch Omni is now available in eight additional AWS Regions. CloudWatch Omni is an AI-powered observability experien...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "EC2 Image Builder now integrates with ASG for faster image builds",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-image-builder-asg-faster-builds/",
-      "pubDate": "2026-10-19T17:30:00",
-      "description": "<p>EC2 Image Builder now supports using existing instances from an Auto Scaling Group (ASG) for building images, enabling faster builds by eliminating...",
+      "description": "<p>Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening, an optional setting that reduces the length of your prompt while mainta...",
       "category": "AWS",
       "source": "AWS What's New"
     },
