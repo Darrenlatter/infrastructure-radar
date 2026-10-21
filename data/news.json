@@ -10,6 +10,62 @@
   ],
   "articles": [
     {
+      "title": "AWS Transform adds storage migration assessments for Amazon S3, EBS, EFS, and FSx",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx/",
+      "pubDate": "2026-10-21T19:10:00",
+      "description": "<p><a href=\"https://docs.aws.amazon.com/transform/latest/userguide/transform-app-assessments.html\" target=\"_blank\">Migration assessments in AWS Transf...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Direct Connect announces 100G expansion in Manchester, England",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-manchester/",
+      "pubDate": "2026-10-21T17:21:00",
+      "description": "<p>Today, AWS announced the expansion of 10 Gbps and 100 Gbps dedicated connections with MACsec encryption capabilities at the existing <a href=\"https...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Aurora and Amazon RDS now support On-Demand Capacity Reservations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-aurora-rds-on-demand-capacity-reservations/",
+      "pubDate": "2026-10-21T17:00:00",
+      "description": "<p>Starting today, you can reserve compute capacity for your Amazon Aurora and Amazon RDS DB instances in one or more Availability Zones for as long a...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Cognito extends multi-Region replication to AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cognito-multi-region-us-govcloud/",
+      "pubDate": "2026-10-21T17:00:00",
+      "description": "<p>Amazon Cognito multi-Region replication (MRR) now supports AWS GovCloud (US) Regions, extending the resilience benefits of MRR to more workloads. M...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Beam model by Reflection is now available on Amazon SageMaker JumpStart and AWS Trainium",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium/",
+      "pubDate": "2026-10-21T15:00:00",
+      "description": "<p>Beam, the first open weight model offered by US-based Reflection, is now available in Amazon SageMaker JumpStart, the model hub in Amazon SageMaker...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Neuron 2.33 adds native PyTorch support, Neuron Observer, and other new features",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-neuron-2-33-0",
+      "pubDate": "2026-10-21T15:00:00",
+      "description": "<p>AWS Neuron 2.33 is now available, introducing TorchNeuron, the native PyTorch backend for AWS Trainium, in public beta. You can run models written ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Connect Customer launches two new layouts for agent workspace",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-new-layouts-agent-workspace",
+      "pubDate": "2026-10-21T13:48:00",
+      "description": "<p>Amazon Connect Customer now offers two different layouts that optimize screen space on the agent workspace. Contact center agents spend hours each ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Announcing Amazon ECS Gateway, a managed ingress solution for your ECS services",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/announcing-amazon-ecs-gateway/",
       "pubDate": "2026-10-20T23:26:00",
@@ -26,66 +82,10 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Polly Generative engine upgraded with more natural speech, 14 new voices, and 2 new languages",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/polly-generative/",
-      "pubDate": "2026-10-20T15:32:00",
-      "description": "<p>Today, we are introducing a new model behind the Amazon Polly Generative engine that delivers more natural-sounding, accurate speech output with lo...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS announces TorchNeuron: Native PyTorch Support for AWS Trainium (Public Beta)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-native-pytorch-support-trainium",
-      "pubDate": "2026-10-20T15:00:00",
-      "description": "<p>Today, AWS launched the public beta of TorchNeuron, an open source native PyTorch backend for AWS Trainium. Trainium is a portfolio of AI chips des...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Structured outputs for Claude models available on Amazon Bedrock",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-structured-outputs-bedrock/",
-      "pubDate": "2026-10-20T14:00:00",
-      "description": "<p>Amazon Bedrock now supports structured outputs for all Anthropic Claude models across both the bedrock-runtime and the bedrock-mantle endpoint. Whe...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Clean Rooms now supports Databricks as a data source",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-clean-rooms-supports-databricks",
-      "pubDate": "2026-10-20T12:23:00",
-      "description": "<p>AWS Clean Rooms now supports <a href=\"https://docs.aws.amazon.com/clean-rooms/latest/userguide/prepare-data-databricks.html\" target=\"_blank\">Databr...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS IAM Identity Center simplifies identity source changes from Active Directory",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-center-chg-id-src-from-ad/",
-      "pubDate": "2026-10-20T08:00:00",
-      "description": "<p>AWS IAM Identity Center now retains your workforce identities and their assignments when you change your identity source from Active Directory to a...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Partner Central launches Program Navigator, Case Study Generator, and streamlined specialization review",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/partner-central-program-navigator/",
-      "pubDate": "2026-10-20T08:00:00",
-      "description": "<p>AWS Partner Central now features Program Navigator, a unified experience that lets partners discover, apply for, and track AWS Specialization progr...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Bedrock Guardrails now supports Standard tier for contextual grounding checks",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/",
-      "pubDate": "2026-10-20T08:00:00",
-      "description": "<p>Amazon Bedrock Guardrails now offers a Standard tier for contextual grounding checks, which detect and filter hallucinations by checking whether a ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-prompt-optimization-shortening/",
-      "pubDate": "2026-10-20T08:00:00",
-      "description": "<p>Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening, an optional setting that reduces the length of your prompt while mainta...",
+      "title": "Amazon WorkSpaces simplifies secure AI agent access to enterprise cloud desktops with less infrastructure to operate and manage",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/workspaces-ai-agents-oauth-connection-management",
+      "pubDate": "2026-10-20T17:00:00",
+      "description": "<p>WorkSpaces for AI agents now handles authentication and desktop connections as part of the managed Model Context Protocol (MCP) service, so you can...",
       "category": "AWS",
       "source": "AWS What's New"
     },
