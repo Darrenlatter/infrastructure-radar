@@ -10,6 +10,14 @@
   ],
   "articles": [
     {
+      "title": "AWS announces AWS Interconnect - last mile preview with Megaport",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announces-AWS-interconnect-last-mile-megaport-preview/",
+      "pubDate": "2026-10-22T12:00:00",
+      "description": "<p>AWS launches AWS Interconnect - last mile preview with Megaport, a fully managed connectivity offering that allows customers to connect their branc...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Transform adds storage migration assessments for Amazon S3, EBS, EFS, and FSx",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx/",
       "pubDate": "2026-10-21T19:10:00",
@@ -82,12 +90,28 @@
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Network Firewall now supports Route 53 Resolved IP Validation",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/network-firewall-route-53-ip-validation/",
-      "pubDate": "2026-10-21T08:00:00",
-      "description": "<p>AWS Network Firewall now supports IP validation, extending domain-based filtering beyond HTTP/HTTPS to protocols such as SFTP and SSH. This new cap...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Neutralizing PHP2Shell: Stopping Critical PHP RCEs with VMware vDefend and Avi WAF",
+      "link": "https://blogs.vmware.com/load-balancing/2026/10/22/stop-php-rces-with-vdefend-avi-waf/",
+      "pubDate": "2026-10-22T14:51:40",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"167\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/waf.jpeg?w=300\" wi...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "Protecting Active Directory with VCF",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/22/protecting-active-directory/",
+      "pubDate": "2026-10-22T14:29:11",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/cybersecurity-awar...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "Zero Trust Versus Identity Providers",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/22/zero-trust-identity-providers/",
+      "pubDate": "2026-10-22T14:29:01",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/cybersecurity-awar...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Tenant Connectivity on VCF 9.1: Choosing a Design and Running It in Production (Part 6)",
@@ -142,30 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/10/20/architecting-data-services-for-microsoft-sql-server-on-vmware-cloud-foundation-a-best-practices-guide/",
       "pubDate": "2026-10-20T15:23:52",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"159\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/MS-sql-best-practi...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "A Smarter, More Transparent Way to Forecast Capacity in VMware Cloud Foundation 9.1.1",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/20/a-smarter-more-transparent-way-to-forecast-capacity-in-vcf/",
-      "pubDate": "2026-10-20T13:42:48",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"143\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/word-image-35324-1...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "AI vs. the Fortress: Can Autonomous Agents Breach VMware Security?",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/19/ai-vs-vmware-security/",
-      "pubDate": "2026-10-19T14:16:23",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"138\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/193821142_l.jpg?w=...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Snapshots Are Your Best Friend",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/16/snapshots-are-your-best-friend/",
-      "pubDate": "2026-10-16T22:58:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"151\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/image_6c7a6a.png?w...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
