@@ -66,26 +66,26 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Announcing Amazon ECS Gateway, a managed ingress solution for your ECS services",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/announcing-amazon-ecs-gateway/",
-      "pubDate": "2026-10-20T23:26:00",
-      "description": "<p>AWS announces Amazon Elastic Container Service (Amazon ECS) Gateway, a new resource that simplifies ingress networking for containerized applicatio...",
+      "title": "Amazon S3 server access log delivery to Amazon CloudWatch Logs now available in five additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-s3-server-access-logs-cloudwatch-logs-regions/",
+      "pubDate": "2026-10-21T13:00:00",
+      "description": "<p>Amazon S3 server access log delivery to Amazon CloudWatch Logs is now available in the AWS GovCloud (US) Regions, AWS European Sovereign Cloud, and...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon DynamoDB global tables now support disassociating replicas",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/dynamodb-global-tables-disassociate/",
-      "pubDate": "2026-10-20T23:00:00",
-      "description": "<p><a href=\"https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html\">Amazon DynamoDB</a> global tables now support disassoc...",
+      "title": "Amazon SageMaker AI now supports custom sequence lengths for serverless model customization jobs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-sequence-lengths/",
+      "pubDate": "2026-10-21T08:00:00",
+      "description": "<p>Today, Amazon SageMaker AI announces the ability to configure the sequence length used during your serverless model customization job. Amazon SageM...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon WorkSpaces simplifies secure AI agent access to enterprise cloud desktops with less infrastructure to operate and manage",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/workspaces-ai-agents-oauth-connection-management",
-      "pubDate": "2026-10-20T17:00:00",
-      "description": "<p>WorkSpaces for AI agents now handles authentication and desktop connections as part of the managed Model Context Protocol (MCP) service, so you can...",
+      "title": "AWS Network Firewall now supports Route 53 Resolved IP Validation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/network-firewall-route-53-ip-validation/",
+      "pubDate": "2026-10-21T08:00:00",
+      "description": "<p>AWS Network Firewall now supports IP validation, extending domain-based filtering beyond HTTP/HTTPS to protocols such as SFTP and SSH. This new cap...",
       "category": "AWS",
       "source": "AWS What's New"
     },
