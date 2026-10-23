@@ -10,6 +10,22 @@
   ],
   "articles": [
     {
+      "title": "Amazon Connect Customer now supports customizing the Customer Profiles app on the agent workspace",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-customize-cp",
+      "pubDate": "2026-10-22T21:10:00",
+      "description": "<p>Amazon Connect Customer Profiles now allows administrators to customize which customer data that agents see in the agent workspace, and how it is d...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Continuum for code vulnerabilities is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available",
+      "pubDate": "2026-10-22T21:00:00",
+      "description": "<p>Today, AWS announces the general availability of AWS Continuum for code vulnerabilities. Continuum for code vulnerabilities&nbsp;discovers, validat...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon OpenSearch Serverless now supports a 5-second default refresh interval",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-serverless-supports-5-second-refresh-interval/",
       "pubDate": "2026-10-22T18:34:00",
@@ -34,6 +50,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "AWS Direct Connect announces 100G expansion in Bangalore, India",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-bangalore/",
+      "pubDate": "2026-10-22T16:00:00",
+      "description": "<p>Today, AWS announced the expansion of 100 Gbps dedicated connections at the existing <a href=\"https://aws.amazon.com/directconnect\">AWS Direct Conn...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS announces AWS Interconnect - last mile preview with Megaport",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announces-AWS-interconnect-last-mile-megaport-preview/",
       "pubDate": "2026-10-22T12:00:00",
@@ -50,6 +74,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "AgentCore Gateway now supports Bedrock InvokeModel APIs and model fallback",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-invokemodel-fallback/",
+      "pubDate": "2026-10-22T08:00:00",
+      "description": "<p>Amazon Bedrock AgentCore Gateway now supports the Amazon Bedrock InvokeModel and InvokeModelWithResponseStream APIs on its inference endpoint, alon...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Lambda MicroVMs is now available in 4 additional AWS regions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-microvms-4-additional-regions",
       "pubDate": "2026-10-22T07:06:00",
@@ -58,36 +90,20 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Quick Now Available in the AWS Singapore Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-quick-now-available-in-the-aws-singapore-region/",
-      "pubDate": "2026-10-22T07:00:00",
-      "description": "<p>Amazon Quick is now available in the AWS Asia Pacific (Singapore) region (ap-southeast-1). This launch allows customers in Singapore to access the ...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "VMware Tanzu Platform 11.0: The Agent Platform for VMware Private AI Cloud",
+      "link": "https://blogs.vmware.com/tanzu/vmware-tanzu-platform-11-0-the-agent-platform-for-vmware-private-ai-cloud/",
+      "pubDate": "2026-10-23T00:06:00",
+      "description": "<p>Announcing general availability of VMware Tanzu Platform 11.0, the agent platform for VMware Private AI Cloud and the native platform as a service ...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
-      "title": "AWS Transform adds storage migration assessments for Amazon S3, EBS, EFS, and FSx",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx/",
-      "pubDate": "2026-10-21T19:10:00",
-      "description": "<p><a href=\"https://docs.aws.amazon.com/transform/latest/userguide/transform-app-assessments.html\" target=\"_blank\">Migration assessments in AWS Transf...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Service Reference Information now supports global condition keys, service names, and data plane classification",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-service-reference-information-global-condition-keys-service-names-data-plane/",
-      "pubDate": "2026-10-21T18:00:00",
-      "description": "<p>AWS is expanding programmatic service reference information to help you automate IAM policy management and keep your policies aligned with the late...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Direct Connect announces 100G expansion in Manchester, England",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-manchester/",
-      "pubDate": "2026-10-21T17:21:00",
-      "description": "<p>Today, AWS announced the expansion of 10 Gbps and 100 Gbps dedicated connections with MACsec encryption capabilities at the existing <a href=\"https...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "VCF Breakroom Chats | Ep. 97 \u2013 Enabling GitOps on VMware vSphere Kubernetes Service with Harness",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/22/vcf-breakroom-chats-ep-97-enabling-gitops-on-vmware-vsphere-kubernetes-service-with-harness/",
+      "pubDate": "2026-10-22T23:56:02",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/VCF-Breakroom-Chat...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "The Modern Compute Primitive: Why Declarative VM Management Matters Now (Introducing KubeVM Service)",
@@ -150,22 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/10/20/tenant-connectivity-on-vcf-9-1-when-the-enterprise-must-see-real-workload-addresses-part-4/",
       "pubDate": "2026-10-20T17:23:27",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/ctgw-p4-cover.png?...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Tenant Connectivity on VCF 9.1: When Only Provider Addresses Are Allowed (Part 3)",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/20/tenant-connectivity-on-vcf-9-1-when-only-provider-addresses-are-allowed-part-3/",
-      "pubDate": "2026-10-20T17:22:42",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/ctgw-p3-cover.png?...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Tenant Connectivity on VCF 9.1: What Decides a Packet\u2019s Source Address (Part 2)",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/20/tenant-connectivity-on-vcf-9-1-what-decides-a-packets-source-address-part-2/",
-      "pubDate": "2026-10-20T17:21:48",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/ctgw-p2-cover.png?...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
