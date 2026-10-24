@@ -10,10 +10,10 @@
   ],
   "articles": [
     {
-      "title": "Web Search on AWS Bedrock now supports domain filtering and user location controls",
+      "title": "Web Search on Amazon Bedrock now supports domain filtering and user location controls",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
       "pubDate": "2026-10-23T21:04:00",
-      "description": "<p>Web Search on AWS Bedrock now supports two new controls that give you more precision over the results that ground a model's response: domain filter...",
+      "description": "<p>Web Search on&nbsp;Amazon Bedrock now supports two new controls that give you more precision over the results that ground a model's response: domai...",
       "category": "AWS",
       "source": "AWS What's New"
     },
