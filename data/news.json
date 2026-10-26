@@ -10,84 +10,92 @@
   ],
   "articles": [
     {
-      "title": "Web Search on Amazon Bedrock now supports domain filtering and user location controls",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
-      "pubDate": "2026-10-23T21:04:00",
-      "description": "<p>Web Search on&nbsp;Amazon Bedrock now supports two new controls that give you more precision over the results that ground a model's response: domai...",
+      "title": "OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/",
+      "pubDate": "2026-10-26T18:27:00",
+      "description": "<p>Today, AWS announces the general availability of OpenAI GPT-6.1 Terra on Amazon Bedrock. GPT-6.1 Terra expands the GPT-6 family with a balance of c...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat",
-      "pubDate": "2026-10-23T17:00:00",
-      "description": "<p>Amazon Connect Customer Global Resiliency now provides customers a mechanism to deliver long, persistent chat experiences across linked AWS Regions...",
+      "title": "Amazon WorkSpaces Core Managed Instances now supports ModifyVolume API",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-workspaces-cmi-modifyvolume/",
+      "pubDate": "2026-10-26T18:00:00",
+      "description": "<p>Amazon WorkSpaces Core Managed Instances now supports the ModifyVolume API, which lets you change volume size, volume type, IOPS, or throughput in ...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/",
-      "pubDate": "2026-10-23T15:43:00",
-      "description": "<p>AWS Transit Gateway and AWS Cloud WAN now provide managed one-to-one network address translation (NAT) directly on their attachments, through integ...",
+      "title": "Amazon SageMaker Unified Studio adds light mode support for IDC-based domains",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/smus-light-mode",
+      "pubDate": "2026-10-26T15:32:00",
+      "description": "<p>Today, AWS announces light mode support in Amazon SageMaker Unified Studio for Identity Center (IDC) based domains. Customers can now configure the...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Corretto October 2026 Quarterly Updates",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-october-2026-quarterly-updates",
-      "pubDate": "2026-10-23T14:00:00",
-      "description": "<p>On October 22, 2026 Amazon announced quarterly security and critical updates for Amazon Corretto Long-Term Supported (LTS) versions of OpenJDK. Cor...",
+      "title": "Amazon Connect Customer expands testing and simulation to validate flow action outcomes",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-validate-flow-actions/",
+      "pubDate": "2026-10-26T15:00:00",
+      "description": "<p>Amazon Connect Customer now enables you to validate the outcomes of your customer experience flow actions during testing and simulation. In additio...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon MWAA now available in Mexico (Central) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-mexico-central/",
-      "pubDate": "2026-10-23T08:00:00",
-      "description": "<p>Amazon Managed Workflows for Apache Airflow (Amazon MWAA) Provisioned environments are now available in the Mexico (Central) Region (mx-central-1)....",
+      "title": "Amazon Connect Customer now lets you view metrics by customer lifetime value and repeat-caller status",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-segment/",
+      "pubDate": "2026-10-26T13:47:00",
+      "description": "<p>Now you can view your metrics across customer segments: customer lifetime value (LTV) and repeat callers. See how any metric differs for repeat cal...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon EMR on EKS reduces EMR charge by 30 percent",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/emr-eks-reduces-emr-charge-30-percent/",
-      "pubDate": "2026-10-23T08:00:00",
-      "description": "<p>Amazon EMR announces a reduction of 30 percent in the EMR charge added to EKS when running EMR on EKS. This price decrease applies to both the per-...",
+      "title": "Amazon Connect Customer now measures the outcomes that drive retention and revenue",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-metrics/",
+      "pubDate": "2026-10-26T13:31:00",
+      "description": "<p>Amazon Connect Customer now scores the outcome of your customer interactions. It shows whether the customer left satisfied, is at risk of churning,...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Connect Customer now supports customizing the Customer Profiles app on the agent workspace",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-customize-cp",
-      "pubDate": "2026-10-22T21:10:00",
-      "description": "<p>Amazon Connect Customer Profiles now allows administrators to customize which customer data that agents see in the agent workspace, and how it is d...",
+      "title": "AWS IAM Identity Center now supports cross-Region trusted identity propagation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-iam-identity-center-cross-region-tip/",
+      "pubDate": "2026-10-26T08:00:00",
+      "description": "<p>Trusted identity propagation carries a user's identity with their request, so AWS services can grant permissions based on who the user is and their...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Continuum for code vulnerabilities is now generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available",
-      "pubDate": "2026-10-22T21:00:00",
-      "description": "<p>Today, AWS announces the general availability of AWS Continuum for code vulnerabilities. Continuum for code vulnerabilities&nbsp;discovers, validat...",
+      "title": "AWS EC2 Auto Scaling now supports Launch Before Terminate at account-level to replace instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-auto-scaling-launch-before-terminate/",
+      "pubDate": "2026-10-26T08:00:00",
+      "description": "<p>AWS EC2 Auto Scaling now lets you enable Launch Before Terminate as the default replacement behavior across all Auto Scaling groups in your account...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon OpenSearch Service introduces intelligent ingestion for logs and documents in Amazon S3",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-intelligent-ingestion-logs-documents-s3",
-      "pubDate": "2026-10-22T20:54:00",
-      "description": "<p>Amazon OpenSearch Serverless now offers intelligent ingestion, a fully managed feature that turns logs and documents stored in Amazon S3 into searc...",
+      "title": "AWS Key Management Service now supports ML-KEM for post-quantum key encapsulation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/kms-ml-kem-post-quantum/",
+      "pubDate": "2026-10-26T08:00:00",
+      "description": "<p>AWS Key Management Service (KMS) now supports Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM), a post-quantum cryptography standard under...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon OpenSearch Serverless now supports a 5-second default refresh interval",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-serverless-supports-5-second-refresh-interval/",
-      "pubDate": "2026-10-22T18:34:00",
-      "description": "<p>Starting today, Amazon OpenSearch Serverless reduces the default refresh interval to 5 seconds for both search and vector collections. The refresh ...",
+      "title": "Amazon RDS now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
+      "pubDate": "2026-10-26T07:30:00",
+      "description": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL S...",
       "category": "AWS",
       "source": "AWS What's New"
+    },
+    {
+      "title": "From Open Source to Enterprise: Understanding the VMware Salt API Evolution",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/26/from-open-source-to-enterprise-understanding-the-vmware-salt-api-evolution/",
+      "pubDate": "2026-10-26T17:30:35",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/08/Getty-2172286422.j...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "AI\u6642\u4ee3\u306e\u30d7\u30e9\u30a4\u30d9\u30fc\u30c8\u30af\u30e9\u30a6\u30c9\u591a\u5c64\u9632\u5fa1\uff1a VMware Cloud Foundation\u00ae\u3067\u5b9f\u73fe\u3059\u308b\u4eee\u60f3\u57fa\u76e4\u306e\u5805\u7262\u5316\u3068\u30ea\u30b9\u30af\u4f4e\u6e1b\u7b56\uff08\u7b2c1\u56de\uff09",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/load-balancing/2026/10/22/stop-php-rces-with-vdefend-avi-waf/",
       "pubDate": "2026-10-22T14:51:40",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"167\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/waf.jpeg?w=300\" wi...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Protecting Active Directory with VCF",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/22/protecting-active-directory/",
-      "pubDate": "2026-10-22T14:29:11",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/cybersecurity-awar...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
