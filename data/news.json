@@ -66,18 +66,18 @@
       "source": "AWS What's New"
     },
     {
-      "title": "AWS EC2 Auto Scaling now supports Launch Before Terminate at account-level to replace instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-auto-scaling-launch-before-terminate/",
-      "pubDate": "2026-10-26T08:00:00",
-      "description": "<p>AWS EC2 Auto Scaling now lets you enable Launch Before Terminate as the default replacement behavior across all Auto Scaling groups in your account...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
       "title": "AWS Key Management Service now supports ML-KEM for post-quantum key encapsulation",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/kms-ml-kem-post-quantum/",
       "pubDate": "2026-10-26T08:00:00",
       "description": "<p>AWS Key Management Service (KMS) now supports Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM), a post-quantum cryptography standard under...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS EC2 Auto Scaling now supports Launch Before Terminate at account-level to replace instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-auto-scaling-launch-before-terminate/",
+      "pubDate": "2026-10-26T08:00:00",
+      "description": "<p>AWS EC2 Auto Scaling now lets you enable Launch Before Terminate as the default replacement behavior across all Auto Scaling groups in your account...",
       "category": "AWS",
       "source": "AWS What's New"
     },
