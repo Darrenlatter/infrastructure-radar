@@ -10,6 +10,14 @@
   ],
   "articles": [
     {
+      "title": "Amazon ECR now supports replication backfill for existing container images",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/replication-backfill-amazon-ecr",
+      "pubDate": "2026-10-26T20:24:00",
+      "description": "<p>Amazon Elastic Container Registry (Amazon ECR) now supports replication backfill, enabling you to replicate existing images in your private registr...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/",
       "pubDate": "2026-10-26T18:27:00",
@@ -78,14 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-auto-scaling-launch-before-terminate/",
       "pubDate": "2026-10-26T08:00:00",
       "description": "<p>AWS EC2 Auto Scaling now lets you enable Launch Before Terminate as the default replacement behavior across all Auto Scaling groups in your account...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon RDS now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
-      "pubDate": "2026-10-26T07:30:00",
-      "description": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL S...",
       "category": "AWS",
       "source": "AWS What's New"
     },
