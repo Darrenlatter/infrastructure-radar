@@ -10,84 +10,100 @@
   ],
   "articles": [
     {
-      "title": "Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/",
-      "pubDate": "2026-10-27T23:31:00",
-      "description": "<p><a href=\"https://aws.amazon.com/ecs/\" target=\"_blank\">Amazon Elastic Container Service</a> (Amazon ECS) now supports GPU sharing with NVIDIA Multi-...",
+      "title": "Amazon RDS for Oracle now supports September 2026 Monthly Recommended Patch",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp",
+      "pubDate": "2026-10-28T21:00:00",
+      "description": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now supports the September 2026 Monthly...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "SageMaker MLflow Apps now support MLflow 3.16",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16/",
-      "pubDate": "2026-10-27T20:40:00",
-      "description": "<p>Amazon SageMaker AI MLflow Apps now support MLflow 3.16, bringing a redesigned tracing experience and faster experiment tracking to your generative...",
+      "title": "AWS Lambda supports Seekable OCI (SOCI) lazy loading for Lambda Managed Instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-seekable-oci-soci/",
+      "pubDate": "2026-10-28T18:44:00",
+      "description": "<p>AWS Lambda now supports <a href=\"https://github.com/awslabs/soci-snapshotter\">Seekable OCI (SOCI)</a>&nbsp;for lazy loading <a href=\"https://aws.am...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Aurora serverless now supports up to 384 ACUs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-serverless-supports-384-acu/",
-      "pubDate": "2026-10-27T16:00:00",
-      "description": "<p><a href=\"https://aws.amazon.com/rds/aurora/serverless/\" target=\"_blank\">Amazon Aurora serverless</a> now supports database capacity of up to 384 Au...",
+      "title": "Introducing time series collections for the next generation of Amazon OpenSearch Serverless",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/time-series-collection-next-generation-opensearch-serverless/",
+      "pubDate": "2026-10-28T18:35:00",
+      "description": "<p>Today, we're announcing support for time series collections on the next generation of Amazon OpenSearch Serverless. With time series collections, y...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon ElastiCache for Valkey now supports changing durability on existing clusters",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/elasticache-changing-durability/",
-      "pubDate": "2026-10-27T15:21:00",
-      "description": "<p>Amazon ElastiCache for Valkey now lets you enable or disable durability on your existing node-based clusters without creating a new cluster. Previo...",
+      "title": "Quick now supports smart approvals for agentic actions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/quick-smart-approvals-agentic-actions/",
+      "pubDate": "2026-10-28T18:28:00",
+      "description": "<p>Amazon Quick now supports smart approvals, a review layer that reduces unnecessary approval prompts while preserving human oversight of the actions...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Corretto October 2026 Patch Updates",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-oct-2026-patch-updates",
-      "pubDate": "2026-10-27T14:00:00",
-      "description": "<p>On October 26, 2026 Amazon announced a patch update for the following Amazon Corretto Long-Term Support (LTS) and Feature Release (FR) versions of ...",
+      "title": "Amazon EKS Dashboard now provides fleet-wide visibility into certificate authority (CA) rotation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-dashboard-fleet-wide-visibility-certificate-authority-ca-rotation/",
+      "pubDate": "2026-10-28T18:07:00",
+      "description": "<p>Today, Amazon Elastic Kubernetes Service (Amazon EKS) announces certificate authority (CA) rotation visibility in the Amazon EKS Dashboard, giving ...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Neptune now supports online index rebuild to reclaim storage",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/neptune-online-index-rebuild/",
-      "pubDate": "2026-10-27T08:00:00",
-      "description": "<p><a href=\"https://aws.amazon.com/neptune/\">Amazon Neptune</a> Database now supports online index rebuild, a new capability that helps database admin...",
+      "title": "AWS Lambda durable functions now exports live telemetry for execution insights",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-durable-telemetry/",
+      "pubDate": "2026-10-28T18:00:00",
+      "description": "<p>AWS Lambda announces the Durable Execution Telemetry Exporter plugin for Lambda durable functions. This new observability plugin captures the step-...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon ECR now supports replication backfill for existing container images",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/replication-backfill-amazon-ecr",
-      "pubDate": "2026-10-26T20:24:00",
-      "description": "<p>Amazon Elastic Container Registry (Amazon ECR) now supports replication backfill, enabling you to replicate existing images in your private registr...",
+      "title": "Amazon ECS Managed Instances adds cross-instance and Spot consolidation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-managed-instances-consolidation/",
+      "pubDate": "2026-10-28T18:00:00",
+      "description": "<p>Today, <a href=\"https://aws.amazon.com/ecs/managed-instances/\">Amazon Elastic Container Service (Amazon ECS) Managed Instances</a> introduces two i...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/",
-      "pubDate": "2026-10-26T18:27:00",
-      "description": "<p>Today, AWS announces the general availability of OpenAI GPT-6.1 Terra on Amazon Bedrock. GPT-6.1 Terra expands the GPT-6 family with a balance of c...",
+      "title": "Amazon EKS Auto Mode now supports Kubernetes Gateway API",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-auto-mode-kubernetes-gateway-api/",
+      "pubDate": "2026-10-28T17:33:00",
+      "description": "<p>Amazon EKS Auto Mode now supports the Kubernetes Gateway API, giving customers a standard, portable way to define how traffic reaches their applica...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon WorkSpaces Core Managed Instances now supports ModifyVolume API",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-workspaces-cmi-modifyvolume/",
-      "pubDate": "2026-10-26T18:00:00",
-      "description": "<p>Amazon WorkSpaces Core Managed Instances now supports the ModifyVolume API, which lets you change volume size, volume type, IOPS, or throughput in ...",
+      "title": "AWS Backup adds restore testing support for Amazon Redshift",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-adds-redshift-restore-testing/",
+      "pubDate": "2026-10-28T08:00:00",
+      "description": "<p>AWS Backup restore testing now supports Amazon Redshift. Restore testing helps you automate and periodically run restore tests of your backups, so ...",
       "category": "AWS",
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon IVS Low-Latency Streaming now provides a failover slate",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ivs-low-latency-streaming-failover-slate",
-      "pubDate": "2026-10-26T15:40:00",
-      "description": "<p>Amazon Interactive Video Service (Amazon IVS) Low-Latency Streaming now provides a failover slate, an animated image that IVS displays to viewers w...",
+      "title": "AWS IAM Identity Center's Identity Store now supports change notifications through Amazon EventBridge",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-change-notifications/",
+      "pubDate": "2026-10-28T08:00:00",
+      "description": "<p>AWS IAM Identity Center's Identity Store now delivers real-time events to Amazon EventBridge when users, groups, or group memberships or the identi...",
       "category": "AWS",
       "source": "AWS What's New"
+    },
+    {
+      "title": "New Whitepaper: Architecting a Governed, Multi-Tenant Private AI Cloud with VCF 9",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/28/new-whitepaper-architecting-a-governed-multi-tenant-private-ai-cloud-with-vcf-9/",
+      "pubDate": "2026-10-28T13:00:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/VCFA-Multi-tenancy...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "From Infrastructure to Agents: A Hands-on Guide to Secure Private AI with Broadcom \u2013 Part 4",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/28/from-infrastructure-to-agents-a-hands-on-guide-to-secure-private-ai-with-broadcom-part-4/",
+      "pubDate": "2026-10-28T11:38:02",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Neon-AI-Governance...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "\u5c0e\u5165\u4e8b\u4f8b\uff1a\u30a2\u30a4\u30c6\u30c3\u30af\u962a\u6025\u962a\u795e\u69d8",
@@ -150,22 +166,6 @@
       "link": "https://blogs.vmware.com/tanzu/vmware-tanzu-platform-11-0-the-agent-platform-for-vmware-private-ai-cloud/",
       "pubDate": "2026-10-23T00:06:00",
       "description": "<p>Announcing general availability of VMware Tanzu Platform 11.0, the agent platform for VMware Private AI Cloud and the native platform as a service ...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "VCF Breakroom Chats | Ep. 97 \u2013 Enabling GitOps on VMware vSphere Kubernetes Service with Harness",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/22/vcf-breakroom-chats-ep-97-enabling-gitops-on-vmware-vsphere-kubernetes-service-with-harness/",
-      "pubDate": "2026-10-22T23:56:02",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/VCF-Breakroom-Chat...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "The Modern Compute Primitive: Why Declarative VM Management Matters Now (Introducing KubeVM Service)",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/22/introducing-kubevm-service/",
-      "pubDate": "2026-10-22T18:30:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/KubeVM-Service-Tec...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
