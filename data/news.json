@@ -10,6 +10,22 @@
   ],
   "articles": [
     {
+      "title": "Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/",
+      "pubDate": "2026-10-27T23:31:00",
+      "description": "<p><a href=\"https://aws.amazon.com/ecs/\" target=\"_blank\">Amazon Elastic Container Service</a> (Amazon ECS) now supports GPU sharing with NVIDIA Multi-...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "SageMaker MLflow Apps now support MLflow 3.16",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16/",
+      "pubDate": "2026-10-27T20:40:00",
+      "description": "<p>Amazon SageMaker AI MLflow Apps now support MLflow 3.16, bringing a redesigned tracing experience and faster experiment tracking to your generative...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon Aurora serverless now supports up to 384 ACUs",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-serverless-supports-384-acu/",
       "pubDate": "2026-10-27T16:00:00",
@@ -18,10 +34,26 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Amazon ElastiCache for Valkey now supports changing durability on existing clusters",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/elasticache-changing-durability/",
+      "pubDate": "2026-10-27T15:21:00",
+      "description": "<p>Amazon ElastiCache for Valkey now lets you enable or disable durability on your existing node-based clusters without creating a new cluster. Previo...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon Corretto October 2026 Patch Updates",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-oct-2026-patch-updates",
       "pubDate": "2026-10-27T14:00:00",
       "description": "<p>On October 26, 2026 Amazon announced a patch update for the following Amazon Corretto Long-Term Support (LTS) and Feature Release (FR) versions of ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Neptune now supports online index rebuild to reclaim storage",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/neptune-online-index-rebuild/",
+      "pubDate": "2026-10-27T08:00:00",
+      "description": "<p><a href=\"https://aws.amazon.com/neptune/\">Amazon Neptune</a> Database now supports online index rebuild, a new capability that helps database admin...",
       "category": "AWS",
       "source": "AWS What's New"
     },
@@ -54,38 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ivs-low-latency-streaming-failover-slate",
       "pubDate": "2026-10-26T15:40:00",
       "description": "<p>Amazon Interactive Video Service (Amazon IVS) Low-Latency Streaming now provides a failover slate, an animated image that IVS displays to viewers w...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon SageMaker Unified Studio adds light mode support for IDC-based domains",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/smus-light-mode",
-      "pubDate": "2026-10-26T15:32:00",
-      "description": "<p>Today, AWS announces light mode support in Amazon SageMaker Unified Studio for Identity Center (IDC) based domains. Customers can now configure the...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Connect Customer expands testing and simulation to validate flow action outcomes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-validate-flow-actions/",
-      "pubDate": "2026-10-26T15:00:00",
-      "description": "<p>Amazon Connect Customer now enables you to validate the outcomes of your customer experience flow actions during testing and simulation. In additio...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Connect Customer now lets you view metrics by customer lifetime value and repeat-caller status",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-segment/",
-      "pubDate": "2026-10-26T13:47:00",
-      "description": "<p>Now you can view your metrics across customer segments: customer lifetime value (LTV) and repeat callers. See how any metric differs for repeat cal...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Connect Customer now measures the outcomes that drive retention and revenue",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-metrics/",
-      "pubDate": "2026-10-26T13:31:00",
-      "description": "<p>Amazon Connect Customer now scores the outcome of your customer interactions. It shows whether the customer left satisfied, is at risk of churning,...",
       "category": "AWS",
       "source": "AWS What's New"
     },
