@@ -90,6 +90,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "\u5c0e\u5165\u4e8b\u4f8b\uff1a\u30a2\u30a4\u30c6\u30c3\u30af\u962a\u6025\u962a\u795e\u69d8",
+      "link": "https://blogs.vmware.com/vmware-japan/2026/10/customer-case-studies_itec.html",
+      "pubDate": "2026-10-28T03:30:08",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Getty-1303809341.j...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
       "title": "From Open Source to Enterprise: Understanding the VMware Salt API Evolution",
       "link": "https://blogs.vmware.com/cloud-foundation/2026/10/26/from-open-source-to-enterprise-understanding-the-vmware-salt-api-evolution/",
       "pubDate": "2026-10-26T17:30:35",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/10/22/introducing-kubevm-service/",
       "pubDate": "2026-10-22T18:30:00",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/KubeVM-Service-Tec...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Neutralizing PHP2Shell: Stopping Critical PHP RCEs with VMware vDefend and Avi WAF",
-      "link": "https://blogs.vmware.com/load-balancing/2026/10/22/stop-php-rces-with-vdefend-avi-waf/",
-      "pubDate": "2026-10-22T14:51:40",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"167\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/waf.jpeg?w=300\" wi...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
