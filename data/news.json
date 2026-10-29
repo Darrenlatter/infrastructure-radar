@@ -18,6 +18,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Amazon Bedrock AgentCore CLI version 1.0 is now available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore-cli-version-1-0-available/",
+      "pubDate": "2026-10-28T20:00:00",
+      "description": "<p>AWS announces the general availability of Amazon Bedrock AgentCore CLI version 1.0 (@aws/agentcore 1.0.0), rebuilt with faster startup, a consisten...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Lambda supports Seekable OCI (SOCI) lazy loading for Lambda Managed Instances",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-seekable-oci-soci/",
       "pubDate": "2026-10-28T18:44:00",
@@ -50,18 +58,18 @@
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Lambda durable functions now exports live telemetry for execution insights",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-durable-telemetry/",
-      "pubDate": "2026-10-28T18:00:00",
-      "description": "<p>AWS Lambda announces the Durable Execution Telemetry Exporter plugin for Lambda durable functions. This new observability plugin captures the step-...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
       "title": "Amazon ECS Managed Instances adds cross-instance and Spot consolidation",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-managed-instances-consolidation/",
       "pubDate": "2026-10-28T18:00:00",
       "description": "<p>Today, <a href=\"https://aws.amazon.com/ecs/managed-instances/\">Amazon Elastic Container Service (Amazon ECS) Managed Instances</a> introduces two i...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Lambda durable functions now exports live telemetry for execution insights",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-durable-telemetry/",
+      "pubDate": "2026-10-28T18:00:00",
+      "description": "<p>AWS Lambda announces the Durable Execution Telemetry Exporter plugin for Lambda durable functions. This new observability plugin captures the step-...",
       "category": "AWS",
       "source": "AWS What's New"
     },
@@ -82,12 +90,12 @@
       "source": "AWS What's New"
     },
     {
-      "title": "AWS IAM Identity Center's Identity Store now supports change notifications through Amazon EventBridge",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-change-notifications/",
-      "pubDate": "2026-10-28T08:00:00",
-      "description": "<p>AWS IAM Identity Center's Identity Store now delivers real-time events to Amazon EventBridge when users, groups, or group memberships or the identi...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "The 13-Hour Collapse: Why Frontier AI Demands the End of Periodic Patching",
+      "link": "https://blogs.vmware.com/tanzu/the-13-hour-collapse-why-frontier-ai-demands-the-end-of-periodic-patching/",
+      "pubDate": "2026-10-28T23:49:17",
+      "description": "<p>To survive the era of Frontier AI, patching can no longer be an ad-hoc calendar event. It must become a continuous, automated platform response. Or...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "New Whitepaper: Architecting a Governed, Multi-Tenant Private AI Cloud with VCF 9",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/vmware-japan/2026/10/php2shell-broadcom-jp.html",
       "pubDate": "2026-10-23T06:24:12",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/blog_0605.jpeg?w=3...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "VMware Tanzu Platform 11.0: The Agent Platform for VMware Private AI Cloud",
-      "link": "https://blogs.vmware.com/tanzu/vmware-tanzu-platform-11-0-the-agent-platform-for-vmware-private-ai-cloud/",
-      "pubDate": "2026-10-23T00:06:00",
-      "description": "<p>Announcing general availability of VMware Tanzu Platform 11.0, the agent platform for VMware Private AI Cloud and the native platform as a service ...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
