@@ -58,10 +58,10 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Managed Grafana now supports in-place upgrade to Grafana version 13.2",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/managed-grafana-upgrade-version-13-2/",
+      "title": "ACM now supports ACME for public certificates in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us/",
       "pubDate": "2026-10-29T08:00:00",
-      "description": "<p>Amazon Managed Grafana now supports in-place upgrade from Grafana version 12.4 to 13.2. Upgrading to version 13.2 brings features launched as part ...",
+      "description": "<p>AWS Certificate Manager (ACM) ACME protocol support is now available in AWS GovCloud (US-East) and AWS GovCloud (US-West), providing a fully manage...",
       "category": "AWS",
       "source": "AWS What's New"
     },
@@ -74,20 +74,28 @@
       "source": "AWS What's New"
     },
     {
-      "title": "ACM now supports ACME for public certificates in AWS GovCloud (US)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us/",
-      "pubDate": "2026-10-29T08:00:00",
-      "description": "<p>AWS Certificate Manager (ACM) ACME protocol support is now available in AWS GovCloud (US-East) and AWS GovCloud (US-West), providing a fully manage...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
       "title": "Amazon SageMaker AI now supports SOCI-indexed images to start training jobs in seconds",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-ai-soci-images-training/",
       "pubDate": "2026-10-29T08:00:00",
       "description": "<p>Today, Amazon SageMaker AI announces support for Seekable OCI (SOCI)-indexed container images for training and processing jobs, so your jobs start ...",
       "category": "AWS",
       "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Managed Grafana now supports in-place upgrade to Grafana version 13.2",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/managed-grafana-upgrade-version-13-2/",
+      "pubDate": "2026-10-29T08:00:00",
+      "description": "<p>Amazon Managed Grafana now supports in-place upgrade from Grafana version 12.4 to 13.2. Upgrading to version 13.2 brings features launched as part ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Why VMware Memory Tiering is Not Just Swapping to NVMe",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/30/why-vmware-memory-tiering-is-not-just-swapping-to-nvme/",
+      "pubDate": "2026-10-30T11:00:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/featured-memory-ti...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Eliminating Manual DDLs: Automated Foreign Schema Import in Tanzu Greenplum & PXF",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/vmware-japan/2026/10/ai-private-cloud-defense-in-depth1.html",
       "pubDate": "2026-10-26T05:40:30",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"162\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/word-image-52198-1...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "VCF Helping You Respond to PHP2Shell",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/23/vulnerability-response-vcf-php2shell/",
-      "pubDate": "2026-10-23T13:18:36",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/cybersecurity-awar...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
