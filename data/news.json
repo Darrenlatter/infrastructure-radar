@@ -90,6 +90,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "\u7b2c2\u56de\uff1a\u4eee\u60f3\u30d1\u30c3\u30c1\u3092\u7528\u3044\u305f\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30d1\u30c3\u30c1\u9069\u7528\u307e\u3067\u306e\u300c\u7336\u4e88\u671f\u9593\u300d\u306e\u6d88\u6ec5",
+      "link": "https://blogs.vmware.com/vmware-japan/2026/11/vdefend-virtual-patching-avi-waf.html",
+      "pubDate": "2026-11-02T02:39:03",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"152\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/11/virtual-patching02...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
       "title": "Good Fences, Good Neighbors: Isolating Infrastructure Management",
       "link": "https://blogs.vmware.com/cloud-foundation/2026/10/30/isolating-management-network/",
       "pubDate": "2026-10-30T18:05:07",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/10/28/new-whitepaper-architecting-a-governed-multi-tenant-private-ai-cloud-with-vcf-9/",
       "pubDate": "2026-10-28T13:00:00",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/VCFA-Multi-tenancy...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "From Infrastructure to Agents: A Hands-on Guide to Secure Private AI with Broadcom \u2013 Part 4",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/28/from-infrastructure-to-agents-a-hands-on-guide-to-secure-private-ai-with-broadcom-part-4/",
-      "pubDate": "2026-10-28T11:38:02",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Neon-AI-Governance...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
