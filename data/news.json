@@ -90,6 +90,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Improving Partition Pruning for Cross-Type Joins in Tanzu Greenplum",
+      "link": "https://blogs.vmware.com/tanzu/improving-partition-pruning-for-cross-type-joins-in-tanzu-greenplum/",
+      "pubDate": "2026-11-02T09:38:00",
+      "description": "<p>This technical post on VMware Tanzu Greenplum walks through the changes to GPORCA\u2019s constraint derivation framework that make partition pruning and...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
       "title": "\u7b2c2\u56de\uff1a\u4eee\u60f3\u30d1\u30c3\u30c1\u3092\u7528\u3044\u305f\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30d1\u30c3\u30c1\u9069\u7528\u307e\u3067\u306e\u300c\u7336\u4e88\u671f\u9593\u300d\u306e\u6d88\u6ec5",
       "link": "https://blogs.vmware.com/vmware-japan/2026/11/vdefend-virtual-patching-avi-waf.html",
       "pubDate": "2026-11-02T02:39:03",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/tanzu/the-13-hour-collapse-why-frontier-ai-demands-the-end-of-periodic-patching/",
       "pubDate": "2026-10-28T23:49:17",
       "description": "<p>To survive the era of Frontier AI, patching can no longer be an ad-hoc calendar event. It must become a continuous, automated platform response. Or...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "New Whitepaper: Architecting a Governed, Multi-Tenant Private AI Cloud with VCF 9",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/28/new-whitepaper-architecting-a-governed-multi-tenant-private-ai-cloud-with-vcf-9/",
-      "pubDate": "2026-10-28T13:00:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/VCFA-Multi-tenancy...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
