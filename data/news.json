@@ -10,6 +10,46 @@
   ],
   "articles": [
     {
+      "title": "Amazon Connect Customer lets agents pause and resume emails",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-pause-resume-email/",
+      "pubDate": "2026-11-03T20:15:00",
+      "description": "<p>Amazon Connect Customer lets agents pause emails while waiting for information or approvals, freeing them to handle higher-priority contacts and re...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Connect Customer prefills the email address for new threads started from cases",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-email-addresses/",
+      "pubDate": "2026-11-03T17:00:00",
+      "description": "<p>Amazon Connect Customer automatically fills in the customer\u2019s email address from the linked customer profile when agents start a new email thread f...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Config now supports 10 new resource types",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-new-resource-types",
+      "pubDate": "2026-11-03T16:00:00",
+      "description": "<p>AWS Config now supports 10 additional AWS resource types across key services including Amazon ElastiCache and Amazon QuickSight. This expansion pro...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Transform for mainframe improves the reimagine modernization workflow",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-mainframe-reimagine/",
+      "pubDate": "2026-11-03T08:00:00",
+      "description": "<p>AWS Transform for mainframe now discovers business functions with field-level precision and generates a new requirements coverage report in the ass...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon EKS Capabilities now supports Argo CD Notifications",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-argo-cd-notifications",
+      "pubDate": "2026-11-03T06:00:00",
+      "description": "<p>The Amazon Elastic Kubernetes Service (Amazon EKS) Capability for Argo CD now supports Argo CD Notifications, providing notifications when your app...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/",
       "pubDate": "2026-11-03T00:00:00",
@@ -50,44 +90,12 @@
       "source": "AWS What's New"
     },
     {
-      "title": "AWS Lambda now supports queues for Apache Kafka in self-managed Kafka event sources",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-queue-kafka-esm/",
-      "pubDate": "2026-11-02T17:00:00",
-      "description": "<p>AWS Lambda now supports <a href=\"https://cwiki.apache.org/confluence/spaces/KAFKA/pages/255070434/KIP-932+Queues+for+Kafka\">queues for Apache Kafka...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Aurora MySQL 3.14 (compatible with MySQL 8.0.46) is generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-314-available/",
-      "pubDate": "2026-11-02T17:00:00",
-      "description": "<p>Starting today, Amazon Aurora MySQL-Compatible Edition 3 (compatible with MySQL 8.0) supports MySQL 8.0.46, which includes community MySQL fixes an...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Connect Customer now supports Model Context Protocol (MCP) tools in flows",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-flows-mcp-tools/",
-      "pubDate": "2026-11-02T16:00:00",
-      "description": "<p>Amazon Connect Customer now enables you to invoke Model Context Protocol (MCP) tools in customer experience flows through the new 'External Tool' b...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Connect Customer now supports Cases and External Tool events in the Wait block",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-wait-block-cases-tool-events/",
-      "pubDate": "2026-11-02T16:00:00",
-      "description": "<p>Amazon Connect Customer now supports Cases and External Tool events in the Wait block, giving you more control over how your customer experience fl...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "EC2 Amazon Machine Images can now be scanned for vulnerabilities through Amazon Inspector",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-amis-scanned-through-inspector/",
-      "pubDate": "2026-11-02T08:00:00",
-      "description": "<p>Amazon Inspector now extends its vulnerability scanning to EC2 Amazon Machine Images (AMIs), enabling you to identify software vulnerabilities in y...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "When Production AI Hits a Wall, Private Cloud Is the Way Through",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/11/03/when-production-ai-hits-a-wall-private-cloud-is-the-way-through/",
+      "pubDate": "2026-11-03T14:00:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"230\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/11/Moving-Enterprise-...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "From PHP2Shell Alert to Action: Identify and Patch Your Workloads Using VMware Salt",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/vmware-japan/2026/11/vdefend-virtual-patching-avi-waf.html",
       "pubDate": "2026-11-02T02:39:03",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"152\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/11/virtual-patching02...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Good Fences, Good Neighbors: Isolating Infrastructure Management",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/30/isolating-management-network/",
-      "pubDate": "2026-10-30T18:05:07",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/cybersecurity-awar...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
