@@ -10,6 +10,14 @@
   ],
   "articles": [
     {
+      "title": "Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/",
+      "pubDate": "2026-11-03T00:00:00",
+      "description": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon Relational Database Service (Amazon RDS) for Oracle</a>&nbsp;now supports M8i and R8i instances...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Haiku 5.5 now available on Kiro in AWS GovCloud (US)",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-haiku-5-5-aws-govcloud-us/",
       "pubDate": "2026-11-02T20:45:00",
@@ -82,12 +90,44 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Textract now available in Asia Pacific (Tokyo) and Europe (Zurich)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/textract-tokyo-zurich/",
-      "pubDate": "2026-11-02T08:00:00",
-      "description": "<p>Amazon Textract is now available in the Asia Pacific (Tokyo) and Europe (Zurich) Regions. Amazon Textract is a machine learning service that automa...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "From PHP2Shell Alert to Action: Identify and Patch Your Workloads Using VMware Salt",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/11/03/php2shell-alert-to-action-using-vmware-salt/",
+      "pubDate": "2026-11-03T13:00:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Neon-AI-Governance...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "Step Into the Spotlight: Submit to Speak at VMware Explore 2027",
+      "link": "https://blogs.vmware.com/explore/apply-to-speak-at-vmware-explore/",
+      "pubDate": "2026-11-03T12:00:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/11/vmwx27-explore-CFP...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "Optimizing Columnar Storage in Tanzu Greenplum, Part 2: Accelerating Hash Joins with Early Join Filtering",
+      "link": "https://blogs.vmware.com/tanzu/optimizing-columnar-storage-in-tanzu-greenplum-part-2-accelerating-hash-joins-with-early-join-filtering/",
+      "pubDate": "2026-11-03T05:29:30",
+      "description": "<p>This post walks through Early Join Filtering (EJF) in Tanzu Greenplum 7.9. This extends the &#8220;read less, decide early&#8221; architecture to h...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "Optimizing Columnar Storage in Tanzu Greenplum, Part 1: Accelerating Filters with Implied Indexing",
+      "link": "https://blogs.vmware.com/tanzu/optimizing-columnar-storage-in-tanzu-greenplum-part-1-accelerating-filters-with-implied-indexing/",
+      "pubDate": "2026-11-03T04:36:29",
+      "description": "<p>Tanzu Greenplum&#8217;s AO Columnar Store is already designed for efficient, high-speed analytics by eliminating the need for storage-intensive ind...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "Lakehouse Analytics: Querying & Ingesting Apache Iceberg Data with Tanzu Greenplum",
+      "link": "https://blogs.vmware.com/tanzu/lakehouse-analytics-querying-ingesting-apache-iceberg-data-with-tanzu-greenplum/",
+      "pubDate": "2026-11-03T00:02:19",
+      "description": "<p>Technial post shows users how PXF 8 allows Tanzu Greenplum to directly access Iceberg tables stored in cloud object stores to facilitate reading Ap...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "Introducing VMware Cloud Foundation Telco: Unified Platform for Telco-Grade Infrastructure",
@@ -125,46 +165,6 @@
       "title": "Good Fences, Good Neighbors: Isolating Infrastructure Management",
       "link": "https://blogs.vmware.com/cloud-foundation/2026/10/30/isolating-management-network/",
       "pubDate": "2026-10-30T18:05:07",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/cybersecurity-awar...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Workloads Keeping Secrets: Confidential Computing",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/30/confidential-computing/",
-      "pubDate": "2026-10-30T15:28:27",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/cybersecurity-awar...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "\u30d7\u30e9\u30a4\u30d9\u30fc\u30c8\u30af\u30e9\u30a6\u30c9\u3067\u5b9f\u73fe\u3059\u308b\u6b21\u4e16\u4ee3 DBaaS \u306e\u5168\u8c8c \u301cVMware\u00ae Data Services Manager (DSM) 9.1 \u5fb9\u5e95\u89e3\u5256  \u301c",
-      "link": "https://blogs.vmware.com/vmware-japan/2026/10/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%99%E3%83%BC%E3%83%88%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%81%A7%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E6%AC%A1%E4%B8%96%E4%BB%A3-dbaas-%E3%81%AE%E5%85%A8%E8%B2%8C.html",
-      "pubDate": "2026-10-30T13:05:07",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"292\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/dsm-vintage-2-e178...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Why VMware Memory Tiering is Not Just Swapping to NVMe",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/30/why-vmware-memory-tiering-is-not-just-swapping-to-nvme/",
-      "pubDate": "2026-10-30T11:00:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/featured-memory-ti...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Eliminating Manual DDLs: Automated Foreign Schema Import in Tanzu Greenplum & PXF",
-      "link": "https://blogs.vmware.com/tanzu/eliminating-manual-ddls-automated-foreign-schema-import-in-tanzu-greenplum-pxf/",
-      "pubDate": "2026-10-30T00:38:36",
-      "description": "<p>Enterprises now manage vast amounts of data across relational databases, data warehouses, and cloud object stores with open table formats like Apac...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Security Features Inside the Virtual Machine",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/10/29/vm-security-features/",
-      "pubDate": "2026-10-29T15:32:08",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"150\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/cybersecurity-awar...",
       "category": "VMware",
       "source": "VMware Blogs"
