@@ -18,6 +18,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Amazon WorkSpaces for AI agents now supports Linux and Windows 11 cloud desktops",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-ai-agents-linux-windows-11",
+      "pubDate": "2026-11-03T18:00:00",
+      "description": "<p>WorkSpaces for AI agents now supports Linux and Windows 11 cloud desktops, in addition to Windows Server. You can run each AI agent on the operatin...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon Connect Customer prefills the email address for new threads started from cases",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-email-addresses/",
       "pubDate": "2026-11-03T17:00:00",
@@ -82,12 +90,12 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Quick on desktop now uses your organization's existing Amazon Quick sign-in",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-quick-desktop-organization-sign-in/",
-      "pubDate": "2026-11-02T18:36:00",
-      "description": "<p>For organizations that use Amazon Quick, the desktop application now signs users in with the same sign-in method the organization already uses for ...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "\u5c0e\u5165\u4e8b\u4f8b\uff1a\u798f\u5ca1\u3072\u3073\u304d\u4fe1\u7528\u91d1\u5eab\u69d8",
+      "link": "https://blogs.vmware.com/vmware-japan/2026/11/custome-case-studies-fukuoka.html",
+      "pubDate": "2026-11-04T05:20:45",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"223\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/11/\u672c\u5e972-1.jpg?w=300\" w...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "What\u2019s Coming Next: VMware Cloud on AWS SDDC Upgrade to Version 9.1",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/11/02/introducing-vmware-cloud-foundation-telco/",
       "pubDate": "2026-11-02T15:00:00",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/VCFA-Multi-tenancy...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "VMware vSphere Kubernetes Service 3.8: Advancing AI and Modern Workloads in Private Cloud",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/11/02/vks-3-8-advancing-ai-modern-workloads-private-cloud/",
-      "pubDate": "2026-11-02T14:00:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"161\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Getty-1420039843.j...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
