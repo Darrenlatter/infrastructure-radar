@@ -10,6 +10,78 @@
   ],
   "articles": [
     {
+      "title": "Amazon ECS Managed Daemons can now collect json-file logs from application containers on Amazon ECS Managed Instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ecs-managed-instances-json-file-log-driver/",
+      "pubDate": "2026-11-04T21:29:00",
+      "description": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service</a> (Amazon ECS) introduces json-file log driver support for Amazon ECS Mana...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon DocumentDB (with MongoDB compatibility) is now available in the Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-documentdb-mongodb-compatibility-asia-pacific-taipei-new-zealand-regions/",
+      "pubDate": "2026-11-04T19:00:00",
+      "description": "<p>Amazon DocumentDB (with MongoDB compatibility) is now available in the Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions, adding to the ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon RDS for Oracle now supports copying option groups during cross-Region snapshot copy",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-oracle-cross-region-snapshot-copy-option-group/",
+      "pubDate": "2026-11-04T18:40:00",
+      "description": "<p>Amazon RDS for Oracle now lets you copy the option group associated with a DB snapshot when you copy that snapshot to another AWS Region.</p> \n<p>A...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS announces AWS Interconnect - last mile preview with Equinix",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-preview-equinix/",
+      "pubDate": "2026-11-04T17:00:00",
+      "description": "<p>AWS Interconnect - last mile is now available in preview with Equinix. You can connect your infrastructure across Equinix's global network of 282 d...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Connect Customer now shows associated cases in contact records",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-contact-records/",
+      "pubDate": "2026-11-04T17:00:00",
+      "description": "<p>Amazon Connect Customer now includes case IDs and reference numbers in contact records, helping supervisors and analysts understand which customer ...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon EC2 and VPC now display related resources for all resource types",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-vpc-related-resources-all-types/",
+      "pubDate": "2026-11-04T08:00:00",
+      "description": "<p>Amazon Elastic Compute Cloud (Amazon EC2), Amazon Virtual Private Cloud (Amazon VPC), and AWS Global View now display related resources for all res...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS DataSync Enhanced mode supports OpenID Connect (OIDC) for Google Cloud and Microsoft Azure",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/datasync-enhanced-oidc-google-azure/",
+      "pubDate": "2026-11-04T08:00:00",
+      "description": "<p>AWS DataSync Enhanced mode now supports OpenID Connect (OIDC) authentication for Google Cloud Storage and Microsoft Azure Blob Storage locations. D...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "RHEL 10, Rocky 10 and Ubuntu 26.04 Bundles for WorkSpaces",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rhel-10-rocky-10-ubuntu-26-04-workspaces/",
+      "pubDate": "2026-11-04T08:00:00",
+      "description": "<p>AWS announces new Linux bundles for Amazon WorkSpaces Personal, including Rocky Linux 10, Red Hat Enterprise Linux 10, and Ubuntu 26.04 LTS. With t...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "New features for Amazon EC2 Capacity Manager",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-manager-supportability-and-fulfillment/",
+      "pubDate": "2026-11-04T07:00:00",
+      "description": "<p>Amazon EC2 Capacity Manager now offers real-time supportability checks and capacity fulfillment metrics. Real-time supportability checks help custo...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Amazon Connect Customer lets agents pause and resume emails",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-pause-resume-email/",
       "pubDate": "2026-11-03T20:15:00",
@@ -18,76 +90,20 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon WorkSpaces for AI agents now supports Linux and Windows 11 cloud desktops",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-ai-agents-linux-windows-11",
-      "pubDate": "2026-11-03T18:00:00",
-      "description": "<p>WorkSpaces for AI agents now supports Linux and Windows 11 cloud desktops, in addition to Windows Server. You can run each AI agent on the operatin...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Broadcom Updates VMware Portfolio to Protect and Accelerate Private AI Cloud Deployments",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/11/04/broadcom-vcf-portfolio-updates/",
+      "pubDate": "2026-11-04T17:00:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"165\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/11/115079136_xl.jpg?w...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
-      "title": "Amazon Connect Customer prefills the email address for new threads started from cases",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-email-addresses/",
-      "pubDate": "2026-11-03T17:00:00",
-      "description": "<p>Amazon Connect Customer automatically fills in the customer\u2019s email address from the linked customer profile when agents start a new email thread f...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Config now supports 10 new resource types",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-new-resource-types",
-      "pubDate": "2026-11-03T16:00:00",
-      "description": "<p>AWS Config now supports 10 additional AWS resource types across key services including Amazon ElastiCache and Amazon QuickSight. This expansion pro...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon RDS now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
-      "pubDate": "2026-11-03T08:30:00",
-      "description": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now supports the...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Transform for mainframe improves the reimagine modernization workflow",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-mainframe-reimagine/",
-      "pubDate": "2026-11-03T08:00:00",
-      "description": "<p>AWS Transform for mainframe now discovers business functions with field-level precision and generates a new requirements coverage report in the ass...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon EKS Capabilities now supports Argo CD Notifications",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-argo-cd-notifications",
-      "pubDate": "2026-11-03T06:00:00",
-      "description": "<p>The Amazon Elastic Kubernetes Service (Amazon EKS) Capability for Argo CD now supports Argo CD Notifications, providing notifications when your app...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/",
-      "pubDate": "2026-11-03T00:00:00",
-      "description": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon Relational Database Service (Amazon RDS) for Oracle</a>&nbsp;now supports M8i and R8i instances...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Haiku 5.5 now available on Kiro in AWS GovCloud (US)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-haiku-5-5-aws-govcloud-us/",
-      "pubDate": "2026-11-02T20:45:00",
-      "description": "<p>A new Anthropic model is now available in the Kiro IDE and CLI for the AWS GovCloud (US) Regions. With Haiku 5.5, all three Claude 5.5 models are n...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon RDS now supports per snapshot billing",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-per-snapshot-billing/",
-      "pubDate": "2026-11-02T18:43:00",
-      "description": "<p>Starting today, Amazon RDS supports per snapshot billing for Amazon RDS snapshots. Per snapshot billing allows you to get the cost of each individu...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "Demystifying VCF Automation Node Architecture & Load Balancing",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/11/04/demystifying-vcf-automation-node-architecture-load-balancing/",
+      "pubDate": "2026-11-04T14:00:00",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"197\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/11/VCF-Automation-HA-...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "\u5c0e\u5165\u4e8b\u4f8b\uff1a\u798f\u5ca1\u3072\u3073\u304d\u4fe1\u7528\u91d1\u5eab\u69d8",
@@ -150,22 +166,6 @@
       "link": "https://blogs.vmware.com/tanzu/optimizing-columnar-storage-in-tanzu-greenplum-part-1-accelerating-filters-with-implied-indexing/",
       "pubDate": "2026-11-03T04:36:29",
       "description": "<p>Tanzu Greenplum&#8217;s AO Columnar Store is already designed for efficient, high-speed analytics by eliminating the need for storage-intensive ind...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Lakehouse Analytics: Querying & Ingesting Apache Iceberg Data with Tanzu Greenplum",
-      "link": "https://blogs.vmware.com/tanzu/lakehouse-analytics-querying-ingesting-apache-iceberg-data-with-tanzu-greenplum/",
-      "pubDate": "2026-11-03T00:02:19",
-      "description": "<p>Technial post shows users how PXF 8 allows Tanzu Greenplum to directly access Iceberg tables stored in cloud object stores to facilitate reading Ap...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Introducing VMware Cloud Foundation Telco: Unified Platform for Telco-Grade Infrastructure",
-      "link": "https://blogs.vmware.com/cloud-foundation/2026/11/02/introducing-vmware-cloud-foundation-telco/",
-      "pubDate": "2026-11-02T15:00:00",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"200\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/VCFA-Multi-tenancy...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
