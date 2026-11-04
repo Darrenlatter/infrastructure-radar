@@ -34,6 +34,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Amazon RDS now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
+      "pubDate": "2026-11-03T08:30:00",
+      "description": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now supports the...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Transform for mainframe improves the reimagine modernization workflow",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-mainframe-reimagine/",
       "pubDate": "2026-11-03T08:00:00",
@@ -82,12 +90,20 @@
       "source": "AWS What's New"
     },
     {
-      "title": "Amazon Aurora MySQL 8.4.10 is now generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-8410-available/",
-      "pubDate": "2026-11-02T17:00:00",
-      "description": "<p>Starting today, <a href=\"https://aws.amazon.com/rds/aurora/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Aurora MySQL-Compatible Edition</a> 8...",
-      "category": "AWS",
-      "source": "AWS What's New"
+      "title": "What\u2019s Coming Next: VMware Cloud on AWS SDDC Upgrade to Version 9.1",
+      "link": "https://blogs.vmware.com/cloud-foundation/2026/11/03/whats-coming-next-vmware-cloud-on-aws-sddc-upgrade-to-version-9-1/",
+      "pubDate": "2026-11-04T02:46:21",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"168\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/11/VMC-AWS-5.png?w=29...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
+      "title": "Announcing AI-Ready Data Foundations in Tanzu Platform: Trusted Data for Reliable Agentic AI",
+      "link": "https://blogs.vmware.com/tanzu/announcing-ai-ready-data-foundations-in-tanzu-platform-trusted-data-for-reliable-agentic-ai/",
+      "pubDate": "2026-11-03T21:47:32",
+      "description": "<p>To help organizations address the challenges of safe enterprise data access posed by autonomous AI agents, we are thrilled to announce general avai...",
+      "category": "VMware",
+      "source": "VMware Blogs"
     },
     {
       "title": "When Production AI Hits a Wall, Private Cloud Is the Way Through",
@@ -150,22 +166,6 @@
       "link": "https://blogs.vmware.com/cloud-foundation/2026/11/02/vks-3-8-advancing-ai-modern-workloads-private-cloud/",
       "pubDate": "2026-11-02T14:00:00",
       "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"161\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/10/Getty-1420039843.j...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Improving Partition Pruning for Cross-Type Joins in Tanzu Greenplum",
-      "link": "https://blogs.vmware.com/tanzu/improving-partition-pruning-for-cross-type-joins-in-tanzu-greenplum/",
-      "pubDate": "2026-11-02T09:38:00",
-      "description": "<p>This technical post on VMware Tanzu Greenplum walks through the changes to GPORCA\u2019s constraint derivation framework that make partition pruning and...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "\u7b2c2\u56de\uff1a\u4eee\u60f3\u30d1\u30c3\u30c1\u3092\u7528\u3044\u305f\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30d1\u30c3\u30c1\u9069\u7528\u307e\u3067\u306e\u300c\u7336\u4e88\u671f\u9593\u300d\u306e\u6d88\u6ec5",
-      "link": "https://blogs.vmware.com/vmware-japan/2026/11/vdefend-virtual-patching-avi-waf.html",
-      "pubDate": "2026-11-02T02:39:03",
-      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"152\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/11/virtual-patching02...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
