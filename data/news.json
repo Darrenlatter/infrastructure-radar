@@ -66,6 +66,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "Amazon S3 Tables now provide a simple, cost-effective path for data lake modernization",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-tables-managed-migration-hive-to-iceberg/",
+      "pubDate": "2026-11-04T08:00:00",
+      "description": "<p>Amazon S3 Tables now offer managed migration of your Apache Hive tables to Apache Iceberg. Iceberg adds ACID transactions, schema evolution, and ti...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "RHEL 10, Rocky 10 and Ubuntu 26.04 Bundles for WorkSpaces",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rhel-10-rocky-10-ubuntu-26-04-workspaces/",
       "pubDate": "2026-11-04T08:00:00",
@@ -78,14 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-manager-supportability-and-fulfillment/",
       "pubDate": "2026-11-04T07:00:00",
       "description": "<p>Amazon EC2 Capacity Manager now offers real-time supportability checks and capacity fulfillment metrics. Real-time supportability checks help custo...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Connect Customer lets agents pause and resume emails",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-pause-resume-email/",
-      "pubDate": "2026-11-03T20:15:00",
-      "description": "<p>Amazon Connect Customer lets agents pause emails while waiting for information or approvals, freeing them to handle higher-priority contacts and re...",
       "category": "AWS",
       "source": "AWS What's New"
     },
