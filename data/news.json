@@ -90,6 +90,14 @@
       "source": "AWS What's New"
     },
     {
+      "title": "VCF 9 \u3067\u5b8c\u9042\u3059\u308b\u30e1\u30a4\u30f3\u30d5\u30ec\u30fc\u30e0\u30fb\u30e2\u30c0\u30ca\u30a4\u30bc\u30fc\u30b7\u30e7\u30f3#2",
+      "link": "https://blogs.vmware.com/vmware-japan/2026/11/vcf9_mainframe_2.html",
+      "pubDate": "2026-11-05T05:49:52",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"292\" src=\"https://blogs.vmware.com/wp-content/uploads/2026/09/\u30b9\u30af\u30ea\u30fc\u30f3\u30b7\u30e7\u30c3\u30c8-2026-09-...",
+      "category": "VMware",
+      "source": "VMware Blogs"
+    },
+    {
       "title": "Broadcom Updates VMware Portfolio to Protect and Accelerate Private AI Cloud Deployments",
       "link": "https://blogs.vmware.com/cloud-foundation/2026/11/04/broadcom-vcf-portfolio-updates/",
       "pubDate": "2026-11-04T17:00:00",
@@ -158,14 +166,6 @@
       "link": "https://blogs.vmware.com/tanzu/optimizing-columnar-storage-in-tanzu-greenplum-part-2-accelerating-hash-joins-with-early-join-filtering/",
       "pubDate": "2026-11-03T05:29:30",
       "description": "<p>This post walks through Early Join Filtering (EJF) in Tanzu Greenplum 7.9. This extends the &#8220;read less, decide early&#8221; architecture to h...",
-      "category": "VMware",
-      "source": "VMware Blogs"
-    },
-    {
-      "title": "Optimizing Columnar Storage in Tanzu Greenplum, Part 1: Accelerating Filters with Implied Indexing",
-      "link": "https://blogs.vmware.com/tanzu/optimizing-columnar-storage-in-tanzu-greenplum-part-1-accelerating-filters-with-implied-indexing/",
-      "pubDate": "2026-11-03T04:36:29",
-      "description": "<p>Tanzu Greenplum&#8217;s AO Columnar Store is already designed for efficient, high-speed analytics by eliminating the need for storage-intensive ind...",
       "category": "VMware",
       "source": "VMware Blogs"
     }
