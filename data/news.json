@@ -10,6 +10,62 @@
   ],
   "articles": [
     {
+      "title": "Agent Registry is now generally available in AWS GovCloud (US-West) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-agent-registry-govcloud-us-west/",
+      "pubDate": "2026-11-06T19:48:00",
+      "description": "<p>AWS Agent Registry, available through Amazon Bedrock AgentCore, is now available in the AWS GovCloud (US-West) Region.</p> \n<p>AWS Agent Registry i...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon MSK Replicator is now available in AWS GovCloud (US-East, US-West) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-replicator-additional-aws-regions",
+      "pubDate": "2026-11-06T16:00:00",
+      "description": "<p>You can now use Amazon MSK Replicator in the AWS GovCloud (US-East, US-West) Regions to replicate streaming data across <a href=\"https://aws.amazon...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Redshift expands SUPER data type to store strings up to 16 million bytes",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-redshift-expands-super-to-16-million-bytes/",
+      "pubDate": "2026-11-06T16:00:00",
+      "description": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> now supports individual strings up to 16 million bytes within <a href=\"https://docs....",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS launches support for amortization of EC2 Capacity Blocks for ML",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ec2-capacity-blocks-ml/",
+      "pubDate": "2026-11-06T15:00:00",
+      "description": "<p>AWS Data Exports for Cost and Usage Report (CUR) 2.0 and AWS Cost Explorer now amortize the upfront fee for Amazon EC2 Capacity Blocks for ML acros...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations in AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/capacity-reservation-resource-groups-support-in-aws-govcloud-regions",
+      "pubDate": "2026-11-06T14:00:00",
+      "description": "<p>Starting today, you can add Amazon EC2 Capacity Blocks for ML and interruptible Capacity Reservations to Capacity Reservation Resource Groups in AW...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "Amazon Simple Email Service is now available in six new AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-simple-email-service-new-aws-regions/",
+      "pubDate": "2026-11-06T08:00:00",
+      "description": "<p><a href=\"https://aws.amazon.com/ses/\">Amazon Simple Email Service (Amazon SES)&nbsp;</a> is now available in the Asia Pacific (New Zealand, Melbour...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
+      "title": "AWS Glue Data Catalog now supports catalog-vended credentials with Apache Iceberg REST catalog federation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/glue-catalog-vended-credentials-iceberg/",
+      "pubDate": "2026-11-06T08:00:00",
+      "description": "<p>AWS Glue Data Catalog now supports external catalog's vended credentials in Apache Iceberg REST catalog federation. You can now read external Icebe...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Security Hub now provides an SBOM inventory for your compute resources",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/",
       "pubDate": "2026-11-06T00:30:00",
@@ -30,62 +86,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-answer-amazon-bedrock/",
       "pubDate": "2026-11-05T20:56:00",
       "description": "<p>Today, we are announcing the general availability of Web Answer on Amazon Bedrock AgentCore. Web Answer is a managed tool that returns a synthesize...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Network Load Balancer is now available in the AWS Phoenix Local Zone",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-nlb-available-phx-local-zone/",
-      "pubDate": "2026-11-05T20:00:00",
-      "description": "<p>AWS Network Load Balancer is now available in the Phoenix Local Zone (us-west-2-phx-2a). AWS Local Zones is a type of AWS infrastructure deployment...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon DynamoDB now supports bulk put items",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-dynamodb-now-supports-bulk-put-items/",
-      "pubDate": "2026-11-05T18:00:00",
-      "description": "<p>Today, AWS announces the general availability of bulk put items for Amazon DynamoDB, a fully managed feature that writes data from Amazon S3 into y...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon Cognito announces 99.99% Service Level Agreement for the Plus feature plan",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cognito-sla-update/",
-      "pubDate": "2026-11-05T18:00:00",
-      "description": "<p>Starting November 1, 2026, the Amazon Cognito Service Level Agreement (SLA) commits to a Monthly Uptime Percentage of 99.99% for user pools on the ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "IAM Roles Anywhere now supports automatic certificate revocation checking",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-cdp/",
-      "pubDate": "2026-11-05T17:38:00",
-      "description": "<p><a href=\"https://aws.amazon.com/iam/roles-anywhere\">AWS Identity and Access Management (IAM) Roles Anywhere</a> now supports automatic revocation c...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon OpenSearch Service optimized engine now supports agent traces",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-support-traces",
-      "pubDate": "2026-11-05T17:00:00",
-      "description": "<p>Today, the Amazon OpenSearch Service optimized engine adds support for agent traces, including OpenTelemetry traces. Your traces and logs now live ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon FSx for Lustre delivers 16x higher metadata IOPS on Intelligent-Tiering file systems",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-fsx-for-lustre-intelligent-tiering-16x-higher-metadata-iops",
-      "pubDate": "2026-11-05T15:39:00",
-      "description": "<p><a></a><a href=\"https://aws.amazon.com/fsx/lustre/\">Amazon FSx for Lustre</a> now supports up to 192,000 metadata I/O operations per second (IOPS) ...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Amazon RDS for Oracle now supports Kerberos authentication with self-managed Active Directory",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-kerberos-self-managed-ad/",
-      "pubDate": "2026-11-05T10:30:00",
-      "description": "<p>Amazon Relational Database Service (Amazon RDS) for Oracle (<a href=\"https://aws.amazon.com/rds/oracle/\">Amazon Relational Database Service (Amazon...",
       "category": "AWS",
       "source": "AWS What's New"
     },
