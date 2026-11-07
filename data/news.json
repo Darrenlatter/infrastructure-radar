@@ -10,6 +10,14 @@
   ],
   "articles": [
     {
+      "title": "Kimi K3.1 Pro (Highspeed) now available on Amazon Bedrock",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock",
+      "pubDate": "2026-11-06T22:47:00",
+      "description": "<p>Today, Kimi K3.1 Pro from Moonshot AI is available on Amazon Bedrock, expanding our open weight model portfolio with the security and governance th...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "Agent Registry is now generally available in AWS GovCloud (US-West) Region",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-agent-registry-govcloud-us-west/",
       "pubDate": "2026-11-06T19:48:00",
@@ -66,26 +74,18 @@
       "source": "AWS What's New"
     },
     {
+      "title": "AWS Elemental MediaConvert adds a native integration with AWS Elemental Inference Smart Subtitles",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/mediaconvert-elemental-smart-subtitles/",
+      "pubDate": "2026-11-06T08:00:00",
+      "description": "<p>\u200b\u200bAWS Elemental MediaConvert now integrates Smart Subtitles, an AI-powered subtitling solution built on AWS Elemental Inference and the latest spee...",
+      "category": "AWS",
+      "source": "AWS What's New"
+    },
+    {
       "title": "AWS Security Hub now provides an SBOM inventory for your compute resources",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/",
       "pubDate": "2026-11-06T00:30:00",
       "description": "<p>Today, AWS announces that AWS Security Hub now provides a Software Bill of Materials (SBOM) inventory, giving central security teams a continuously...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "AWS Interconnect - last mile announces new metro in Northern Virginia, USA",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-northern-virginia/",
-      "pubDate": "2026-11-05T21:30:00",
-      "description": "<p>Today, AWS announced a new AWS Interconnect - last mile metro in Northern Virginia, USA. Northern Virginia joins New York as the second metro where...",
-      "category": "AWS",
-      "source": "AWS What's New"
-    },
-    {
-      "title": "Announcing Web Answer on Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-answer-amazon-bedrock/",
-      "pubDate": "2026-11-05T20:56:00",
-      "description": "<p>Today, we are announcing the general availability of Web Answer on Amazon Bedrock AgentCore. Web Answer is a managed tool that returns a synthesize...",
       "category": "AWS",
       "source": "AWS What's New"
     },
